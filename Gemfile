@@ -7,7 +7,7 @@ gem 'rails', '4.0.4'
 # gem 'sqlite3'
 
 # Use postgres as the database for Active Record
-# gem 'pg'
+gem 'pg'
 
 gem 'bootstrap-sass'
 gem 'bcrypt'
