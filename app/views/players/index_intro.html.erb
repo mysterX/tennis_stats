@@ -1,0 +1,8 @@
+<h1>Search for tennis players</h1>
+
+<%= form_tag(players_path, :method => "get", id: "search-form") do %>
+<p>
+  <%= text_field_tag :search, params[:search], placeholder: "Search Players" %>
+  <%= submit_tag "Search", :name => nil %>
+</p>
+<% end %>

@@ -63,7 +63,6 @@ class Player < ActiveRecord::Base
   end
 
   def fillFromRow(row)
-#    debugger
     self.player_id = row.fetch("Player Id", self.player_id)
     self.first_name = row.fetch("First Name", self.first_name)
     self.last_name = row.fetch("Last Name", self.last_name)
@@ -74,6 +73,13 @@ class Player < ActiveRecord::Base
     self.dob = row.fetch("DOB", self.dob)
     self.hand = row.fetch("Hand", self.hand)
     self.backhand = row.fetch("Backhand", self.backhand)
-#    self
+  end
+
+  def self.search(crit)
+    if !crit.nil? and crit != ""
+      where(player_id: crit.downcase).order("last_name, first_name")
+    else
+      all.order("last_name, first_name")
+    end
   end
 end
