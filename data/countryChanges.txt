@@ -1,0 +1,26 @@
+Was: Bosnia Herzegovina
+Is: Bosnia and Herzegovina
+
+Was: Iran
+Is: Iran (Islamic Republic of)
+
+Was: South Korea
+Is: Korea (Republic of)
+
+Was: italy
+Is: Italy
+
+Was: Russia
+Is: Russian Federation
+
+Was: CIS
+Is: Russian Federation
+
+Was: West Germany
+Is: Germany
+
+Was: UK
+Is: United Kingdom
+
+Was: USA
+Is: United States

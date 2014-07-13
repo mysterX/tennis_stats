@@ -40,7 +40,6 @@ class Player < ActiveRecord::Base
   end
 
   def self.importCsv(file)
-#    debugger
     spreadsheet = open_spreadsheet(file)
     header = spreadsheet.row(1)
     (2..spreadsheet.last_row).each do |i|

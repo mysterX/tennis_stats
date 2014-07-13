@@ -11,10 +11,26 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140707021329) do
+ActiveRecord::Schema.define(version: 20140713161401) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "countries", force: true do |t|
+    t.string   "code_2",     limit: 2, null: false
+    t.string   "code_3",     limit: 3, null: false
+    t.integer  "code_num",             null: false
+    t.string   "name",                 null: false
+    t.string   "code_4",     limit: 4
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "countries", ["code_2"], name: "index_countries_on_code_2", unique: true, using: :btree
+  add_index "countries", ["code_3"], name: "index_countries_on_code_3", unique: true, using: :btree
+  add_index "countries", ["code_4"], name: "index_countries_on_code_4", unique: true, using: :btree
+  add_index "countries", ["code_num"], name: "index_countries_on_code_num", unique: true, using: :btree
+  add_index "countries", ["name"], name: "index_countries_on_name", unique: true, using: :btree
 
   create_table "player_imports", force: true do |t|
     t.string   "player_id"
