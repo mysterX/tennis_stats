@@ -11,12 +11,12 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140713161401) do
+ActiveRecord::Schema.define(version: 20140714005339) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "countries", force: true do |t|
+  create_table "countries", primary_key: "country_id", force: true do |t|
     t.string   "code_2",     limit: 2, null: false
     t.string   "code_3",     limit: 3, null: false
     t.integer  "code_num",             null: false
@@ -52,7 +52,6 @@ ActiveRecord::Schema.define(version: 20140713161401) do
     t.string   "player_id"
     t.string   "first_name"
     t.string   "last_name"
-    t.string   "country"
     t.string   "gender"
     t.string   "alt_last_name_1"
     t.string   "alt_last_name_2"
@@ -61,8 +60,10 @@ ActiveRecord::Schema.define(version: 20140713161401) do
     t.string   "backhand"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.integer  "country_id"
   end
 
+  add_index "players", ["country_id"], name: "index_players_on_country_id", using: :btree
   add_index "players", ["player_id"], name: "index_players_on_player_id", unique: true, using: :btree
 
 end

@@ -1,12 +1,12 @@
 class Player < ActiveRecord::Base
+  belongs_to :country, foreign_key: 'country_id', primary_key: 'country_id'
+
   validates :player_id, presence: true, uniqueness: true,
 	    length: { maximum: 10, too_long: "Max length of player_id is %{count} characters" }
   validates :first_name, presence: true,
 	    length: { maximum: 45, too_long: "Max length of first_name is %{count} characters" }
   validates :last_name, presence: true,
 	    length: { maximum: 45, too_long: "Max length of last_name is %{count} characters" }
-  validates :country, presence: true,
-	    length: { maximum: 45, too_long: "Max length of country is %{count} characters" }
   VALID_GENDERS = ["M", "F"]
   validates :gender, presence: true, inclusion: { :in => VALID_GENDERS,
     			message: "Gender must be set to 'M' or 'F'" },
@@ -23,6 +23,7 @@ class Player < ActiveRecord::Base
   validates :backhand, inclusion: { :in => VALID_BACKHANDS,
   		message: "If set, :backhand must be '1' or '2' or 'B'" },
   	    length: { maximum: 1 }
+  validates :country, presence: true
 
   # Enum for gender - requires Rails 4.1.0
   # enum m_or_f: { male: "M", female: "F" }
@@ -65,7 +66,8 @@ class Player < ActiveRecord::Base
     self.player_id = row.fetch("Player Id", self.player_id)
     self.first_name = row.fetch("First Name", self.first_name)
     self.last_name = row.fetch("Last Name", self.last_name)
-    self.country = row.fetch("Country", self.last_name)
+    country_name = row.fetch("Country", "")
+    self.country = Country.find_by(name: country_name)
     self.gender = row.fetch("Gender", self.gender)
     self.alt_last_name_1 = row.fetch("Alt Last_Name 1", self.alt_last_name_1)
     self.alt_last_name_2 = row.fetch("Alt Last Name 2", self.alt_last_name_2)

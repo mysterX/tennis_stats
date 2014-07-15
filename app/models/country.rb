@@ -1,4 +1,6 @@
 class Country < ActiveRecord::Base
+  has_many :players
+
   # ActiveRecord validations
   validates :code_2, presence: true, uniqueness: true,
 	    length: { maximum: 2, too_long: "Max length of code_2 is %{count} characteers",

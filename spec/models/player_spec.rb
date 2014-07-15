@@ -2,8 +2,10 @@ require 'rails_helper'
 
 describe Player, :type => :model do
   before do
+    Country.new(code_2: "UT", code_3: "UTO", code_num: 666, name: "Utopia").save
+    @country = Country.find_by(code_3: "UTO")
     @player = Player.new(player_id: "UMach", first_name: "Ultra", last_name: "Machismo",
-                         country: "US", gender: "M")
+                         country: @country, gender: "M")
   end
 
   subject { @player }
@@ -54,7 +56,7 @@ describe Player, :type => :model do
       it "should not save new player with same id" do
         @player2 = Player.new(player_id: "UMach", first_name: "Ultra2", 
                               last_name: "Machismo2",
-                              country: "US", gender: "M")
+                              country: @country, gender: "M")
         expect{ @player2.save! }.to raise_error(ActiveRecord::RecordNotUnique)
       end
     end
@@ -125,28 +127,25 @@ describe Player, :type => :model do
 
   describe "attribute country" do
     describe "must exist" do
+      before { @player.country = @country }
+      it { should be_valid }
+    end
+
+    describe "must not be nil" do
       before { @player.country = nil }
       it { should_not be_valid }
     end
 
-    describe "must meet min length constraint" do
-      before { @player.country = "x" }
-      it { should be_valid }
+    it "must match country name" do
+      expect(@player.country.name).to eq('Utopia')
     end
 
-    describe "must fail min length constraint" do
-      before { @player.country = "" }
-      it { should_not be_valid }
+    it "must match country code3" do
+      expect(@player.country.code_3).to eq('UTO')
     end
 
-    describe "must meet max length constraint" do
-      before { @player.country = "x" * 45 }
-      it { should be_valid }
-    end
-
-    describe "must fail max length constraint" do
-      before { @player.country = "x" * 46 }
-      it { should_not be_valid }
+    it "must match country code2" do
+      expect(@player.country.code_2).to eq('UT')
     end
   end
 
