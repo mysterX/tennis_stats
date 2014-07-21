@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140714005339) do
+ActiveRecord::Schema.define(version: 20140720213502) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -24,13 +24,17 @@ ActiveRecord::Schema.define(version: 20140714005339) do
     t.string   "code_4",     limit: 4
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "code_alias"
+    t.string   "name_alias"
   end
 
   add_index "countries", ["code_2"], name: "index_countries_on_code_2", unique: true, using: :btree
   add_index "countries", ["code_3"], name: "index_countries_on_code_3", unique: true, using: :btree
   add_index "countries", ["code_4"], name: "index_countries_on_code_4", unique: true, using: :btree
+  add_index "countries", ["code_alias"], name: "index_countries_on_code_alias", using: :btree
   add_index "countries", ["code_num"], name: "index_countries_on_code_num", unique: true, using: :btree
   add_index "countries", ["name"], name: "index_countries_on_name", unique: true, using: :btree
+  add_index "countries", ["name_alias"], name: "index_countries_on_name_alias", using: :btree
 
   create_table "player_imports", force: true do |t|
     t.string   "player_id"
