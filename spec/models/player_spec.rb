@@ -4,13 +4,13 @@ describe Player, :type => :model do
   before do
     Country.new(code_2: "UT", code_3: "UTO", code_num: 666, name: "Utopia").save
     @country = Country.find_by(code_3: "UTO")
-    @player = Player.new(player_id: "UMach", first_name: "Ultra", last_name: "Machismo",
+    @player = Player.new(p_code: "UMach", first_name: "Ultra", last_name: "Machismo",
                          country: @country, gender: "M")
   end
 
   subject { @player }
 
-  it { should respond_to(:player_id) }
+  it { should respond_to(:p_code) }
   it { should respond_to(:first_name) }
   it { should respond_to(:last_name) }
   it { should respond_to(:country) }
@@ -22,29 +22,29 @@ describe Player, :type => :model do
 
   it { should be_valid }
 
-  describe "attribute player_id" do
+  describe "attribute p_code" do
     describe "must exist" do
-      before { @player.player_id = nil }
+      before { @player.p_code = nil }
       it { should_not be_valid }
     end
 
     describe "must meet min length constraint" do
-      before { @player.player_id = "x" }
+      before { @player.p_code = "x" }
       it { should be_valid }
     end
 
     describe "must fail min length constraint" do
-      before { @player.player_id = "" }
+      before { @player.p_code = "" }
       it { should_not be_valid }
     end
 
     describe "must meet max length constraint" do
-      before { @player.player_id = "x" * 10 }
+      before { @player.p_code = "x" * 10 }
       it { should be_valid }
     end
 
     describe "must fail max length constraint" do
-      before { @player.player_id = "x" * 11 }
+      before { @player.p_code = "x" * 11 }
       it { should_not be_valid }
     end
 
@@ -54,7 +54,7 @@ describe Player, :type => :model do
       end
 
       it "should not save new player with same id" do
-        @player2 = Player.new(player_id: "UMach", first_name: "Ultra2", 
+        @player2 = Player.new(p_code: "UMach", first_name: "Ultra2", 
                               last_name: "Machismo2",
                               country: @country, gender: "M")
         expect{ @player2.save! }.to raise_error(ActiveRecord::RecordNotUnique)
@@ -62,11 +62,11 @@ describe Player, :type => :model do
     end
 
     describe "saved as lower case" do
-      let(:mixed_case_player_id) { "umach" }
+      let(:mixed_case_p_code) { "umach" }
       
       it "should be saved as all lower-case" do
         @player.save!
-        expect(@player.reload.player_id).to eq mixed_case_player_id
+        expect(@player.reload.p_code).to eq mixed_case_p_code
       end
     end
   end

@@ -22,7 +22,8 @@ group :development, :test do
 end
 
 # Use specific version of nokogiri - install of 1.6.2.1 failed
-gem 'nokogiri', '1.6.1'
+#gem 'nokogiri', '1.6.1'
+gem 'nokogiri'
 
 group :test do
   gem 'selenium-webdriver'

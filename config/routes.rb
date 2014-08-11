@@ -1,4 +1,8 @@
 TennisStats::Application.routes.draw do
+  get 'rankings/missing_player'
+
+  get 'rankings/missing_country'
+
   root 'static_pages#home'
   get "players/new"
   match '/players' , to: 'players#index'               , via: 'get'

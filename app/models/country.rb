@@ -1,5 +1,6 @@
 class Country < ActiveRecord::Base
   has_many :players
+  has_many :rankings, foreign_key: 'c_code', primary_key: 'code_3'
 
   # ActiveRecord validations
   validates :code_2, presence: true, uniqueness: true,

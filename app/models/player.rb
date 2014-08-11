@@ -1,8 +1,9 @@
 class Player < ActiveRecord::Base
   belongs_to :country, foreign_key: 'country_id', primary_key: 'country_id'
+  has_many :rankings, foreign_key: 'p_code', primary_key: 'p_code'
 
-  validates :player_id, presence: true, uniqueness: true,
-	    length: { maximum: 10, too_long: "Max length of player_id is %{count} characters" }
+  validates :p_code, presence: true, uniqueness: true,
+	    length: { maximum: 10, too_long: "Max length of p_code is %{count} characters" }
   validates :first_name, presence: true,
 	    length: { maximum: 45, too_long: "Max length of first_name is %{count} characters" }
   validates :last_name, presence: true,
@@ -34,7 +35,17 @@ class Player < ActiveRecord::Base
   # Enum for player's backhand style - requires Rails 4.1.0
   # enum bh_type: { one_handed: "1", two_handed: "2", all_double: "B" }
 
-  before_save { self.player_id.downcase! }
+  before_save { self.p_code.downcase! }
+
+  def info_xml
+    ret_val = "<Player id=\"" + id.to_s + "\">" +
+      "<Code>" + p_code + "</Code>" +
+      "<Name><First>" + first_name + "</First>" +
+      "<Last>" + last_name + "</Last></Name>" +
+      "<Country>" + (country.nil? ? "" : country.code_3) + "</Country>" +
+      "</Player>"
+    ret_val
+  end
 
   def self.hello(playerName)
     puts "Hello, ", playerName
@@ -46,7 +57,7 @@ class Player < ActiveRecord::Base
     (2..spreadsheet.last_row).each do |i|
       row = Hash[[header, spreadsheet.row(i)].transpose]
       p_id = row["Player Id"].downcase
-      playa = find_by(player_id: p_id) || new
+      playa = find_by(p_code: p_id) || new
 #      debugger
       playa.fillFromRow(row)
       playa.save!
@@ -63,7 +74,7 @@ class Player < ActiveRecord::Base
   end
 
   def fillFromRow(row)
-    self.player_id = row.fetch("Player Id", self.player_id)
+    self.p_code = row.fetch("Player Id", self.p_code)
     self.first_name = row.fetch("First Name", self.first_name)
     self.last_name = row.fetch("Last Name", self.last_name)
     country_identifier = row.fetch("Country", "")
@@ -129,8 +140,8 @@ class Player < ActiveRecord::Base
   end
 
   def self.search_word(crit)
-    if count_player_id(crit) > 0
-      search_player_id(crit)
+    if count_p_code(crit) > 0
+      search_p_code(crit)
     else
       if count_last_name(crit) > 0
         search_last_name(crit)
@@ -188,12 +199,20 @@ class Player < ActiveRecord::Base
     a_tab[:country_id].eq(a_c_tab[:country_id])
   end
 
-  def self.count_player_id(crit)
-    where(a_tab[:player_id].matches(crit)).count
+  def self.count_p_code(crit)
+    where(a_tab[:p_code].matches(crit)).count
   end
 
-  def self.search_player_id(crit)
-    where(a_tab[:player_id].matches(crit)).order("last_name, first_name")
+  def self.search_p_code(crit)
+    where(a_tab[:p_code].matches(crit)).order("last_name, first_name")
+  end
+
+  def self.find_p_code(crit)
+    ret_val = nil
+    src = search_p_code(crit)
+    if !src.nil? and src.size == 1
+      ret_val = src.first
+    end
   end
 
   def self.count_last_name(crit)
