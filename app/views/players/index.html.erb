@@ -13,8 +13,9 @@
   <% for player in @players %>
   <li>
     <%= player.p_code %>
-    <%= player.first_name %>
-    <%= player.last_name %>
+    <%= link_to(player_path(player.id)) do %>
+      <strong><%= player.first_name %> <%= player.last_name %></strong>
+    <% end %>
     <%= player.country.code_3 %>
     <%= player.dob %>
   </li>

@@ -1,10 +1,12 @@
 TennisStats::Application.routes.draw do
+  resources :players
+
   get 'rankings/missing_player'
 
   get 'rankings/missing_country'
 
   root 'static_pages#home'
-  get "players/new"
+
   match '/players' , to: 'players#index'               , via: 'get'
   match '/players_intro' , to: 'players#index_intro'   , via: 'get'
   match '/about'  , to: 'static_pages#about'           , via: 'get'

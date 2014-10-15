@@ -1,0 +1,19 @@
+<h1>Player Info</h1>
+
+Name: <%= @player.first_name %> <%= @player.last_name %>
+<p><p>
+Country: <%= @player.country.name %>
+<p>
+Gender: <%= @player.gender_sz %>
+<p>
+DOB: <%= @player.dob %>
+<p>
+Code: <%= @player.p_code %>
+<p>
+Hand: <%= @player.hand_sz %>
+<p>
+Backhand: <%= @player.backhand_sz %>
+<p>
+<%= link_to 'Back', :back %>
+
+

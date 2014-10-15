@@ -10,4 +10,9 @@ class PlayersController < ApplicationController
   def index_intro
     @players = nil
   end
+
+  def show
+    pRel = Player.where(id: params[:id])
+    @player = pRel[0]
+  end
 end

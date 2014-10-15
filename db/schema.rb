@@ -87,6 +87,6 @@ ActiveRecord::Schema.define(version: 20140727224657) do
   end
 
   add_index "rankings", ["player_name"], name: "index_rankings_on_player_name", using: :btree
-  add_index "rankings", ["r_date", "rank", "gender"], name: "index_rankings_on_r_date_and_rank_and_gender", unique: true, using: :btree
+  add_index "rankings", ["r_date", "rank", "gender"], name: "index_rankings_on_r_date_and_rank_and_gender", using: :btree
 
 end

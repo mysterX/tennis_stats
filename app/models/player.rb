@@ -47,6 +47,41 @@ class Player < ActiveRecord::Base
     ret_val
   end
 
+  def hand_sz
+    case hand
+    when "L"
+      "Left"
+    when "R"
+      "Right"
+    else
+      "???"
+    end
+  end
+
+  def backhand_sz
+    case backhand
+    when "1"
+      "One-handed"
+    when "2"
+      "Two-handed"
+    when "B"
+      "Two-handed (both sides)"
+    else
+      "???"
+    end
+  end
+
+  def gender_sz
+    case gender
+    when "M"
+      "Male"
+    when "F"
+      "Female"
+    else
+      "???"
+    end
+  end
+
   def self.hello(playerName)
     puts "Hello, ", playerName
   end
@@ -117,6 +152,56 @@ class Player < ActiveRecord::Base
     end
 
     ret_val
+  end
+
+  def self.find_by_name_and_country_code(p_name, c_code)
+    p_name_array = p_name.split
+    p_arr = search_name(p_name_array).to_a
+    c_info = Country.find_country_by_code(c_code)
+    if p_arr.count == 1
+      p = p_arr[0]
+      c = p.country
+      if c_info.is_a?(Country)
+        if c_info == c
+          # Match - return player
+          p
+        else
+          # Mismatch - player and country
+          ["Mismatch player and country", p, c_info]
+        end
+      elsif !(c_info.select { | a_c | a_c == c }).empty?
+        # Found player but ambiguous country with match
+        ["Ambiguous country, found player with match", p, c_info]
+      elsif c_info.empty?
+        # Found player but no country
+        ["No country, found player", p, []]
+      else
+        # Found player but ambiguous country with no match
+        ["Ambiguous country, found player with no match", p, c_info]
+      end
+    elsif p_arr.count > 1
+      if c_info.is_a?(Country)
+        # Ambiguous player, found country
+        ["Ambiguous player, found country", p_arr, c_info]
+      elsif c_info.empty?
+        # Ambiguous player with no country
+        ["Ambiguous player with no country", p_arr, []]
+      else
+        # Ambiguous player with ambiguous country
+        ["Ambiguous player with ambiguous country", p_arr, c_info]
+      end
+    else
+      if c_info.is_a?(Country)
+        # No player, found country
+        ["No player, found country", [], c_info]
+      elsif c_info.empty?
+        # No player with no country
+        ["No player with no country", [], []]
+      else
+        # No player with ambiguous country
+        ["No player with ambiguous country", [], c_info]
+      end
+    end
   end
 
   def self.search(crit)

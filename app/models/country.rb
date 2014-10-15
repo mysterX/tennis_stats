@@ -128,10 +128,33 @@ class Country < ActiveRecord::Base
   end
 
   def self.count_country_code_alias(crit)
-    where(a_tab[:code_alias].matches(crit)).count
+    where(a_tab[:code_alias].matches("%" + crit + "%")).count
   end
 
   def self.search_country_code_alias(crit)
-    where(a_tab[:code_alias].matches(crit)).order("name")
+    where(a_tab[:code_alias].matches("%" + crit + "%")).order("name")
+  end
+
+  def self.find_country_by_code(crit)
+    arr = []
+    cnt = count_country_code(crit)
+    cnt_alias = count_country_code_alias(crit)
+    if cnt > 0 && cnt_alias > 0
+      arr.push(search_country_code(crit).to_a)
+      arr.push(search_country_code_alias(crit).to_a)
+    elsif cnt > 0
+      arr.push(search_country_code(crit).to_a)
+    elsif cnt_alias > 0
+      arr.push(search_country_code_alias(crit).to_a)
+    end
+    arr.flatten!
+    arr.uniq
+    if arr.count == 1
+      # Return the single element
+      arr[0]
+    else
+      # Return the empty or multi-element array
+      arr
+    end
   end
 end

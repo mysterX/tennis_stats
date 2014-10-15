@@ -16,7 +16,7 @@ class CreateRankings < ActiveRecord::Migration
 
       t.timestamps
     end
-    add_index :rankings, [:r_date, :rank, :gender], unique: true
+    add_index :rankings, [:r_date, :rank, :gender]
     add_index :rankings, :player_name
   end
 end
