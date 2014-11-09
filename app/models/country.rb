@@ -15,6 +15,21 @@ class Country < ActiveRecord::Base
 	    length: { maximum: 4, too_long: "Max length of code_4 is %{count} characteers",
                       minimum: 4, too_short: "Min length of code_4 is %{count} characteers"}
 
+  UNKNOWN_COUNTRY_NAME = "Unknown"
+  UNKNOWN_COUNTRY_CODE = "XXX"
+
+  def self.unknown_country_name
+    UNKNOWN_COUNTRY_NAME
+  end
+
+  def self.unknown_country_code
+    UNKNOWN_COUNTRY_CODE
+  end
+
+  def self.unknown_country
+    Country.where(code_3: UNKNOWN_COUNTRY_CODE)
+  end
+
   def add_name_alias(an_alias)
     if !(self.name_alias.nil? or self.name_alias.empty?)
       self.name_alias = (self.name_alias + "," + an_alias)
@@ -36,7 +51,7 @@ class Country < ActiveRecord::Base
     header = spreadsheet.row(1)
     (2..spreadsheet.last_row).each do |i|
       row = Hash[[header, spreadsheet.row(i)].transpose]
-      c_id = row["Code 3"].downcase
+      c_id = row["Code 3"].upcase
       ctry = find_by(code_3: c_id) || new
       ctry.fillFromRow(row)
       ctry.save!
@@ -135,25 +150,40 @@ class Country < ActiveRecord::Base
     where(a_tab[:code_alias].matches("%" + crit + "%")).order("name")
   end
 
-  def self.find_country_by_code(crit)
+  def self.find_country(crit)
     arr = []
-    cnt = count_country_code(crit)
-    cnt_alias = count_country_code_alias(crit)
-    if cnt > 0 && cnt_alias > 0
-      arr.push(search_country_code(crit).to_a)
-      arr.push(search_country_code_alias(crit).to_a)
-    elsif cnt > 0
-      arr.push(search_country_code(crit).to_a)
-    elsif cnt_alias > 0
-      arr.push(search_country_code_alias(crit).to_a)
-    end
-    arr.flatten!
-    arr.uniq
-    if arr.count == 1
-      # Return the single element
-      arr[0]
+    if !crit.nil?
+      cnt = count_country_code(crit)
+      cnt_alias = count_country_code_alias(crit)
+      if cnt > 0 && cnt_alias > 0
+        arr.push(search_country_code(crit).to_a)
+        arr.push(search_country_code_alias(crit).to_a)
+      elsif cnt > 0
+        arr.push(search_country_code(crit).to_a)
+      elsif cnt_alias > 0
+        arr.push(search_country_code_alias(crit).to_a)
+      else
+        cnt = count_country_name(crit)
+        cnt_alias = count_country_name_alias(crit)
+        if cnt > 0 && cnt_alias > 0
+          arr.push(search_country_name(crit).to_a)
+          arr.push(search_country_name_alias(crit).to_a)
+        elsif cnt > 0
+          arr.push(search_country_name(crit).to_a)
+        elsif cnt_alias > 0
+          arr.push(search_country_name_alias(crit).to_a)
+        end
+      end
+      arr.flatten!
+      arr.uniq
+      if arr.count == 1
+        # Return the single element
+        arr[0]
+      else
+        # Return the empty or multi-element array
+        arr
+      end
     else
-      # Return the empty or multi-element array
       arr
     end
   end

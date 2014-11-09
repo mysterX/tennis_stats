@@ -37,12 +37,16 @@ class Ranking < ActiveRecord::Base
 
   def fillFromRow(row)
 #    debugger
+    def_nation = self.country
+    if def_nation.nil? || def_nation == ""
+      def_nation = Country.unknown_country_code
+    end
     self.r_date = row.fetch("Date", self.r_date)
     self.gender = row.fetch("Gender", self.gender)
     self.rank = row.fetch("Rank", self.rank)
     self.player_name = row.fetch("Player", self.player_name)
     self.player_url = row.fetch("Player_URL", self.player_url)
-    self.nationality = row.fetch("Country", self.country)
+    self.nationality = row.fetch("Country", def_nation)
     self.rank_points = row.fetch("Points", self.rank_points)
   end
 

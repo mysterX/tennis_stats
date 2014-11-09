@@ -8,6 +8,8 @@ module PlayersHelper
 #  URL_MEN_INFO = "profile-bio/men/"
 #  URL_WOMEN_INFO = "profile-bio/women/"
 
+  ITF_PLAYER_URL_PREFIX = "http://www.itftennis.com/procircuit/players/player/profile.aspx?playerid="
+
   DIR_RAW = '/data/raw'
 
   HEADER_RANKINGS_RAW = "Date,Gender,Rank,Player,Player_URL,Country,Points"
@@ -137,6 +139,59 @@ module PlayersHelper
     + ", Hand=" + hand
   end
 
+  def self.generate_player_from_url(player_url)
+    msgs = []
+    url = URL_PREFIX + player_url
+    doc = Nokogiri::HTML(open(url))
+    rows = doc.css('table#player_info tr')
+    player_name = rows[0].children[1].children[0].inner_text
+    dob = rows[2].children[1].children[0].inner_text
+    nation = rows[4].children[1].children[0].inner_text
+    hand = rows[5].children[1].children[0].inner_text
+    name_array = generate_names_from_name(player_name)
+    p_codes = name_to_code(player_name)
+    if !name_array.nil? && p_codes.is_a?(Array) && p_codes.size > 0 && p_codes[0].is_a?(String) && p_codes[0].length > 0
+      p = Player.new
+      p.first_name = name_array[0]
+      p.last_name = name_array[1]
+      p_nat = p.lookup_country(nation)
+      if p_nat.is_a?(Country)
+        p.country = p_nat
+      else
+        msgs << "Missing country: [" + nation + "]"
+        p.country = Country.unknown_country
+      end
+      if p_codes.size == 1
+        p.p_code = p_codes[0]
+      else
+        msgs << ("Ambiguous p_codes: " + p_codes.to_s)
+        p_p_code = Player.generate_next_unknown_p_code
+      end
+      if !dob.nil? && dob.downcase != "Unknown" && dob != ""
+        p.dob = dob
+      end
+      if !hand.nil? && hand != ""
+        p.hand = hand
+      end
+      p
+    else
+      nil
+    end
+  end
+
+  def self.scrape_player_itf(id)
+    url = ITF_PLAYER_URL_PREFIX + id.to_s
+    doc = Nokogiri::HTML(open(url))
+    rows = doc.css('playerDetails fl')
+debugger
+    player_name = rows[0].children[1].children[0].inner_text
+    dob = rows[2].children[1].children[0].inner_text
+    nation = rows[4].children[1].children[0].inner_text
+    hand = rows[5].children[1].children[0].inner_text
+    puts "Name=" + player_name + ", DOB=" + dob + ", Country=" + nation\
+    + ", Hand=" + hand
+  end
+
   def self.mkdir(dir_name)
     sz_dir = File.join(Rails.root, dir_name)
     if !Dir.exists?(sz_dir)
@@ -165,7 +220,7 @@ module PlayersHelper
     end
   end
 
-  def self.name_to_code(name)
+  def self.name_to_lcase_array(name)
     # Create array of name elements, converting to lower case and stripping any .
     name_array = name.split.collect { |x|
       if x[x.length - 1] == "."
@@ -174,6 +229,85 @@ module PlayersHelper
         x.downcase
       end
     }
+  end
+
+  def self.test_generated_names
+    names=Player.all.select { |p|
+      real_name = [p.first_name,
+                   p.last_name
+                  ]
+      built_name = generate_names_from_name(p.first_name + " " + p.last_name)
+      real_name != built_name
+    }
+    names.each { |p| 
+      real_name = [p.first_name,
+                   p.last_name
+                  ]
+      built_name = generate_names_from_name(p.first_name + " " + p.last_name)
+      puts "Real_Name=" + real_name.to_s + " - Built_Name=" + built_name.to_s + "\n"
+    }
+    nil
+  end
+
+  def self.generate_names_from_name(sz_name)
+    # An array of words from the name passed in - as is
+    raw_name_array = sz_name.split
+    # An array of words from the name passed in - lowercase and stripped of .
+    l_name_array = name_to_lcase_array(sz_name)
+    arr_len = raw_name_array.length
+
+    if arr_len == 1
+      # Last name only
+      [ "", raw_name_array[0] ]
+    elsif arr_len == 2
+      # First and Last Name
+      [ raw_name_array[0], raw_name_array[1] ]
+    elsif arr_len > 2
+      init_pos = last_initial_pos_in_name_array(l_name_array)
+      n_suf = name_suffix(l_name_array)
+      conn_pos = first_name_connector_pos(l_name_array)
+      if init_pos > 0
+        # First name is array up to init pos, Last name is rest of array
+        [ raw_name_array[0..init_pos].join(" "),
+          raw_name_array[init_pos+1...arr_len].join(" ")
+          ]
+      elsif !conn_pos.nil? && conn_pos > 0 && conn_pos < arr_len-1
+        # First name is array up to conn pos, Last name is rest of array
+        [ raw_name_array[0...conn_pos].join(" "),
+          raw_name_array[conn_pos...arr_len].join(" ")
+        ]
+      elsif arr_len == 3
+        # Default to first name is first element, last name is last two elements
+        [ raw_name_array[0], raw_name_array[1...arr_len].join(" ") ]
+      else
+        # First name is first two elements, last name is the rest
+        [ raw_name_array[0...2].join(" "), 
+          raw_name_array[2...arr_len].join(" ")
+        ]
+      end
+    else
+      # No names - return nil
+      nil
+    end
+  end
+
+  def self.last_initial_pos_in_name_array(l_name_array)
+    arr_len = l_name_array.length
+    last_init_pos = l_name_array.reverse.index {
+      | x | (x =~ /\A[a-z]\Z/) == 0 }
+    if !last_init_pos.nil? && last_init_pos > 0 && last_init_pos < arr_len - 1
+      arr_len - last_init_pos - 1
+    else
+      -1
+    end
+  end
+
+  def self.first_name_connector_pos(l_name_array)
+    l_name_array.index { |x| NAME_CONNECTORS.include?(x) }
+  end
+
+  def self.name_to_code(name)
+    name_array = name_to_lcase_array(name)
 
     # If name ends with suffix (e.g, jr, iii, etc.) track suffix and remove
     n_suf = name_suffix(name_array)
@@ -344,5 +478,38 @@ module PlayersHelper
 
   def self.first_name_initials(first_name)
     first_name.split('-').collect{ |x| x[0] }.join
+  end
+
+  def self.update_ranking_player_with_player
+    ct = 0
+    tot = RankingPlayer.count
+    SystemLog.log("Starting update ranking player with player code, total=" \
+                  + tot.to_s)
+    RankingPlayer.find_each { |p|
+      ct = ct + 1
+      if (ct % 100 == 0)
+        SystemLog.log("Player count = " + ct.to_s + "/" + tot.to_s)
+      end
+      p.find_player
+      p.save
+    }
+    SystemLog.log("Ending update ranking player with player code")
+  end
+
+  def self.update_ranking_player_with_new_player
+    ct = 0
+    tot = RankingPlayer.where("p_code is null").count
+    SystemLog.log("Starting update ranking player with new player, total=" \
+                  + tot.to_s)
+    RankingPlayer.where("p_code is null").find_each { |p|
+# TODO: Account for removed player_msgs
+# puts p.player_name + ", " + p.nationality + ", " + p.player_msgs
+      ct = ct + 1
+      if (ct % 100 == 0)
+        SystemLog.log("Player count = " + ct.to_s + "/" + tot.to_s)
+      end
+#      p.find_player
+#      p.save
+    }
   end
 end

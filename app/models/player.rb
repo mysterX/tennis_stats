@@ -154,10 +154,18 @@ class Player < ActiveRecord::Base
     ret_val
   end
 
-  def self.find_by_name_and_country_code(p_name, c_code)
+  def get_country_code
+    if !country.nil?
+      country.code_3
+    else
+      nil
+    end
+  end
+
+  def self.find_by_name_and_country(rp, p_name, c_crit)
     p_name_array = p_name.split
     p_arr = search_name(p_name_array).to_a
-    c_info = Country.find_country_by_code(c_code)
+    c_info = Country.find_country(c_crit)
     if p_arr.count == 1
       p = p_arr[0]
       c = p.country
@@ -165,41 +173,44 @@ class Player < ActiveRecord::Base
         if c_info == c
           # Match - return player
           p
+        elsif c_crit.nil? || c_crit == "Unknown"
+          # Match - return player
+          p
         else
           # Mismatch - player and country
-          ["Mismatch player and country", p, c_info]
+          Rpexception.mismatch_player_and_country(rp, p, c_info)
         end
       elsif !(c_info.select { | a_c | a_c == c }).empty?
         # Found player but ambiguous country with match
-        ["Ambiguous country, found player with match", p, c_info]
+        Rpexception.ambiguous_country_found_player_with_match(rp, p, c_info)
       elsif c_info.empty?
         # Found player but no country
-        ["No country, found player", p, []]
+        Rpexception.no_country_found_player(rp, p)
       else
         # Found player but ambiguous country with no match
-        ["Ambiguous country, found player with no match", p, c_info]
+        Rpexception.ambiguous_country_found_player_with_no_match(rp, p, c_info)
       end
     elsif p_arr.count > 1
       if c_info.is_a?(Country)
         # Ambiguous player, found country
-        ["Ambiguous player, found country", p_arr, c_info]
+        Rpexception.ambiguous_player_found_country(rp, p_arr, c_info)
       elsif c_info.empty?
         # Ambiguous player with no country
-        ["Ambiguous player with no country", p_arr, []]
+        Rpexception.ambiguous_player_with_no_country(rp, p_arr)
       else
         # Ambiguous player with ambiguous country
-        ["Ambiguous player with ambiguous country", p_arr, c_info]
+        Rpexception.ambiguous_player_with_ambiguous_country(rp, p_arr, c_info)
       end
     else
       if c_info.is_a?(Country)
         # No player, found country
-        ["No player, found country", [], c_info]
+        Rpexception.no_player_found_country(rp, c_info)
       elsif c_info.empty?
         # No player with no country
-        ["No player with no country", [], []]
+        Rpexception.no_player_with_no_country(rp)
       else
         # No player with ambiguous country
-        ["No player with ambiguous country", [], c_info]
+        Rpexception.no_player_with_ambiguous_country(rp, c_info)
       end
     end
   end
@@ -298,6 +309,16 @@ class Player < ActiveRecord::Base
     if !src.nil? and src.size == 1
       ret_val = src.first
     end
+  end
+
+  UNKNOWN_PCODE_PREFIX = "XXX_"
+
+  def self.count_unknown_p_code
+    where(a_tab[:p_code].matches(UNKNOWN_PCODE_PREFIX)).count
+  end
+
+  def self.generate_next_unknown_p_code
+    UNKNOWN_PCODE_PREFIX + (count_unknown_p_code + 1).to_s
   end
 
   def self.count_last_name(crit)
