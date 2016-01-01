@@ -139,9 +139,15 @@ module PlayersHelper
     + ", Hand=" + hand
   end
 
-  def self.generate_player_from_url(player_url)
+  # Create a player object from the ranking player and the player's URL
+  # If the player's p_code is already in use, then generate an exception
+  # If multiple non-used p_codes are generated for the player,
+  # then generate an exception.
+  # rp must be a RankingPlayer
+  # Return the generated player object, or nil if one cannot be created
+  def self.generate_player_from_url(rp)
     msgs = []
-    url = URL_PREFIX + player_url
+    url = URL_PREFIX + rp.player_url
     doc = Nokogiri::HTML(open(url))
     rows = doc.css('table#player_info tr')
     player_name = rows[0].children[1].children[0].inner_text
@@ -154,24 +160,41 @@ module PlayersHelper
       p = Player.new
       p.first_name = name_array[0]
       p.last_name = name_array[1]
+      p.gender = rp.gender
       p_nat = p.lookup_country(nation)
       if p_nat.is_a?(Country)
         p.country = p_nat
       else
-        msgs << "Missing country: [" + nation + "]"
+        puts "Missing country for " + p.first_name + " " + p.last_name \
+        + ": [" + nation + "] putting player in unknown country"
         p.country = Country.unknown_country
       end
-      if p_codes.size == 1
-        p.p_code = p_codes[0]
+      filtered_p_codes = p_codes
+      if p_codes.size > 1
+        filtered_p_codes = p_codes.select { |pc|
+          Player.find_p_code(pc).nil?
+        }
+      end
+      if filtered_p_codes.size == 1
+        p_code = filtered_p_codes[0]
+        dup_p = Player.find_p_code(p_code)
+        if dup_p.nil?
+          p.p_code = p_code
+        else
+          # Raise duplicate p code exception
+          Rpexception.duplicate_player_code(rp, p_code, dup_p)
+          p.p_code = Player.generate_next_unknown_p_code
+        end
       else
-        msgs << ("Ambiguous p_codes: " + p_codes.to_s)
-        p_p_code = Player.generate_next_unknown_p_code
+        # Raise ambiguous p codes exception
+        Rpexception.ambiguous_player_code(rp, filtered_p_codes)
+        p.p_code = Player.generate_next_unknown_p_code
       end
       if !dob.nil? && dob.downcase != "Unknown" && dob != ""
         p.dob = dob
       end
       if !hand.nil? && hand != ""
-        p.hand = hand
+        p.set_hand(hand)
       end
       p
     else
@@ -502,14 +525,17 @@ debugger
     SystemLog.log("Starting update ranking player with new player, total=" \
                   + tot.to_s)
     RankingPlayer.where("p_code is null").find_each { |p|
-# TODO: Account for removed player_msgs
-# puts p.player_name + ", " + p.nationality + ", " + p.player_msgs
+#      puts p.player_name + ", " + p.nationality + ", " + p.has_unresolved_exceptions.to_s
       ct = ct + 1
-      if (ct % 100 == 0)
+      if (ct % 938 == 0)
+        puts "Player count = " + ct.to_s + "/" + tot.to_s
         SystemLog.log("Player count = " + ct.to_s + "/" + tot.to_s)
+        puts p.player_name + ", " + p.nationality + ", " + p.has_unresolved_exceptions.to_s
+        new_player = generate_player_from_url(p)
+        if !new_player.nil?
+          new_player.save!
+        end
       end
-#      p.find_player
-#      p.save
     }
   end
 end

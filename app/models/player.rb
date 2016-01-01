@@ -26,6 +26,8 @@ class Player < ActiveRecord::Base
   	    length: { maximum: 1 }
   validates :country, presence: true
 
+  UNKNOWN_PCODE_PREFIX = "XXX_"
+
   # Enum for gender - requires Rails 4.1.0
   # enum m_or_f: { male: "M", female: "F" }
 
@@ -55,6 +57,21 @@ class Player < ActiveRecord::Base
       "Right"
     else
       "???"
+    end
+  end
+
+  def set_hand(sz_hand)
+    case sz_hand.downcase!
+    when "left", "l"
+      self.hand = "L"
+    when "right", "r"
+      self.hand = "R"
+    when "both", "b"
+      self.hand = "B"
+    else
+      puts "Illegal hand value for " + sz_hand
+#      puts "Illegal hand value for " + self.first_name + ", " self.last_name + " [" + sz_hand + "]"
+      self.hand = "B"
     end
   end
 
@@ -311,10 +328,8 @@ class Player < ActiveRecord::Base
     end
   end
 
-  UNKNOWN_PCODE_PREFIX = "XXX_"
-
   def self.count_unknown_p_code
-    where(a_tab[:p_code].matches(UNKNOWN_PCODE_PREFIX)).count
+    where(a_tab[:p_code].matches(UNKNOWN_PCODE_PREFIX + '%')).count
   end
 
   def self.generate_next_unknown_p_code

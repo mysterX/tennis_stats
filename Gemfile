@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.4'
+#gem 'rails', '4.1.4'
+gem 'rails', '4.2.5'
+
 # Use postgres as the database for Active Record
 gem 'pg'
 
@@ -61,8 +63,13 @@ group :production do
   gem 'rails_12factor'
 end
 
+group :development, :test do
+  # Call 'byebug' anywhere in the code to stop execution and get a debugger console
+  gem 'byebug'
+end
+
 # Use debugger
-gem 'debugger', group: [:development, :test]
+#gem 'debugger', group: [:development, :test]
 
 # For CSV or Excel import/export
 gem 'roo'

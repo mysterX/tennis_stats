@@ -6,6 +6,8 @@ class Rpexception < ActiveRecord::Base
 
   has_many :rpexc_ambig_c
   has_many :rpexc_ambig_p
+  has_many :rpexc_ambig_pcode
+  has_many :rpexc_dup_pcode
 
   validates :rpexception_type, presence: true
   validates :ranking_player, presence: true
@@ -187,6 +189,42 @@ class Rpexception < ActiveRecord::Base
       ex_c.country = c
       ex_c.save!
     }
+    inst
+  end
+
+  # Create a ranking player exception from the info provided
+  # The exception and any child objects are saved to the database.
+  # rp must be a RankingPlayer
+  # p_code must be an array of String
+  def self.ambiguous_player_code(rp, p_info)
+    inst = Rpexception.new
+    inst.rpexception_type = RpexceptionType.ambiguous_player_code
+    inst.ranking_player = rp
+    inst.save!
+    p_info.each { |p| 
+      ex_p = RpexcAmbigPcode.new
+      ex_p.rpexception = inst
+      ex_p.p_code = p
+      ex_p.save!
+    }
+    inst
+  end
+
+  # Create a ranking player exception from the info provided
+  # The exception and any child objects are saved to the database.
+  # rp must be a RankingPlayer
+  # p_code must be a String
+  # dup_p must be a Player
+  def self.duplicate_player_code(rp, p_code, dup_p)
+    inst = Rpexception.new
+    inst.rpexception_type = RpexceptionType.duplicate_player_code
+    inst.ranking_player = rp
+    inst.save!
+    ex_p = RpexcDupPcode.new
+    ex_p.rpexception = inst
+    ex_p.p_code = p_code
+    ex_p.player = dup_p
+    ex_p.save!
     inst
   end
 end

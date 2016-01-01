@@ -1,4 +1,4 @@
-TennisStats::Application.routes.draw do
+Rails.application.routes.draw do
   resources :players
 
   get 'rankings/missing_player'

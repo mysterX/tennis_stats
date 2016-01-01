@@ -35,7 +35,14 @@ class RpexceptionType < ActiveRecord::Base
   CODE_NPWAC = "NPWAC"
   DESC_NPWAC = "No player with ambiguous country"
 
+  CODE_APC = "APC"
+  DESC_APC = "Ambiguous player code"
+
+  CODE_DPC = "DPC"
+  DESC_DPC = "Duplicate player code"
+
   def self.seed
+    RpexceptionType.delete_all
     RpexceptionType.new(exc_code: CODE_MPC, desc: DESC_MPC).save!
     RpexceptionType.new(exc_code: CODE_ACFPWM, desc: DESC_ACFPWM).save!
     RpexceptionType.new(exc_code: CODE_NCFP, desc: DESC_NCFP).save!
@@ -46,6 +53,8 @@ class RpexceptionType < ActiveRecord::Base
     RpexceptionType.new(exc_code: CODE_NPFC, desc: DESC_NPFC).save!
     RpexceptionType.new(exc_code: CODE_NPWNC, desc: DESC_NPWNC).save!
     RpexceptionType.new(exc_code: CODE_NPWAC, desc: DESC_NPWAC).save!
+    RpexceptionType.new(exc_code: CODE_APC, desc: DESC_APC).save!
+    RpexceptionType.new(exc_code: CODE_DPC, desc: DESC_DPC).save!
   end
 
   def self.mismatch_player_and_country
@@ -131,6 +140,24 @@ class RpexceptionType < ActiveRecord::Base
 
   def self.no_player_with_ambiguous_country
     rel = where(exc_code: CODE_NPWAC)
+    if rel.size > 0
+      rel[0]
+    else
+      nil
+    end
+  end
+
+  def self.ambiguous_player_code
+    rel = where(exc_code: CODE_APC)
+    if rel.size > 0
+      rel[0]
+    else
+      nil
+    end
+  end
+
+  def self.duplicate_player_code
+    rel = where(exc_code: CODE_DPC)
     if rel.size > 0
       rel[0]
     else
