@@ -1,0 +1,62 @@
+<h1>Ranking Exception <%= @rpexception.id %></h1>
+
+<p>
+  <%= label_tag "msg", @save_msg %>
+</p>
+
+<%= form_tag(rpexception_path, :method => "put", id: "rpe-edit-form") do %>
+
+<p>
+  <%= label_tag "p-name-lab", "Ranking player name: ", class: "rpe-rp-detail" %>
+  <%= label_tag "p-name-val", @rpexception.rp_name, class: "rpe-rp-detail" %>
+</p>
+
+<% if @rpexception.has_base_player %>
+<p>
+  <%= label_tag "base-name-lab", "Player name: ", class: "rpe-base-detail" %>
+  <%= label_tag "p-name-val", @rpexception.base_player_name, class: "rpe-base-detail" %>
+</p>
+
+<p>
+  <%= label_tag "base-code-lab", "Player Code: ", class: "rpe-base-detail" %>
+  <%= label_tag "p-code-val", @rpexception.base_player_code, class: "rpe-base-detail" %>
+</p>
+
+<p>
+  <%= label_tag "base-code-lab", "Player Country: ", class: "rpe-base-detail" %>
+  <%= label_tag "p-code-val", @rpexception.base_player_country_name, class: "rpe-base-detail" %>
+</p>
+
+<p>
+  <%= label_tag "base-code-lab", "Player Country Code: ", class: "rpe-base-detail" %>
+  <%= label_tag "p-code-val", @rpexception.base_player_country_code, class: "rpe-base-detail" %>
+</p>
+
+<% end %>
+
+<p>
+  <%= label_tag "p-nat-lab", "Ranking player nationality: ", class: "rpe-rp-detail" %>
+  <%= label_tag "p-nat-val", @rpexception.rp_nationality, class: "rpe-rp-detail" %>
+</p>
+
+<% if @rpexception.has_base_country %>
+<p>
+  <%= label_tag "base-name-lab", "Ranking Country name: ", class: "rpe-rp-detail" %>
+  <%= label_tag "p-name-val", @rpexception.base_country_name, class: "rpe-rp-detail" %>
+</p>
+
+<p>
+  <%= label_tag "base-code-lab", "Ranking Country Code: ", class: "rpe-rp-detail" %>
+  <%= label_tag "p-code-val", @rpexception.base_country_code, class: "rpe-rp-detail" %>
+</p>
+
+<% end %>
+
+<br>
+<br>
+
+<p>
+<%= link_to 'Back', rpexceptions_path(rpe_type_id: @rpexception.exception_type_id) %>
+</p>
+<% end %>
+

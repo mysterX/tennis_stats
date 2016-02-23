@@ -1,0 +1,62 @@
+<h1>Ranking Exception <%= @rpexception.id %></h1>
+
+<%= form_tag(rpexception_path, :method => "put", id: "rpe-edit-form") do %>
+
+<p>
+  <%= label_tag "p-name-lab", "Ranking player name: ", class: "rpe-rp-detail" %>
+  <%= label_tag "p-name-val", @rpexception.rp_name, class: "rpe-rp-detail" %>
+</p>
+
+<% if @rpexception.has_base_player %>
+<p>
+  <%= label_tag "base-name-lab", "Player name: ", class: "rpe-base-detail" %>
+  <%= label_tag "p-name-val", @rpexception.base_player_name, class: "rpe-base-detail" %>
+</p>
+
+<p>
+  <%= label_tag "base-code-lab", "Player Code: ", class: "rpe-base-detail" %>
+  <%= label_tag "p-code-val", @rpexception.base_player_code, class: "rpe-base-detail" %>
+</p>
+
+<p>
+  <%= label_tag "base-code-lab", "Player Country: ", class: "rpe-base-detail" %>
+  <%= label_tag "p-code-val", @rpexception.base_player_country_name, class: "rpe-base-detail" %>
+</p>
+
+<p>
+  <%= label_tag "base-code-lab", "Player Country Code: ", class: "rpe-base-detail" %>
+  <%= label_tag "p-code-val", @rpexception.base_player_country_code, class: "rpe-base-detail" %>
+</p>
+
+<% end %>
+
+<p>
+  <%= label_tag "p-nat-lab", "Ranking player nationality: ", class: "rpe-rp-detail" %>
+  <%= label_tag "p-nat-val", @rpexception.rp_nationality, class: "rpe-rp-detail" %>
+</p>
+
+<br>
+<p>
+  <%= label_tag "country-lab", "Enter country: " %>
+</p>
+<p>
+  <div class="country-search">
+    <input type="text" id="country-search-txt" autofocus>
+    <div class="results" id="country-search-results"></div>
+  </div>
+</p>
+<p>
+  <%= submit_tag "Set player country", :name => "update[:set_player_country]" %>
+</p>
+
+<p>
+<%= link_to 'Back', :back %>
+</p>
+
+<%= javascript_tag do %>
+  <!-- alert("Executing javascript in rpexceptions.edit"); -->
+  new app.Rpexceptions;
+<% end %>
+
+<% end %>
+

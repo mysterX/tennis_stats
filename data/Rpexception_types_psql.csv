@@ -1,0 +1,13 @@
+id,desc,created_at,updated_at,exc_code
+1,Mismatch player and country,2016-01-01 04:02:26.538112,2016-01-01 04:02:26.538112,MPC
+2,"Ambiguous country, found player with match",2016-01-01 04:02:26.552834,2016-01-01 04:02:26.552834,ACFPWM
+3,"No country, found player",2016-01-01 04:02:26.564898,2016-01-01 04:02:26.564898,NCFP
+4,"Ambiguous country, found player with no match",2016-01-01 04:02:26.576362,2016-01-01 04:02:26.576362,ACFPWNM
+5,"Ambiguous player, found country",2016-01-01 04:02:26.588235,2016-01-01 04:02:26.588235,APFC
+6,Ambiguous player with no country,2016-01-01 04:02:26.600524,2016-01-01 04:02:26.600524,APWNC
+7,Ambiguous player with ambiguous country,2016-01-01 04:02:26.612173,2016-01-01 04:02:26.612173,APWAC
+8,"No player, found country",2016-01-01 04:02:26.624063,2016-01-01 04:02:26.624063,NPFC
+9,No player with no country,2016-01-01 04:02:26.636087,2016-01-01 04:02:26.636087,NPWNC
+10,No player with ambiguous country,2016-01-01 04:02:26.647944,2016-01-01 04:02:26.647944,NPWAC
+11,Ambiguous player code,2016-01-01 04:02:26.660058,2016-01-01 04:02:26.660058,APC
+12,Duplicate player code,2016-01-01 04:02:26.671767,2016-01-01 04:02:26.671767,DPC
