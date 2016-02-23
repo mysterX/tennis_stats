@@ -133,16 +133,14 @@ module PlayersHelper
     rows = doc.css('table#player_info tr')
     player_name = rows[0].children[1].children[0].inner_text
     dob = rows[2].children[1].children[0].inner_text
-    nation = rows[4].children[1].children[0].inner_text
-    hand = rows[5].children[1].children[0].inner_text
+    nation = rows[5].children[1].children[0].inner_text
+    hand = rows[6].children[1].children[0].inner_text
     puts "Name=" + player_name + ", DOB=" + dob + ", Country=" + nation\
     + ", Hand=" + hand
   end
 
   # Create a player object from the ranking player and the player's URL
-  # If the player's p_code is already in use, then generate an exception
-  # If multiple non-used p_codes are generated for the player,
-  # then generate an exception.
+  # A unique p_code will always be generated for the new player.
   # rp must be a RankingPlayer
   # Return the generated player object, or nil if one cannot be created
   def self.generate_player_from_url(rp)
@@ -152,11 +150,11 @@ module PlayersHelper
     rows = doc.css('table#player_info tr')
     player_name = rows[0].children[1].children[0].inner_text
     dob = rows[2].children[1].children[0].inner_text
-    nation = rows[4].children[1].children[0].inner_text
-    hand = rows[5].children[1].children[0].inner_text
+    nation = rows[5].children[1].children[0].inner_text
+    hand = rows[6].children[1].children[0].inner_text
     name_array = generate_names_from_name(player_name)
-    p_codes = name_to_code(player_name)
-    if !name_array.nil? && p_codes.is_a?(Array) && p_codes.size > 0 && p_codes[0].is_a?(String) && p_codes[0].length > 0
+    p_code = name_to_new_code(player_name)
+    if !name_array.nil? && p_code.is_a?(String) && p_code.length > 0
       p = Player.new
       p.first_name = name_array[0]
       p.last_name = name_array[1]
@@ -169,33 +167,14 @@ module PlayersHelper
         + ": [" + nation + "] putting player in unknown country"
         p.country = Country.unknown_country
       end
-      filtered_p_codes = p_codes
-      if p_codes.size > 1
-        filtered_p_codes = p_codes.select { |pc|
-          Player.find_p_code(pc).nil?
-        }
-      end
-      if filtered_p_codes.size == 1
-        p_code = filtered_p_codes[0]
-        dup_p = Player.find_p_code(p_code)
-        if dup_p.nil?
-          p.p_code = p_code
-        else
-          # Raise duplicate p code exception
-          Rpexception.duplicate_player_code(rp, p_code, dup_p)
-          p.p_code = Player.generate_next_unknown_p_code
-        end
-      else
-        # Raise ambiguous p codes exception
-        Rpexception.ambiguous_player_code(rp, filtered_p_codes)
-        p.p_code = Player.generate_next_unknown_p_code
-      end
+      p.p_code = p_code
       if !dob.nil? && dob.downcase != "Unknown" && dob != ""
         p.dob = dob
       end
       if !hand.nil? && hand != ""
         p.set_hand(hand)
       end
+      p.save!
       p
     else
       nil
@@ -206,7 +185,6 @@ module PlayersHelper
     url = ITF_PLAYER_URL_PREFIX + id.to_s
     doc = Nokogiri::HTML(open(url))
     rows = doc.css('playerDetails fl')
-debugger
     player_name = rows[0].children[1].children[0].inner_text
     dob = rows[2].children[1].children[0].inner_text
     nation = rows[4].children[1].children[0].inner_text
@@ -330,6 +308,7 @@ debugger
   end
 
   def self.name_to_code(name)
+    # byebug
     name_array = name_to_lcase_array(name)
 
     # If name ends with suffix (e.g, jr, iii, etc.) track suffix and remove
@@ -365,6 +344,44 @@ debugger
       code.concat(code.collect { |x| x + sz_suf } )
     end
     code
+  end
+
+  # Generate a code for a given name, and verify it is unique
+  # This method will generate the codes which match the first letter of the
+  # first name(s), followed by the first <n> letters of the last name,
+  # creating a five-letter code. This will return an array of possible names.
+  # For names with three or more separate names, the array may have multiple
+  # possible codes.
+  # This method then iterates through each code to see if it is unique
+  # (not already assigned to another player). The first code which is unique
+  # is returned. If none of the codes in the array is unique, the method will
+  # take the first code from the array, and start appending _n, where
+  # n represents a counter value until a unique code is generated. Once the
+  # unique code is found, it will be returned.
+  def self.name_to_new_code(name)
+    ret_val = nil
+    code_array = name_to_code(name)
+    if !code_array.nil? and code_array.length > 0
+      code_array.each do |a_code|
+        if Player.find_by(p_code: a_code).nil?
+          ret_val = a_code
+          break
+        end
+
+        # If no code yet, append numeric counter
+        if ret_val.nil?
+          base_code = code_array[0]
+          for i in 2..1000 do
+            temp_code = base_code + "_" + i.to_s
+            if Player.find_by(p_code: temp_code).nil?
+              ret_val = temp_code
+              break
+            end
+          end
+        end
+      end
+    end
+    ret_val
   end
 
   def self.complex_name_to_code(name_array, div_pos)
@@ -532,10 +549,20 @@ debugger
         SystemLog.log("Player count = " + ct.to_s + "/" + tot.to_s)
         puts p.player_name + ", " + p.nationality + ", " + p.has_unresolved_exceptions.to_s
         new_player = generate_player_from_url(p)
-        if !new_player.nil?
-          new_player.save!
-        end
       end
     }
+  end
+
+  def self.generate_players_for_rpexceptions
+    # limit = 10
+    # i = 0
+    Rpexception.where("rpexception_type_id=8 and resolved=false").find_each do |rp|
+      newPlayer = rp.generate_player
+      # i = i + 1
+      # if i >= 10
+      #   break
+      # end
+      sleep 2
+    end
   end
 end

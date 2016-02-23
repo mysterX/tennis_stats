@@ -27,3 +27,6 @@ doc/
 .DS_Store
 .idea
 .secret
+*.sublime-project
+*.sublime-workspace
+.byebug_history

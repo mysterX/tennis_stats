@@ -59,7 +59,7 @@ h2 {
 
 p {
   font-size: 1.1em;
-  line-height: 1.7em;
+  line-height: 1.5em;
 }
 
 /* header */
@@ -204,6 +204,111 @@ input {
       border-bottom: 1px solid $gray-lighter;
     }
   }
+}
+
+/* Ranking Players Exception Types */
+
+.rpexception_types {
+  list-style: none;
+  margin: 0;
+  li {
+    overflow: auto;
+    padding: 10px 0;
+    border-top: 1px solid $gray-lighter;
+    &:last-child {
+      border-bottom: 1px solid $gray-lighter;
+    }
+  }
+}
+
+/* Ranking Players Exceptions listing */
+
+.rpexceptions {
+  list-style: none;
+  margin: 0;
+  li {
+    overflow: auto;
+    padding: 10px 0;
+    border-top: 1px solid $gray-lighter;
+    &:last-child {
+      border-bottom: 1px solid $gray-lighter;
+    }
+  }
+}
+
+/* Ranking Players Exceptions - Ranking Player Detail */
+.rpe-rp-detail {
+  color: #006600;
+  font-weight: bold;
+}
+
+/* Ranking Players Exceptions - Base Data Detail */
+.rpe-base-detail {
+  color: #0000FF;
+  font-weight: bold;
+}
+
+/* Country autocomplete presentation */
+.country-search input {
+  width: 100%;
+  font-size: 1em;
+  padding: .5em 1.3em;
+  background: transparent;
+  border: 1px solid #ddd;
+  border-radius: 2em;
+}
+
+.country-search input:focus {
+  border-color: #A5CEF5;
+}
+
+.country-search .results .ui-widget-content {
+  background: #fff;
+  font-size: .9em;
+  padding: .5em 0;
+  border-color: #ddd;
+  box-shadow: 0 .1em .2em rgba(187, 187, 187, 0.64);
+  line-height: 1.2;
+  max-height: 20em;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.country-search .results .ui-menu-item {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  padding: .1em .2em .1em 2.2em;
+  position: relative;
+  border: 0;
+  border-left: 5px solid transparent;
+  position: relative;
+}
+
+.country-search .results .ui-state-focus {
+  background: #fff;
+  border-left-color: #08c;
+  font-weight: 300;
+}
+
+.country-search .results .ui-menu-item .img {
+  position: absolute;
+  width: 5em;
+  height: 6em;
+  top: .4em;
+  left: .6em;
+  overflow: hidden;
+}
+
+.country-search .results .ui-menu-item .img img {
+  max-width: 100%;
+}
+
+.country-search .results .ui-menu-item .c_desc {
+  display: block;
+  color: #555;
+}
+
+.country-search .results .ui-state-focus .c_desc {
+  color: #08c;
 }
 
 /* miscellaneous */

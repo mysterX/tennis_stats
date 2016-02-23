@@ -27,7 +27,7 @@ class Country < ActiveRecord::Base
   end
 
   def self.unknown_country
-    Country.where(code_3: UNKNOWN_COUNTRY_CODE)
+    Country.find_by(code_3: UNKNOWN_COUNTRY_CODE)
   end
 
   def add_name_alias(an_alias)
@@ -186,5 +186,15 @@ class Country < ActiveRecord::Base
     else
       arr
     end
+  end
+
+  def name_and_code
+    # byebug
+    ret_val = (name.nil? ? "???" : name) + "/" + (code_3.nil? ? "???" : code_3)
+  end
+
+  def self.search_text(term)
+    # byebug
+    where('LOWER(name) LIKE :term OR LOWER(code_3)  LIKE :term OR LOWER(code_alias) LIKE :term', term: "%#{term.downcase}%")
   end
 end

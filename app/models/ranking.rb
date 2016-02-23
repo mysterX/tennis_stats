@@ -36,7 +36,6 @@ class Ranking < ActiveRecord::Base
   end
 
   def fillFromRow(row)
-#    debugger
     def_nation = self.country
     if def_nation.nil? || def_nation == ""
       def_nation = Country.unknown_country_code

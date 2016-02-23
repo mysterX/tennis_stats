@@ -104,13 +104,13 @@ class Player < ActiveRecord::Base
   end
 
   def self.importCsv(file)
+    # byebug
     spreadsheet = open_spreadsheet(file)
     header = spreadsheet.row(1)
     (2..spreadsheet.last_row).each do |i|
       row = Hash[[header, spreadsheet.row(i)].transpose]
       p_id = row["Player Id"].downcase
       playa = find_by(p_code: p_id) || new
-#      debugger
       playa.fillFromRow(row)
       playa.save!
     end
@@ -169,6 +169,22 @@ class Player < ActiveRecord::Base
     end
 
     ret_val
+  end
+
+  def get_country_id
+    if !country.nil?
+      country.country_id
+    else
+      -1
+    end
+  end
+
+  def get_country_name
+    if !country.nil?
+      country.name
+    else
+      nil
+    end
   end
 
   def get_country_code
@@ -533,5 +549,9 @@ class Player < ActiveRecord::Base
       end
       ret_val
     end
+  end
+
+  def first_and_last_name
+    first_name + " " + last_name
   end
 end
