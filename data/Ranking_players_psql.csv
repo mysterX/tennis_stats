@@ -1,0 +1,2335 @@
+id,player_name,p_code,nationality,c_code,player_url,created_at,updated_at,gender
+806,Anne Smith,asmit,United States,USA,/profile-bio/women/Anne_Smith/,,2016-01-12 00:31:48.761998,F
+1040,Andrea Temesvari,ateme,Hungary,HUN,/profile-bio/women/Andrea_Temesvari/,,2016-01-12 00:31:57.559407,F
+1225,Arne Thoms,athom,GER,DEU,/profile-bio/men/Arne_Thoms/,,2016-01-12 00:32:04.304574,M
+1372,Alberto Tous,atous,ESP,ESP,/profile-bio/men/Alberto_Tous/,,2016-01-12 00:32:09.911423,M
+1301,Andrea Vieira,aviei,Brazil,BRA,/profile-bio/women/Andrea_Vieira/,,2016-01-12 00:32:07.366887,F
+1303,Byron Black,bblac,ZIM,ZWE,/profile-bio/men/Byron_Black/,,2016-01-12 00:32:07.426976,M
+873,Belinda Borneo,bborn,United Kingdom,GBR,/profile-bio/women/Belinda_Borneo/,,2016-01-12 00:31:51.089999,F
+685,Barbara Collet,bcoll,France,FRA,/profile-bio/women/Barbara_Collet/,,2016-01-12 00:31:44.428419,F
+505,Belinda Cordwell,bcord,New Zealand,NZL,/profile-bio/women/Belinda_Cordwell/,,2016-01-12 00:31:38.235358,F
+396,Bruce Derlin,bderl,NZL,NZL,/profile-bio/men/Bruce_Derlin/,,2016-01-12 00:31:33.938538,M
+1337,Brian Devening,bdeve,USA,USA,/profile-bio/men/Brian_Devening/,,2016-01-12 00:32:08.53154,M
+987,Broderick Dyke,bdyke,AUS,AUS,/profile-bio/men/Broderick_Dyke/,,2016-01-12 00:31:55.674759,M
+612,Bret Garnett,bgarn,USA,USA,/profile-bio/men/Bret_Garnett/,,2016-01-12 00:31:41.824275,M
+140,Brian Garrow,bgarr,USA,USA,/profile-bio/men/Brian_Garrow/,,2016-01-12 00:31:25.140697,M
+1136,Brad Gilbert,bgilb,USA,USA,/profile-bio/men/Brad_Gilbert/,,2016-01-12 00:32:01.136224,M
+1058,Beth Herr,bherr,United States,USA,/profile-bio/women/Beth_Herr/,,2016-01-12 00:31:58.291524,F
+838,Bernd Karbacher,bkarb,GER,DEU,/profile-bio/men/Bernd_Karbacher/,,2016-01-12 00:31:49.949726,M
+980,Brian MacPhie,bmacp,USA,USA,/profile-bio/men/Brian_MacPhie/,,2016-01-12 00:31:55.470685,M
+1329,Bertrand Madsen,bmads,HAI,HTI,/profile-bio/men/Bertrand_Madsen/,,2016-01-12 00:32:08.255298,M
+428,Betsy Nagelsen,bnage,United States,USA,/profile-bio/women/Betsy_Nagelsen/,,2016-01-12 00:31:35.186595,F
+1068,Boris Becker,bobeck,GER,DEU,/profile-bio/men/Boris_Becker/,,2016-01-12 00:31:58.615424,M
+849,Bruno Oresar,bores,CRO,HRV,/profile-bio/men/Bruno_Oresar/,,2016-01-12 00:31:50.297782,M
+554,Barbara Paulus,bpaul,Austria,AUT,/profile-bio/women/Barbara_Paulus/,,2016-01-12 00:31:39.951415,F
+539,Beate Reinstadler,brein,Austria,AUT,/profile-bio/women/Beate_Reinstadler/,,2016-01-12 00:31:39.507486,F
+479,Barbara Rittner,britt,Germany,DEU,/profile-bio/women/Barbara_Rittner/,,2016-01-12 00:31:37.227124,F
+2103,Bill Scanlon,bscan,USA,USA,/profile-bio/men/Bill_Scanlon/,,2016-01-12 00:32:36.844671,M
+84,Denisa Krajcovicova,dkraj,Slovakia,SVK,/profile-bio/women/Denisa_Krajcovicova/,,,F
+2028,Byron Talbot,btalb,RSA,ZAF,/profile-bio/men/Byron_Talbot/,,2016-01-12 00:32:34.119927,M
+1894,Chuck Adams,cadam,USA,USA,/profile-bio/men/Chuck_Adams/,,2016-01-12 00:32:29.307532,M
+2010,Cammy Macgregor,camacg,United States,USA,/profile-bio/women/Cammy_Macgregor/,,2016-01-12 00:32:33.435812,F
+892,Carin Bakkum,cbakk,Netherlands,NLD,/profile-bio/women/Carin_Bakkum/,,2016-01-12 00:31:51.870042,F
+1628,Colin Beecher,cbeec,GBR,GBR,/profile-bio/men/Colin_Beecher/,,2016-01-12 00:32:19.440934,M
+1616,Camille Benjamin,cbenj,United States,USA,/profile-bio/women/Camille_Benjamin/,,2016-01-12 00:32:18.997189,F
+338,Craig Campbell,ccamp,RSA,ZAF,/profile-bio/men/Craig_Campbell/,,2016-01-12 00:31:32.054148,M
+401,Cristiano Caratti,ccara,ITA,ITA,/profile-bio/men/Cristiano_Caratti/,,2016-01-12 00:31:34.106803,M
+646,Cathy Caverzasio,ccave,Italy,ITA,/profile-bio/women/Cathy_Caverzasio/,,2016-01-12 00:31:43.024086,F
+1266,Celine Cohen,ccohe,Switzerland,CHE,/profile-bio/women/Celine_Cohen/,,2016-01-12 00:32:05.974698,F
+990,Carlos Costa,ccost,ESP,ESP,/profile-bio/men/Carlos_Costa/,,2016-01-12 00:31:55.758751,M
+1189,Carrie Cunningham,ccunn,United States,USA,/profile-bio/women/Carrie_Cunningham/,,2016-01-12 00:32:02.888237,F
+1385,Cecilia Dahlman,cdahl,Sweden,SWE,/profile-bio/women/Cecilia_Dahlman/,,2016-01-12 00:32:10.355345,F
+1382,Caroline Dhenin,cdhen,France,FRA,/profile-bio/women/Caroline_Dhenin/,,2016-01-12 00:32:10.283509,F
+1276,Charlton Eagle,ceagl,AUS,AUS,/profile-bio/men/Charlton_Eagle/,,2016-01-12 00:32:06.334664,M
+110,Sabrina Goles,sgole,Croatia,HRV,/profile-bio/women/Sabrina_Goles/,,,F
+20,Mohamed Dlimi,mdlim,MAR,MAR,/profile-bio/men/Mohamed_Dlimi/,,,M
+21,Jorgen Nilsson,jnils,SWE,SWE,/profile-bio/men/Jorgen_Nilsson/,,,M
+22,Jose Nunes,jnune,POR,PRT,/profile-bio/men/Jose_Nunes/,,,M
+23,Paul Dogger,pdogg,NED,NLD,/profile-bio/men/Paul_Dogger/,,,M
+25,Woody Hunt,whunt,USA,USA,/profile-bio/men/Woody_Hunt/,,,M
+27,George Bezecny,gbeze,USA,USA,/profile-bio/men/George_Bezecny/,,,M
+28,Hemel Meghani,hmegh,United States,USA,/profile-bio/women/Hemel_Meghani/,,,F
+29,Leandro Almeida,lalme,BRA,BRA,/profile-bio/men/Leandro_Almeida/,,,M
+30,Akiko Gooden,agood,United States,USA,/profile-bio/women/Akiko_Gooden/,,,F
+31,Manuel Gasbarri,mgasb,ITA,ITA,/profile-bio/men/Manuel_Gasbarri/,,,M
+32,Reinhard Wawra,rwawr,AUT,AUT,/profile-bio/men/Reinhard_Wawra/,,,M
+71,Reda Galou,rgalo,ALG,DZA,/profile-bio/men/Reda_Galou/,,,M
+24,Jia-Ping Xia,jpxia,CHN,CHN,/profile-bio/men/Jia-Ping_Xia/,,,M
+26,Karin Oberleitner,kober,Austria,AUT,/profile-bio/women/Karin_Oberleitner/,,,F
+33,Sofie Albinus,salbi,Denmark,DNK,/profile-bio/women/Sofie_Albinus/,,,F
+114,Eno Polo,epolo,KEN,KEN,/profile-bio/men/Eno_Polo/,,,M
+594,Chris Evert,cever,United States,USA,/profile-bio/women/Chris_Evert/,,2016-01-12 00:31:41.235905,F
+1054,Christelle Fauche,cfauc,Switzerland,CHE,/profile-bio/women/Christelle_Fauche/,,2016-01-12 00:31:58.147602,F
+718,Chris Garner,cgarn,USA,USA,/profile-bio/men/Chris_Garner/,,2016-01-12 00:31:45.484629,M
+1354,Colette Hall,chall,United Kingdom,GBR,/profile-bio/women/Colette_Hall/,,2016-01-12 00:32:09.179428,F
+165,Charles Honey,chone,RSA,ZAF,/profile-bio/men/Charles_Honey/,,2016-01-12 00:31:26.053175,M
+1395,Claudia Kohde-Kilsch,ckohd,Germany,DEU,/profile-bio/women/Claudia_Kohde-Kilsch/,,2016-01-12 00:32:10.655696,F
+1090,Caroline Kuhlman,ckuhl,United States,USA,/profile-bio/women/Caroline_Kuhlman/,,2016-01-12 00:31:59.455791,F
+59,Carl Limberger,climb,AUS,AUS,/profile-bio/men/Carl_Limberger/,,2016-01-12 00:31:22.308167,M
+1353,Catarina Lindqvist,clind,Sweden,SWE,/profile-bio/women/Catarina_Lindqvist/,,2016-01-12 00:32:09.143573,F
+1187,Claudio Mezzadri,cmezz,SUI,CHE,/profile-bio/men/Claudio_Mezzadri/,,2016-01-12 00:32:02.828418,M
+1726,Christina Papadaki,cpapa,Greece,GRC,/profile-bio/women/Christina_Papadaki/,,2016-01-12 00:32:23.041829,F
+75,Claudia Porwik,cporw,Germany,DEU,/profile-bio/women/Claudia_Porwik/,,2016-01-12 00:31:22.860462,F
+1322,Chris Pridham,cprid,CAN,CAN,/profile-bio/men/Chris_Pridham/,,2016-01-12 00:32:08.075149,M
+577,Christian Ruud,cruud,NOR,NOR,/profile-bio/men/Christian_Ruud/,,2016-01-12 00:31:40.671838,M
+1084,Christian Saceanu,csace,GER,DEU,/profile-bio/men/Christian_Saceanu/,,2016-01-12 00:31:59.228001,M
+1255,Catherine Suire,csuir,France,FRA,/profile-bio/women/Catherine_Suire/,,2016-01-12 00:32:05.554699,F
+97,Catherine Tanvier,ctanv,France,FRA,/profile-bio/women/Catherine_Tanvier/,,2016-01-12 00:31:23.68861,F
+1056,Cristina Tessi,ctess,Argentina,ARG,/profile-bio/women/Cristina_Tessi/,,2016-01-12 00:31:58.219439,F
+529,Clare Thompson,cthom,Australia,AUS,/profile-bio/women/Clare_Thompson/,,2016-01-12 00:31:39.171394,F
+1390,Carl-Uwe Steeb,custe,GER,DEU,/profile-bio/men/Carl-Uwe_Steeb/,,2016-01-12 00:32:10.487403,M
+640,Christo Van Rensburg,cvanr,RSA,ZAF,/profile-bio/men/Christo_Van_Rensburg/,,2016-01-12 00:31:42.88007,M
+1399,Caroline Vis,cvis,Netherlands,NLD,/profile-bio/women/Caroline_Vis/,,2016-01-12 00:32:10.811641,F
+1944,David Adams,dadam,RSA,ZAF,/profile-bio/men/David_Adams/,,2016-01-12 00:32:31.023353,M
+614,Dave Randall,davrand,USA,USA,/profile-bio/men/Dave_Randall/,,2016-01-12 00:31:41.896189,M
+901,Dick Bosse,dboss,RSA,ZAF,/profile-bio/men/Dick_Bosse/,,2016-01-12 00:31:52.23021,M
+251,Daniel Courcol,dcour,FRA,FRA,/profile-bio/men/Daniel_Courcol/,,2016-01-12 00:31:29.089291,M
+1108,Donna Faber,dfabe,United States,USA,/profile-bio/women/Donna_Faber/,,2016-01-12 00:32:00.091626,F
+70,Doug Flach,dflac,USA,USA,/profile-bio/men/Doug_Flach/,,2016-01-12 00:31:22.680239,M
+1209,Dan Goldie,dgold,USA,USA,/profile-bio/men/Dan_Goldie/,,2016-01-12 00:32:03.728757,M
+2046,Damir Keretic,dkere,GER,DEU,/profile-bio/men/Damir_Keretic/,,2016-01-12 00:32:34.744098,M
+1149,Donni Leaycraft,dleay,USA,USA,/profile-bio/men/Donni_Leaycraft/,,2016-01-12 00:32:01.628068,M
+661,Danilo Marcelino,dmarc,BRA,BRA,/profile-bio/men/Danilo_Marcelino/,,2016-01-12 00:31:43.444389,M
+1016,Dominique Monami,dmona,Belgium,BEL,/profile-bio/women/Dominique_Monami/,,2016-01-12 00:31:56.683369,F
+805,David Nainkin,dnain,RSA,ZAF,/profile-bio/men/David_Nainkin/,,2016-01-12 00:31:48.719842,M
+214,Diego Nargiso,dnarg,ITA,ITA,/profile-bio/men/Diego_Nargiso/,,2016-01-12 00:31:27.745323,M
+933,Daniel Nestor,dnest,CAN,CAN,/profile-bio/men/Daniel_Nestor/,,2016-01-12 00:31:53.478552,M
+659,Daniel Orsanic,dorsa,ARG,ARG,/profile-bio/men/Daniel_Orsanic/,,2016-01-12 00:31:43.38446,M
+1207,Darren Patten,dpatt,AUS,AUS,/profile-bio/men/Darren_Patten/,,2016-01-12 00:32:03.627539,M
+1235,David Rikl,drikl,CZE,CZE,/profile-bio/men/David_Rikl/,,2016-01-12 00:32:04.652765,M
+1349,Danny Sapsford,dsaps,GBR,GBR,/profile-bio/men/Danny_Sapsford/,,2016-01-12 00:32:08.963385,M
+421,Danie Visser,dviss,RSA,ZAF,/profile-bio/men/Danie_Visser/,,2016-01-12 00:31:34.970533,M
+969,Eduardo Bengoechea,ebeng,ARG,ARG,/profile-bio/men/Eduardo_Bengoechea/,,2016-01-12 00:31:55.111013,M
+932,Els Callens,ecall,Belgium,BEL,/profile-bio/women/Els_Callens/,,2016-01-12 00:31:53.442442,F
+881,Emmanuelle Derly,ederl,France,FRA,/profile-bio/women/Emmanuelle_Derly/,,2016-01-12 00:31:51.414019,F
+1780,Elly Hakami,ehaka,United States,USA,/profile-bio/women/Elly_Hakami/,,2016-01-12 00:32:25.190334,F
+484,Ei Iida,eiida,Japan,JPN,/profile-bio/women/Ei_Iida/,,2016-01-12 00:31:37.467449,F
+132,Eduardo Masso,emass,BEL,BEL,/profile-bio/men/Eduardo_Masso/,,2016-01-12 00:31:24.900874,M
+1694,Eva Pfaff,epfaf,Germany,DEU,/profile-bio/women/Eva_Pfaff/,,2016-01-12 00:32:21.914011,F
+494,Eyal Ran,eran,ISR,ISR,/profile-bio/men/Eyal_Ran/,,2016-01-12 00:31:37.839544,M
+935,Elna Reinach,erein,South Africa,ZAF,/profile-bio/women/Elna_Reinach/,,2016-01-12 00:31:53.550347,F
+1541,Eleni Rossides,eross,United States,USA,/profile-bio/women/Eleni_Rossides/,,2016-01-12 00:32:15.984452,F
+1184,Emilio Sanchez,esanc,ESP,ESP,/profile-bio/men/Emilio_Sanchez/,,2016-01-12 00:32:02.732502,M
+1592,Eric Winogradsky,ewino,FRA,FRA,/profile-bio/men/Eric_Winogradsky/,,2016-01-12 00:32:17.940835,M
+1597,Federica Bonsignori,fbons,Italy,ITA,/profile-bio/women/Federica_Bonsignori/,,2016-01-12 00:32:18.072907,F
+682,Francesco Cancellotti,fcanc,ITA,ITA,/profile-bio/men/Francesco_Cancellotti/,,2016-01-12 00:31:44.3565,M
+713,Franco Davin,fdavi,ARG,ARG,/profile-bio/men/Franco_Davin/,,2016-01-12 00:31:45.364788,M
+1051,Frederik Fetterlein,ffett,DEN,DNK,/profile-bio/men/Frederik_Fetterlein/,,2016-01-12 00:31:58.027256,M
+670,Frederic Fontang,ffont,FRA,FRA,/profile-bio/men/Frederic_Fontang/,,2016-01-12 00:31:43.82853,M
+1773,Florencia Labat,flaba,Argentina,ARG,/profile-bio/women/Florencia_Labat/,,2016-01-12 00:32:24.950283,F
+644,Fang Li,fli,China,CHN,/profile-bio/women/Fang_Li/,,2016-01-12 00:31:42.976182,F
+651,Fernando Luna,fluna,ESP,ESP,/profile-bio/men/Fernando_Luna/,,2016-01-12 00:31:43.156136,M
+1342,Francisco Maciel,fmaci,MEX,MEX,/profile-bio/men/Francisco_Maciel/,,2016-01-12 00:32:08.723271,M
+684,Francisco Montana,fmont,USA,USA,/profile-bio/men/Francisco_Montana/,,2016-01-12 00:31:44.404525,M
+192,Irina Spirlea,ispir,XXX,XXX,/profile-bio/women/Irina_Spirlea/,,,F
+184,Flora Perfetti,fperf,Italy,ITA,/profile-bio/women/Flora_Perfetti/,,2016-01-12 00:31:26.772979,F
+258,Felipe Rivera,frive,CHI,CHL,/profile-bio/men/Felipe_Rivera/,,2016-01-12 00:31:29.28148,M
+1220,Fernando Roese,froes,BRA,BRA,/profile-bio/men/Fernando_Roese/,,2016-01-12 00:32:04.136835,M
+400,Francisco Roig,froig,ESP,ESP,/profile-bio/men/Francisco_Roig/,,2016-01-12 00:31:34.071005,M
+1144,Fernon Wibier,fwibi,NED,NLD,/profile-bio/men/Fernon_Wibier/,,2016-01-12 00:32:01.46044,M
+509,Francisco Yunis,fyuni,ARG,ARG,/profile-bio/men/Francisco_Yunis/,,2016-01-12 00:31:38.379323,M
+741,Gary Muller,gamull,RSA,ZAF,/profile-bio/men/Gary_Muller/,,2016-01-12 00:31:46.264826,M
+498,Gilad Bloom,gbloo,ISR,ISR,/profile-bio/men/Gilad_Bloom/,,2016-01-12 00:31:37.983459,M
+188,Grant Doyle,gdoyl,AUS,AUS,/profile-bio/men/Grant_Doyle/,,2016-01-12 00:31:26.893051,M
+1578,Gigi Fernandez,gfern,United States,USA,/profile-bio/women/Gigi_Fernandez/,,2016-01-12 00:32:17.388968,F
+1536,Guy Forget,gforg,FRA,FRA,/profile-bio/men/Guy_Forget/,,2016-01-12 00:32:15.86461,M
+302,Greg Holmes,gholm,USA,USA,/profile-bio/men/Greg_Holmes/,,2016-01-12 00:31:30.637806,M
+1324,Glenn Layendecker,glaye,USA,USA,/profile-bio/men/Glenn_Layendecker/,,2016-01-12 00:32:08.134972,M
+1117,Gretchen Magers,gmage,United States,USA,/profile-bio/women/Gretchen_Magers/,,2016-01-12 00:32:00.403936,F
+858,Gabriel Markus,gmark,ARG,ARG,/profile-bio/men/Gabriel_Markus/,,2016-01-12 00:31:50.609789,M
+2088,Guillermo Perez-Roldan,gpere,ARG,ARG,/profile-bio/men/Guillermo_Perez-Roldan/,,2016-01-12 00:32:36.316582,M
+716,Gloria Pizzichini,gpizz,Italy,ITA,/profile-bio/women/Gloria_Pizzichini/,,2016-01-12 00:31:45.436647,F
+1398,Gianluca Pozzi,gpozz,ITA,ITA,/profile-bio/men/Gianluca_Pozzi/,,2016-01-12 00:32:10.763708,M
+1188,Goran Prpic,gprpi,CRO,HRV,/profile-bio/men/Goran_Prpic/,,2016-01-12 00:32:02.852384,M
+399,Guillaume Raoux,graou,FRA,FRA,/profile-bio/men/Guillaume_Raoux/,,2016-01-12 00:31:34.034591,M
+168,Gabriela Sabatini,gsaba,Argentina,ARG,/profile-bio/women/Gabriela_Sabatini/,,2016-01-12 00:31:26.161018,F
+512,Gilbert Schaller,gscha,AUT,AUT,/profile-bio/men/Gilbert_Schaller/,,2016-01-12 00:31:38.487323,M
+1044,Grant Stafford,gstaf,RSA,ZAF,/profile-bio/men/Grant_Stafford/,,2016-01-12 00:31:57.715506,M
+368,Guillermo Vilas,gvila,ARG,ARG,/profile-bio/men/Guillermo_Vilas/,,2016-01-12 00:31:33.026221,M
+460,Hans-Dieter Beutel,hdbeu,GER,DEU,/profile-bio/men/Hans-Dieter_Beutel/,,2016-01-12 00:31:36.470854,M
+606,Horacio De La Pena,hdelap,ARG,ARG,/profile-bio/men/Horacio_De_La_Pena/,,2016-01-12 00:31:41.583961,M
+1114,Heath Denman,hdenm,AUS,AUS,/profile-bio/men/Heath_Denman/,,2016-01-12 00:32:00.283733,M
+470,Henrik Holm,hholm,SWE,SWE,/profile-bio/men/Henrik_Holm/,,2016-01-12 00:31:36.818929,M
+928,Helen Kelesi,hkele,Canada,CAN,/profile-bio/women/Helen_Kelesi/,,2016-01-12 00:31:53.298486,F
+1882,Henri Leconte,hleco,FRA,FRA,/profile-bio/men/Henri_Leconte/,,2016-01-12 00:32:28.839103,M
+1574,Heiner Moraing,hmora,GER,DEU,/profile-bio/men/Heiner_Moraing/,,2016-01-12 00:32:17.221035,M
+735,Hector Moretti,hmore,ARG,ARG,/profile-bio/men/Hector_Moretti/,,2016-01-12 00:31:46.061013,M
+304,Hans Schwaier,hschw,GER,DEU,/profile-bio/men/Hans_Schwaier/,,2016-01-12 00:31:30.757789,M
+719,Henrik Sundstrom,hsund,SWE,SWE,/profile-bio/men/Henrik_Sundstrom/,,2016-01-12 00:31:45.520807,M
+1352,Hu Na,huna,United States,USA,/profile-bio/women/Hu_Na/,,2016-01-12 00:32:09.07138,F
+573,Ivan Baron,ibaro,USA,USA,/profile-bio/men/Ivan_Baron/,,2016-01-12 00:31:40.539832,M
+374,Isabel Cueto,icuet,Germany,DEU,/profile-bio/women/Isabel_Cueto/,,2016-01-12 00:31:33.206159,F
+679,Isabelle Demongeot,idemo,France,FRA,/profile-bio/women/Isabelle_Demongeot/,,2016-01-12 00:31:44.272653,F
+740,Ingelise Driehuis,idrie,Netherlands,NLD,/profile-bio/women/Ingelise_Driehuis/,,2016-01-12 00:31:46.241536,F
+1749,Iwona Kuczynska,ikucz,Poland,POL,/profile-bio/women/Iwona_Kuczynska/,,2016-01-12 00:32:24.110333,F
+1706,Ian Peter-Budge,ipete,AUS,AUS,/profile-bio/men/Ian_Peter-Budge/,,2016-01-12 00:32:22.358072,M
+1103,Jo-Anne Faull,jafau,Australia,AUS,/profile-bio/women/Jo-Anne_Faull/,,2016-01-12 00:31:59.923838,F
+959,Jason Goodall,jagood,GBR,GBR,/profile-bio/men/Jason_Goodall/,,2016-01-12 00:31:54.643165,M
+1166,Johan Anderson,jande,AUS,AUS,/profile-bio/men/Johan_Anderson/,,2016-01-12 00:32:02.168128,M
+341,John Arbanas,jarba,AUS,AUS,/profile-bio/men/John_Arbanas/,,2016-01-12 00:31:32.150017,M
+1348,Jeremy Bates,jbate,GBR,GBR,/profile-bio/men/Jeremy_Bates/,,2016-01-12 00:32:08.939184,M
+276,Jordi Burillo,jburi,ESP,ESP,/profile-bio/men/Jordi_Burillo/,,2016-01-12 00:31:29.821733,M
+883,Jonathan Canter,jcant,USA,USA,/profile-bio/men/Jonathan_Canter/,,2016-01-12 00:31:51.486143,M
+591,Johan Carlsson,jcarl,SWE,SWE,/profile-bio/men/Johan_Carlsson/,,2016-01-12 00:31:41.103656,M
+131,Josef Cihak,jciha,CZE,CZE,/profile-bio/men/Josef_Cihak/,,2016-01-12 00:31:24.8647,M
+1100,Jimmy Connors,jconn,USA,USA,/profile-bio/men/Jimmy_Connors/,,2016-01-12 00:31:59.8158,M
+1063,Jim Courier,jcour,USA,USA,/profile-bio/men/Jim_Courier/,,2016-01-12 00:31:58.435358,M
+999,Joao Cunha-Silva,jcunh,POR,PRT,/profile-bio/men/Joao_Cunha-Silva/,,2016-01-12 00:31:56.05905,M
+720,Jo Durie,jduri,United Kingdom,GBR,/profile-bio/women/Jo_Durie/,,2016-01-12 00:31:45.544723,F
+416,Joshua Eagle,jeagl,AUS,AUS,/profile-bio/men/Joshua_Eagle/,,2016-01-12 00:31:34.754689,M
+600,Javier Frana,jfran,ARG,ARG,/profile-bio/men/Javier_Frana/,,2016-01-12 00:31:41.391717,M
+107,John Frawley,jfraw,AUS,AUS,/profile-bio/men/John_Frawley/,,2016-01-12 00:31:23.988409,M
+602,Jennifer Fuchs,jfuch,United States,USA,/profile-bio/women/Jennifer_Fuchs/,,2016-01-12 00:31:41.45175,F
+87,Jan Gunnarsson,jgunn,SWE,SWE,/profile-bio/men/Jan_Gunnarsson/,,2016-01-12 00:31:23.280274,M
+424,Jill Hetherington,jheth,Canada,CAN,/profile-bio/women/Jill_Hetherington/,,2016-01-12 00:31:35.066503,F
+528,Jakob Hlasek,jhlas,SUI,CHE,/profile-bio/men/Jakob_Hlasek/,,2016-01-12 00:31:39.135456,M
+1545,Jozsef Krocsko,jkroc,HUN,HUN,/profile-bio/men/Jozsef_Krocsko/,,2016-01-12 00:32:16.152692,M
+1429,Jose-Luis Clerc,jlcle,ARG,ARG,/profile-bio/men/Jose-Luis_Clerc/,,2016-01-12 00:32:11.832039,M
+1681,John-Laffnie de Jager,jldej,RSA,ZAF,/profile-bio/men/John-Laffnie_de_Jager/,,2016-01-12 00:32:21.385648,M
+86,Rikard Bergh,rberg,SWE,SWE,/profile-bio/men/Rikard_Bergh/,,,M
+534,John Letts,jlett,USA,USA,/profile-bio/men/John_Letts/,,2016-01-12 00:31:39.351468,M
+660,Joanne Limmer,jlimm,Australia,AUS,/profile-bio/women/Joanne_Limmer/,,2016-01-12 00:31:43.42057,F
+314,Jorge Lozano,jloza,MEX,MEX,/profile-bio/men/Jorge_Lozano/,,2016-01-12 00:31:31.177895,M
+766,John Marinov,jmari,AUS,AUS,/profile-bio/men/John_Marinov/,,2016-01-12 00:31:47.117214,M
+1302,John McEnroe,jmcen,USA,USA,/profile-bio/men/John_McEnroe/,,2016-01-12 00:32:07.403037,M
+230,Jaime Oncins,jonci,BRA,BRA,/profile-bio/men/Jaime_Oncins/,,2016-01-12 00:31:28.321604,M
+104,Jared Palmer,jpalm,USA,USA,/profile-bio/men/Jared_Palmer/,,2016-01-12 00:31:23.916553,M
+248,Jerome Potier,jpoti,FRA,FRA,/profile-bio/men/Jerome_Potier/,,2016-01-12 00:31:28.993493,M
+516,Joey Rive,jrive,USA,USA,/profile-bio/men/Joey_Rive/,,2016-01-12 00:31:38.691403,M
+69,Julie Salmon,jsalm,United Kingdom,GBR,/profile-bio/women/Julie_Salmon/,,2016-01-12 00:31:22.6442,F
+118,Javier Sanchez,jsanc,ESP,ESP,/profile-bio/men/Javier_Sanchez/,,2016-01-12 00:31:24.396685,M
+531,Jennifer Santrock,jsant,United States,USA,/profile-bio/women/Jennifer_Santrock/,,2016-01-12 00:31:39.243669,F
+1315,Jan Siemerink,jsiem,NED,NLD,/profile-bio/men/Jan_Siemerink/,,2016-01-12 00:32:07.834982,M
+112,Jason Stoltenberg,jstol,AUS,AUS,/profile-bio/men/Jason_Stoltenberg/,,2016-01-12 00:31:24.168566,M
+721,John Sullivan,jsull,USA,USA,/profile-bio/men/John_Sullivan/,,2016-01-12 00:31:45.568904,M
+74,Jeff Tarango,jtara,USA,USA,/profile-bio/men/Jeff_Tarango/,,2016-01-12 00:31:22.824342,M
+1871,Juan Aguilera,juagui,ESP,ESP,/profile-bio/men/Juan_Aguilera/,,2016-01-12 00:32:28.394893,M
+2054,Joost Winnink,jwinn,NED,NLD,/profile-bio/men/Joost_Winnink/,,2016-01-12 00:32:34.984323,M
+293,Jaime Yzaga,jyzag,PER,PER,/profile-bio/men/Jaime_Yzaga/,,2016-01-12 00:31:30.42159,M
+318,Katrina Adams,kadam,United States,USA,/profile-bio/women/Katrina_Adams/,,2016-01-12 00:31:31.346164,F
+1334,Karsten Braasch,kbraa,GER,DEU,/profile-bio/men/Karsten_Braasch/,,2016-01-12 00:32:08.423334,M
+1383,Kenneth Carlsen,kcarl,DEN,DNK,/profile-bio/men/Kenneth_Carlsen/,,2016-01-12 00:32:10.307491,M
+1124,Kent Carlsson,kentcarl,SWE,SWE,/profile-bio/men/Kent_Carlsson/,,2016-01-12 00:32:00.655895,M
+81,Kelly Evernden,kever,NZL,NZL,/profile-bio/men/Kelly_Evernden/,,2016-01-12 00:31:23.076516,M
+953,Ken Flach,kflac,USA,USA,/profile-bio/men/Ken_Flach/,,2016-01-12 00:31:54.414746,M
+680,Kaye Hand,khand,United Kingdom,GBR,/profile-bio/women/Kaye_Hand/,,2016-01-12 00:31:44.308703,F
+44,Kelly Jones,kjone,USA,USA,/profile-bio/men/Kelly_Jones/,,2016-01-12 00:31:21.804109,M
+705,Kathy Jordan,kjord,United States,USA,/profile-bio/women/Kathy_Jordan/,,2016-01-12 00:31:45.088809,F
+1834,Kathrin Keil,kkeil,United States,USA,/profile-bio/women/Kathrin_Keil/,,2016-01-12 00:32:27.050907,F
+1446,Kimberly Kessaris,kkess,United States,USA,/profile-bio/women/Kimberly_Kessaris/,,2016-01-12 00:32:12.491886,F
+1201,Kent Kinnear,kkinn,USA,USA,/profile-bio/men/Kent_Kinnear/,,2016-01-12 00:32:03.344499,M
+835,Karol Kucera,kkuce,SVK,SVK,/profile-bio/men/Karol_Kucera/,,2016-01-12 00:31:49.85352,M
+1521,Kristine Kunce,kkunc,Australia,AUS,/profile-bio/women/Kristine_Kunce/,,2016-01-12 00:32:15.324614,F
+296,Kate McDonald,kmcdo,Australia,AUS,/profile-bio/women/Kate_McDonald/,,2016-01-12 00:31:30.493542,F
+643,Katarzyna Nowak,knowa,Poland,POL,/profile-bio/women/Katarzyna_Nowak/,,2016-01-12 00:31:42.952181,F
+889,Katia Piccolini,kpicc,Italy,ITA,/profile-bio/women/Katia_Piccolini/,,2016-01-12 00:31:51.726066,F
+1110,Karen Schimper,kschi,South Africa,ZAF,/profile-bio/women/Karen_Schimper/,,2016-01-12 00:32:00.151952,F
+363,Kirrily Sharpe,kshar,Australia,AUS,/profile-bio/women/Kirrily_Sharpe/,,2016-01-12 00:31:32.858331,F
+1118,Kim Steinmetz,kstei,United States,USA,/profile-bio/women/Kim_Steinmetz/,,2016-01-12 00:32:00.439882,F
+105,Kenny Thorne,kthor,USA,USA,/profile-bio/men/Kenny_Thorne/,,2016-01-12 00:31:23.94047,M
+1279,Lars-Anders Wahlgren,lawah,SWE,SWE,/profile-bio/men/Lars-Anders_Wahlgren/,,2016-01-12 00:32:06.44277,M
+320,Lawson Duncan,ldunc,USA,USA,/profile-bio/men/Lawson_Duncan/,,2016-01-12 00:31:31.430061,M
+551,Linda Ferrando,lferr,Italy,ITA,/profile-bio/women/Linda_Ferrando/,,2016-01-12 00:31:39.867539,F
+1671,Louise Field,lfiel,Australia,AUS,/profile-bio/women/Louise_Field/,,2016-01-12 00:32:21.02557,F
+1046,Laura Garrone,lgarr,Italy,ITA,/profile-bio/women/Laura_Garrone/,,2016-01-12 00:31:57.835742,F
+818,Lisa Gould,lgoul,United Kingdom,GBR,/profile-bio/women/Lisa_Gould/,,2016-01-12 00:31:49.241709,F
+522,Lisa Green,lgree,United States,USA,/profile-bio/women/Lisa_Green/,,2016-01-12 00:31:38.919366,F
+482,Lindsay Bartlett,linbart,United States,USA,/profile-bio/women/Lindsay_Bartlett/,,2016-01-12 00:31:37.335464,F
+397,Libor Nemecek,lineme,CZE,CZE,/profile-bio/men/Libor_Nemecek/,,2016-01-12 00:31:33.962569,M
+253,Luke Jensen,ljens,USA,USA,/profile-bio/men/Luke_Jensen/,,2016-01-12 00:31:29.149522,M
+1134,Lars Jonsson,ljons,SWE,SWE,/profile-bio/men/Lars_Jonsson/,,2016-01-12 00:32:01.064149,M
+1417,Lars Koslowski,lkosl,GER,DEU,/profile-bio/men/Lars_Koslowski/,,2016-01-12 00:32:11.363682,M
+1234,Laura Lapi,llapi,Italy,ITA,/profile-bio/women/Laura_Lapi/,,2016-01-12 00:32:04.616618,F
+655,Leonardo Lavalle,llava,MEX,MEX,/profile-bio/men/Leonardo_Lavalle/,,2016-01-12 00:31:43.264376,M
+1151,Lori McNeil,lmcne,United States,USA,/profile-bio/women/Lori_McNeil/,,2016-01-12 00:32:01.675954,F
+1465,Lisa O'Neill,lonei,Australia,AUS,/profile-bio/women/Lisa_O,,2016-01-12 00:32:13.152017,F
+812,Laxmi Poruri,lporu,United States,USA,/profile-bio/women/Laxmi_Poruri/,,2016-01-12 00:31:49.001875,F
+1179,Laurent Prades,lprad,FRA,FRA,/profile-bio/men/Laurent_Prades/,,2016-01-12 00:32:02.600463,M
+464,Lisa Raymond,lraym,United States,USA,/profile-bio/women/Lisa_Raymond/,,2016-01-12 00:31:36.615532,F
+563,Larry Scott,lscot,USA,USA,/profile-bio/men/Larry_Scott/,,2016-01-12 00:31:40.251566,M
+1953,Louise Stacey,lstac,Australia,AUS,/profile-bio/women/Louise_Stacey/,,2016-01-12 00:32:31.359453,F
+1763,Laurie Warder,lward,AUS,AUS,/profile-bio/men/Laurie_Warder/,,2016-01-12 00:32:24.5902,M
+1813,Magdalena Maleeva,magmale,Bulgaria,BGR,/profile-bio/women/Magdalena_Maleeva/,,2016-01-12 00:32:26.282397,F
+780,Mark Kratzmann,makrat,AUS,AUS,/profile-bio/men/Mark_Kratzmann/,,2016-01-12 00:31:47.657458,M
+370,Kevin Ullyett,kully,ZIM,ZWE,/profile-bio/men/Kevin_Ullyett/,,,M
+1379,Malcolm Allen,malle,USA,USA,/profile-bio/men/Malcolm_Allen/,,2016-01-12 00:32:10.163573,M
+723,MaliVai Washington,malwash,USA,USA,/profile-bio/men/MaliVai_Washington/,,2016-01-12 00:31:45.628802,M
+1047,Matt Anger,mange,USA,USA,/profile-bio/men/Matt_Anger/,,2016-01-12 00:31:57.871435,M
+711,Manuela Maleeva-Fragniere,manmale,Switzerland,CHE,/profile-bio/women/Manuela_Maleeva-Fragniere/,,2016-01-12 00:31:45.304947,F
+552,Martin Blackman,mblac,USA,USA,/profile-bio/men/Martin_Blackman/,,2016-01-12 00:31:39.891429,M
+1216,Manon Bollegraf,mboll,Netherlands,NLD,/profile-bio/women/Manon_Bollegraf/,,2016-01-12 00:32:03.980806,F
+362,Michelle Bowrey,mbowr,Australia,AUS,/profile-bio/women/Michelle_Bowrey/,,2016-01-12 00:31:32.822314,F
+1069,Marie-Christine Calleja,mccal,France,FRA,/profile-bio/women/Marie-Christine_Calleja/,,2016-01-12 00:31:58.651581,F
+358,Michael Chang,mchan,USA,USA,/profile-bio/men/Michael_Chang/,,2016-01-12 00:31:32.702344,M
+1412,Martin Damm,mdamm,CZE,CZE,/profile-bio/men/Martin_Damm/,,2016-01-12 00:32:11.183844,M
+1096,Marty Davis,mdavi,USA,USA,/profile-bio/men/Marty_Davis/,,2016-01-12 00:31:59.659636,M
+433,Mariaan De Swardt,mdesw,South Africa,ZAF,/profile-bio/women/Mariaan_De_Swardt/,,2016-01-12 00:31:35.342945,F
+1292,Maureen Drake,mdrak,Canada,CAN,/profile-bio/women/Maureen_Drake/,,2016-01-12 00:32:06.946947,F
+492,Mark Draper,mdrap,AUS,AUS,/profile-bio/men/Mark_Draper/,,2016-01-12 00:31:37.767508,M
+803,Maria Ekstrand,mekst,Sweden,SWE,/profile-bio/women/Maria_Ekstrand/,,2016-01-12 00:31:48.473527,F
+410,Mana Endo,mendo,Japan,JPN,/profile-bio/women/Mana_Endo/,,2016-01-12 00:31:34.502664,F
+608,Marcelo Filippini,mfili,URU,URY,/profile-bio/men/Marcelo_Filippini/,,2016-01-12 00:31:41.65587,M
+676,Marc Flur,mflur,USA,USA,/profile-bio/men/Marc_Flur/,,2016-01-12 00:31:44.164816,M
+130,Marzia Grossi,mgros,Italy,ITA,/profile-bio/women/Marzia_Grossi/,,2016-01-12 00:31:24.828754,F
+1927,Magnus Gustafsson,mgust,SWE,SWE,/profile-bio/men/Magnus_Gustafsson/,,2016-01-12 00:32:30.339487,M
+795,Mauricio Hadad,mhada,COL,COL,/profile-bio/men/Mauricio_Hadad/,,2016-01-12 00:31:48.14968,M
+1087,Marcelo Hennemann,mhenn,BRA,BRA,/profile-bio/men/Marcelo_Hennemann/,,2016-01-12 00:31:59.3477,M
+327,Marcelo Ingaramo,minga,ARG,ARG,/profile-bio/men/Marcelo_Ingaramo/,,2016-01-12 00:31:31.682029,M
+325,Martin Jaite,mjait,ARG,ARG,/profile-bio/men/Martin_Jaite/,,2016-01-12 00:31:31.610064,M
+989,Mary Joe Fernandez,mjfer,United States,USA,/profile-bio/women/Mary_Joe_Fernandez/,,2016-01-12 00:31:55.73482,F
+373,Michael Joyce,mjoyc,USA,USA,/profile-bio/men/Michael_Joyce/,,2016-01-12 00:31:33.182178,M
+506,Mark Keil,mkeil,USA,USA,/profile-bio/men/Mark_Keil/,,2016-01-12 00:31:38.271562,M
+770,Mark Knowles,mknow,BAH,BHS,/profile-bio/men/Mark_Knowles/,,2016-01-12 00:31:47.273317,M
+1840,Mark Koevermans,mkoev,NED,NLD,/profile-bio/men/Mark_Koevermans/,,2016-01-12 00:32:27.27892,M
+549,Martin Laurendeau,mlaur,CAN,CAN,/profile-bio/men/Martin_Laurendeau/,,2016-01-12 00:31:39.79555,M
+101,Maider Laval,mlava,France,FRA,/profile-bio/women/Maider_Laval/,,2016-01-12 00:31:23.82051,F
+37,Maria Lindstrom,mlind,Sweden,SWE,/profile-bio/women/Maria_Lindstrom/,,2016-01-12 00:31:21.564518,F
+761,Marion Maruska,mmaru,Austria,AUT,/profile-bio/women/Marion_Maruska/,,2016-01-12 00:31:46.961235,F
+1719,Meredith McGrath,mmcgr,United States,USA,/profile-bio/women/Meredith_McGrath/,,2016-01-12 00:32:22.813833,F
+378,Misumi Miyauchi,mmiya,Japan,JPN,/profile-bio/women/Misumi_Miyauchi/,,2016-01-12 00:31:33.326405,F
+808,Markus Naewie,mnaew,GER,DEU,/profile-bio/men/Markus_Naewie/,,2016-01-12 00:31:48.833729,M
+1034,Massimiliano Narducci,mnard,ITA,ITA,/profile-bio/men/Massimiliano_Narducci/,,2016-01-12 00:31:57.343258,M
+1240,Martina Navratilova,mnavr,United States,USA,/profile-bio/women/Martina_Navratilova/,,2016-01-12 00:32:04.822396,F
+402,Miguel Nido,mnido,PUR,PRI,/profile-bio/men/Miguel_Nido/,,2016-01-12 00:31:34.143076,M
+1045,Marcos Ondruska,mondr,RSA,ZAF,/profile-bio/men/Marcos_Ondruska/,,2016-01-12 00:31:57.785609,M
+958,Menno Oosting,moost,NED,NLD,/profile-bio/men/Menno_Oosting/,,2016-01-12 00:31:54.594529,M
+1039,Miriam Oremans,morem,Netherlands,NLD,/profile-bio/women/Miriam_Oremans/,,2016-01-12 00:31:57.523484,F
+137,Mikael Pernfors,mpern,SWE,SWE,/profile-bio/men/Mikael_Pernfors/,,2016-01-12 00:31:25.06864,M
+301,Mark Petchey,mpetc,GBR,GBR,/profile-bio/men/Mark_Petchey/,,2016-01-12 00:31:30.613529,M
+1244,Mary Pierce,mpier,France,FRA,/profile-bio/women/Mary_Pierce/,,2016-01-12 00:32:05.118175,F
+355,Martin Rodriguez,mrodr,ARG,ARG,/profile-bio/men/Martin_Rodriguez/,,2016-01-12 00:31:32.606119,M
+262,Marc Rosset,mross,SUI,CHE,/profile-bio/men/Marc_Rosset/,,2016-01-12 00:31:29.401444,M
+778,Maurice Ruah,mruah,VEN,VEN,/profile-bio/men/Maurice_Ruah/,,2016-01-12 00:31:47.585426,M
+548,Martin Sinner,msinn,GER,DEU,/profile-bio/men/Martin_Sinner/,,2016-01-12 00:31:39.771553,M
+389,Milan Srejber,msrej,CZE,CZE,/profile-bio/men/Milan_Srejber/,,2016-01-12 00:31:33.746303,M
+284,Michael Stich,mstic,GER,DEU,/profile-bio/men/Michael_Stich/,,2016-01-12 00:31:30.121781,M
+178,Martin Strelba,mstre,CZE,CZE,/profile-bio/men/Martin_Strelba/,,2016-01-12 00:31:26.557114,M
+1974,Michael Tauson,mtaus,DEN,DNK,/profile-bio/men/Michael_Tauson/,,2016-01-12 00:32:32.139613,M
+843,Magnus Tideman,mtide,SWE,SWE,/profile-bio/men/Magnus_Tideman/,,2016-01-12 00:31:50.105721,M
+1782,Mikael Tillstrom,mtill,SWE,SWE,/profile-bio/men/Mikael_Tillstrom/,,2016-01-12 00:32:25.262557,M
+1380,Mario Visconti,mvisc,ITA,ITA,/profile-bio/men/Mario_Visconti/,,2016-01-12 00:32:10.199668,M
+1126,Mats Wilander,mwila,SWE,SWE,/profile-bio/men/Mats_Wilander/,,2016-01-12 00:32:00.727941,M
+1158,Martin Wostenholme,mwost,CAN,CAN,/profile-bio/men/Martin_Wostenholme/,,2016-01-12 00:32:01.879989,M
+65,Markus Zillner,mzill,GER,DEU,/profile-bio/men/Markus_Zillner/,,2016-01-12 00:31:22.512027,M
+1478,Maja Zivec-Skulj,mzive,Germany,DEU,/profile-bio/women/Maja_Zivec-Skulj/,,2016-01-12 00:32:13.560364,F
+950,Nicole Arendt,naren,United States,USA,/profile-bio/women/Nicole_Arendt/,,2016-01-12 00:31:54.306656,F
+1376,Noam Behr,nbehr,ISR,ISR,/profile-bio/men/Noam_Behr/,,2016-01-12 00:32:10.055549,M
+583,Neil Borwick,nborw,AUS,AUS,/profile-bio/men/Neil_Borwick/,,2016-01-12 00:31:40.863744,M
+793,Nick Brown,nbrow,GBR,GBR,/profile-bio/men/Nick_Brown/,,2016-01-12 00:31:48.077534,M
+450,Monica Seles,msele,United States,USA,/profile-bio/women/Monica_Seles/,,,F
+2037,Nanne Dahlman,ndahl,Finland,FIN,/profile-bio/women/Nanne_Dahlman/,,2016-01-12 00:32:34.420197,F
+203,Neige Dias,ndias,Brazil,BRA,/profile-bio/women/Neige_Dias/,,2016-01-12 00:31:27.397025,F
+1113,Neil Broad,nebroa,GBR,GBR,/profile-bio/men/Neil_Broad/,,2016-01-12 00:32:00.259855,M
+992,Nick Gould,ngoul,GBR,GBR,/profile-bio/men/Nick_Gould/,,2016-01-12 00:31:55.806803,M
+1091,Nicklas Kulti,nkult,SWE,SWE,/profile-bio/men/Nicklas_Kulti/,,2016-01-12 00:31:59.491825,M
+263,Nuno Marques,nmarq,POR,PRT,/profile-bio/men/Nuno_Marques/,,2016-01-12 00:31:29.425552,M
+43,Nicole Pratt,nprat,Australia,AUS,/profile-bio/women/Nicole_Pratt/,,2016-01-12 00:31:21.780098,F
+129,Naoko Sawamatsu,nsawa,Japan,JPN,/profile-bio/women/Naoko_Sawamatsu/,,2016-01-12 00:31:24.792618,F
+54,Niurka Sodupe,nsodu,United States,USA,/profile-bio/women/Niurka_Sodupe/,,2016-01-12 00:31:22.140022,F
+1042,Nathalie Tauziat,ntauz,France,FRA,/profile-bio/women/Nathalie_Tauziat/,,2016-01-12 00:31:57.631482,F
+336,Noelle Van Lottum,nvanl,France,FRA,/profile-bio/women/Noelle_Van_Lottum/,,2016-01-12 00:31:31.970035,F
+1272,Olivier Delaitre,odela,FRA,FRA,/profile-bio/men/Olivier_Delaitre/,,2016-01-12 00:32:06.202769,M
+393,Oliver Fuchs,ofuch,AUT,AUT,/profile-bio/men/Oliver_Fuchs/,,2016-01-12 00:31:33.842458,M
+295,Olli Rahnasto,orahn,FIN,FIN,/profile-bio/men/Olli_Rahnasto/,,2016-01-12 00:31:30.469582,M
+1388,Olivier Soules,osoul,FRA,FRA,/profile-bio/men/Olivier_Soules/,,2016-01-12 00:32:10.427387,M
+971,Olga Tsarbopoulou,otsar,Greece,GRC,/profile-bio/women/Olga_Tsarbopoulou/,,2016-01-12 00:31:55.182675,F
+68,Pieter Aldrich,paldr,RSA,ZAF,/profile-bio/men/Pieter_Aldrich/,,2016-01-12 00:31:22.60817,M
+497,Pablo Arraya,parra,PER,PER,/profile-bio/men/Pablo_Arraya/,,2016-01-12 00:31:37.947357,M
+443,Patrick Baur,pbaur,GER,DEU,/profile-bio/men/Patrick_Baur/,,2016-01-12 00:31:35.810875,M
+1355,Pierre Bouteyre,pbout,FRA,FRA,/profile-bio/men/Pierre_Bouteyre/,,2016-01-12 00:32:09.215424,M
+2290,Paolo Cane,pcane,ITA,ITA,/profile-bio/men/Paolo_Cane/,,2016-01-12 00:32:43.686257,M
+379,Peter Carter,pcart,AUS,AUS,/profile-bio/men/Peter_Carter/,,2016-01-12 00:31:33.362391,M
+1183,Pat Cash,pcash,AUS,AUS,/profile-bio/men/Pat_Cash/,,2016-01-12 00:32:02.708379,M
+475,Pat Crow,pcrow,USA,USA,/profile-bio/men/Pat_Crow/,,2016-01-12 00:31:37.0832,M
+645,Pascale Etchemendy,petch,France,FRA,/profile-bio/women/Pascale_Etchemendy/,,2016-01-12 00:31:43.00007,F
+855,Patty Fendick,pfend,United States,USA,/profile-bio/women/Patty_Fendick/,,2016-01-12 00:31:50.501876,F
+299,Paul Haarhuis,phaar,NED,NLD,/profile-bio/men/Paul_Haarhuis/,,2016-01-12 00:31:30.565584,M
+2328,Petra Huber,phube,Austria,AUT,/profile-bio/women/Petra_Huber/,,2016-01-12 00:32:45.066351,F
+1311,Philip Johnson,pjohn,USA,USA,/profile-bio/men/Philip_Johnson/,,2016-01-12 00:32:07.702959,M
+1287,Pamela Jung,pjung,United States,USA,/profile-bio/women/Pamela_Jung/,,2016-01-12 00:32:06.778871,F
+2064,Petra Kamstra,pkams,Netherlands,NLD,/profile-bio/women/Petra_Kamstra/,,2016-01-12 00:32:35.380495,F
+704,Patrice Kuchna,pkuch,FRA,FRA,/profile-bio/men/Patrice_Kuchna/,,2016-01-12 00:31:45.05288,M
+1495,Peter Lundgren,plund,SWE,SWE,/profile-bio/men/Peter_Lundgren/,,2016-01-12 00:32:14.256249,M
+1200,Patrick McEnroe,pmcen,USA,USA,/profile-bio/men/Patrick_McEnroe/,,2016-01-12 00:32:03.320541,M
+1700,Peter Moraing,pmora,GER,DEU,/profile-bio/men/Peter_Moraing/,,2016-01-12 00:32:22.129625,M
+1743,Philippe Pech,ppech,FRA,FRA,/profile-bio/men/Philippe_Pech/,,2016-01-12 00:32:23.85269,M
+201,Pedro Rebolledo,prebo,CHI,CHL,/profile-bio/men/Pedro_Rebolledo/,,2016-01-12 00:31:27.336969,M
+1078,Petra Schwarz,pschw,Austria,AUT,/profile-bio/women/Petra_Schwarz/,,2016-01-12 00:31:58.951734,F
+836,Petra Thoren,pthor,Finland,FIN,/profile-bio/women/Petra_Thoren/,,2016-01-12 00:31:49.877592,F
+758,Pilar Vasquez,pvasq,Peru,PER,/profile-bio/women/Pilar_Vasquez/,,2016-01-12 00:31:46.85306,F
+255,Paul Wekesa,pweke,KEN,KEN,/profile-bio/men/Paul_Wekesa/,,2016-01-12 00:31:29.197424,M
+991,Ricardo Acuna,racun,CHI,CHL,/profile-bio/men/Ricardo_Acuna/,,2016-01-12 00:31:55.782847,M
+2311,Ronnie Bathman,rbath,SWE,SWE,/profile-bio/men/Ronnie_Bathman/,,2016-01-12 00:32:44.453936,M
+1236,Ryan Blake,rblak,USA,USA,/profile-bio/men/Ryan_Blake/,,2016-01-12 00:32:04.678437,M
+187,Robert Eriksson,rerik,SWE,SWE,/profile-bio/men/Robert_Eriksson/,,2016-01-12 00:31:26.868886,M
+804,Robyn Field,rfiel,South Africa,ZAF,/profile-bio/women/Robyn_Field/,,2016-01-12 00:31:48.521467,F
+1252,Richard Fromberg,rfrom,AUS,AUS,/profile-bio/men/Richard_Fromberg/,,2016-01-12 00:32:05.422336,M
+180,Renzo Furlan,rfurl,ITA,ITA,/profile-bio/men/Renzo_Furlan/,,2016-01-12 00:31:26.616963,M
+871,Rodolphe Gilbert,rgilb,FRA,FRA,/profile-bio/men/Rodolphe_Gilbert/,,2016-01-12 00:31:51.029811,M
+1402,Rika Hiraki,rhira,Japan,JPN,/profile-bio/women/Rika_Hiraki/,,2016-01-12 00:32:10.907596,F
+995,Richard Krajicek,rkraj,NED,NLD,/profile-bio/men/Richard_Krajicek/,,2016-01-12 00:31:55.914911,M
+576,Ramesh Krishnan,rkris,IND,IND,/profile-bio/men/Ramesh_Krishnan/,,2016-01-12 00:31:40.647662,M
+1698,Rick Leach,rleac,USA,USA,/profile-bio/men/Rick_Leach/,,2016-01-12 00:32:22.069639,M
+1994,Richard Matuszewski,rmatu,USA,USA,/profile-bio/men/Richard_Matuszewski/,,2016-01-12 00:32:32.859763,M
+853,Rachel McQuillan,rmcqu,Australia,AUS,/profile-bio/women/Rachel_McQuillan/,,2016-01-12 00:31:50.429614,F
+656,Ronni Reis,rreis,United States,USA,/profile-bio/women/Ronni_Reis/,,2016-01-12 00:31:43.28828,F
+1373,Richey Reneberg,rrene,USA,USA,/profile-bio/men/Richey_Reneberg/,,2016-01-12 00:32:09.947477,M
+1181,Roberto Saad,rsaad,ARG,ARG,/profile-bio/men/Roberto_Saad/,,2016-01-12 00:32:02.660322,M
+501,Robert Seguso,rsegu,USA,USA,/profile-bio/men/Robert_Seguso/,,2016-01-12 00:31:38.091314,M
+1013,Rene Simpson,rsimp,Canada,CAN,/profile-bio/women/Rene_Simpson/,,2016-01-12 00:31:56.575253,F
+1210,Roger Smith,rsmit,BAH,BHS,/profile-bio/men/Roger_Smith/,,2016-01-12 00:32:03.764623,M
+633,Rennae Stubbs,rstub,Australia,AUS,/profile-bio/women/Rennae_Stubbs/,,2016-01-12 00:31:42.640349,F
+41,Ryuso Tsujino,rtsuj,JPN,JPN,/profile-bio/men/Ryuso_Tsujino/,,2016-01-12 00:31:21.708295,M
+527,Radomir Vasek,rvase,CZE,CZE,/profile-bio/men/Radomir_Vasek/,,2016-01-12 00:31:39.099383,M
+634,Ruxandra Dragomir Ilie,rdrag,XXX,XXX,/profile-bio/women/Ruxandra_Dragomir_Ilie/,,,F
+638,Rachel Viollet,rviol,United Kingdom,GBR,/profile-bio/women/Rachel_Viollet/,,2016-01-12 00:31:42.832167,F
+241,Sophie Amiach,samia,France,FRA,/profile-bio/women/Sophie_Amiach/,,2016-01-12 00:31:28.753493,F
+1905,Sabine Appelmans,sappe,Belgium,BEL,/profile-bio/women/Sabine_Appelmans/,,2016-01-12 00:32:29.643073,F
+585,Shane Barr,sbarr,AUS,AUS,/profile-bio/men/Shane_Barr/,,2016-01-12 00:31:40.924015,M
+1624,Sarah Bentley,sbent,United Kingdom,GBR,/profile-bio/women/Sarah_Bentley/,,2016-01-12 00:32:19.309238,F
+220,Sandra Birch,sbirc,United States,USA,/profile-bio/women/Sandra_Birch/,,2016-01-12 00:31:27.973331,F
+49,Sergio Casal,scasa,ESP,ESP,/profile-bio/men/Sergio_Casal/,,2016-01-12 00:31:21.960008,M
+863,Sandy Collins,scoll,United States,USA,/profile-bio/women/Sandy_Collins/,,2016-01-12 00:31:50.78982,F
+2350,Scott Davis,sdavi,USA,USA,/profile-bio/men/Scott_Davis/,,2016-01-12 00:32:45.846607,M
+1459,Sandra Dopfer,sdopf,Austria,AUT,/profile-bio/women/Sandra_Dopfer/,,2016-01-12 00:32:12.97197,F
+666,Sara Gomer,sgome,United Kingdom,GBR,/profile-bio/women/Sara_Gomer/,,2016-01-12 00:31:43.684555,F
+954,Steffi Graf,sgraf,Germany,DEU,/profile-bio/women/Steffi_Graf/,,2016-01-12 00:31:54.450631,F
+783,Sabine Hack,shack,Germany,DEU,/profile-bio/women/Sabine_Hack/,,2016-01-12 00:31:47.76549,F
+861,Sylvia Hanika,shani,Germany,DEU,/profile-bio/women/Sylvia_Hanika/,,2016-01-12 00:31:50.718041,F
+2286,Sandrine Jaquet,sjaqu,Switzerland,CHE,/profile-bio/women/Sandrine_Jaquet/,,2016-01-12 00:32:43.506107,F
+1506,Svetlana Krivencheva,skriv,Bulgaria,BGR,/profile-bio/women/Svetlana_Krivencheva/,,2016-01-12 00:32:14.616267,F
+483,Stacey Martin,smart,United States,USA,/profile-bio/women/Stacey_Martin/,,2016-01-12 00:31:37.409971,F
+1174,Shuzo Matsuoka,smats,JPN,JPN,/profile-bio/men/Shuzo_Matsuoka/,,2016-01-12 00:32:02.444394,M
+1230,Sally McCann,smcca,Australia,AUS,/profile-bio/women/Sally_McCann/,,2016-01-12 00:32:04.472795,F
+734,Silke Meier,smeie,Germany,DEU,/profile-bio/women/Silke_Meier/,,2016-01-12 00:31:46.036981,F
+149,Scott Melville,smelv,USA,USA,/profile-bio/men/Scott_Melville/,,2016-01-12 00:31:25.416529,M
+45,Steffi Menning,smenn,Germany,DEU,/profile-bio/women/Steffi_Menning/,,2016-01-12 00:31:21.840174,F
+1286,Sandor Noszaly,snosz,HUN,HUN,/profile-bio/men/Sandor_Noszaly/,,2016-01-12 00:32:06.742814,M
+1803,Stephanie Rehe,srehe,United States,USA,/profile-bio/women/Stephanie_Rehe/,,2016-01-12 00:32:26.030477,F
+561,Stephanie Rottier,srott,Netherlands,NLD,/profile-bio/women/Stephanie_Rottier/,,2016-01-12 00:31:40.203568,F
+652,Stephane Sansoni,ssans,FRA,FRA,/profile-bio/men/Stephane_Sansoni/,,2016-01-12 00:31:43.180179,M
+273,Stacey Schefflin,ssche,United States,USA,/profile-bio/women/Stacey_Schefflin/,,2016-01-12 00:31:29.713962,F
+465,Simone Schilder,sschi,Netherlands,NLD,/profile-bio/women/Simone_Schilder/,,2016-01-12 00:31:36.651089,F
+582,Samantha Smith,ssmit,United Kingdom,GBR,/profile-bio/women/Samantha_Smith/,,2016-01-12 00:31:40.839889,F
+763,Shaun Stafford,sstaf,United States,USA,/profile-bio/women/Shaun_Stafford/,,2016-01-12 00:31:47.03315,F
+1401,Sandrine Testud,stest,France,FRA,/profile-bio/women/Sandrine_Testud/,,2016-01-12 00:32:10.883611,F
+1340,Slobodan Zivojinovic,szivo,YUG,YUG,/profile-bio/men/Slobodan_Zivojinovic/,,2016-01-12 00:32:08.651316,M
+446,Thierry Champion,tcham,FRA,FRA,/profile-bio/men/Thierry_Champion/,,2016-01-12 00:31:35.918971,M
+254,Thomas Enqvist,tenqv,SWE,SWE,/profile-bio/men/Thomas_Enqvist/,,2016-01-12 00:31:29.173396,M
+447,Tommy Ho,tho,USA,USA,/profile-bio/men/Tommy_Ho/,,2016-01-12 00:31:35.954966,M
+847,Tatiana Ignatieva,tigna,Belarus,BLR,/profile-bio/women/Tatiana_Ignatieva/,,2016-01-12 00:31:50.225747,F
+80,Tina Krizan,tkriz,Slovenia,SVN,/profile-bio/women/Tina_Krizan/,,2016-01-12 00:31:23.040352,F
+658,Todd Martin,tmart,USA,USA,/profile-bio/men/Todd_Martin/,,2016-01-12 00:31:43.336172,M
+587,Tore Meinecke,tmein,GER,DEU,/profile-bio/men/Tore_Meinecke/,,2016-01-12 00:31:40.983633,M
+978,Tom Mercer,tmerc,USA,USA,/profile-bio/men/Tom_Mercer/,,2016-01-12 00:31:55.422722,M
+1307,Tina Mochizuki,tmoch,United States,USA,/profile-bio/women/Tina_Mochizuki/,,2016-01-12 00:32:07.571159,F
+1082,Thomas Muster,tmust,AUT,AUT,/profile-bio/men/Thomas_Muster/,,2016-01-12 00:31:59.096088,M
+1865,Todd Nelson,tnels,USA,USA,/profile-bio/men/Todd_Nelson/,,2016-01-12 00:32:28.1909,M
+2325,Terry Phelps,tphel,United States,USA,/profile-bio/women/Terry_Phelps/,,2016-01-12 00:32:44.946119,F
+382,Tessa Price,tpric,South Africa,ZAF,/profile-bio/women/Tessa_Price/,,2016-01-12 00:31:33.470474,F
+1185,Tine Scheuer-Larsen,tsche,Denmark,DNK,/profile-bio/women/Tine_Scheuer-Larsen/,,2016-01-12 00:32:02.756277,F
+597,Tamaka Takagi,ttaka,Japan,JPN,/profile-bio/women/Tamaka_Takagi/,,2016-01-12 00:31:41.307784,F
+334,Torben Theine,tthei,GER,DEU,/profile-bio/men/Torben_Theine/,,2016-01-12 00:31:31.921973,M
+726,Todd Witsken,twits,USA,USA,/profile-bio/men/Todd_Witsken/,,2016-01-12 00:31:45.748918,M
+224,Todd Woodbridge,twood,AUS,AUS,/profile-bio/men/Todd_Woodbridge/,,2016-01-12 00:31:28.105299,M
+434,Tammy Whittington,tywhit,United States,USA,/profile-bio/women/Tammy_Whittington/,,2016-01-12 00:31:35.378786,F
+559,Vijay Amritraj,vamri,IND,IND,/profile-bio/men/Vijay_Amritraj/,,2016-01-12 00:31:40.107568,M
+92,Valda Lake,vlake,United Kingdom,GBR,/profile-bio/women/Valda_Lake/,,2016-01-12 00:31:23.436403,F
+567,Veli Paloheimo,vpalo,FIN,FIN,/profile-bio/men/Veli_Paloheimo/,,2016-01-12 00:31:40.38345,M
+1290,Virginia Ruano Pascual,vruan,Spain,ESP,/profile-bio/women/Virginia_Ruano_Pascual/,,2016-01-12 00:32:06.874904,F
+1339,Wayne Arthurs,warth,AUS,AUS,/profile-bio/men/Wayne_Arthurs/,,2016-01-12 00:32:08.615475,M
+175,Wayne Ferreira,wferr,RSA,ZAF,/profile-bio/men/Wayne_Ferreira/,,2016-01-12 00:31:26.436981,M
+813,Wojtek Kowalski,wkowa,POL,POL,/profile-bio/men/Wojtek_Kowalski/,,2016-01-12 00:31:49.037703,M
+1107,Wally Masur,wmasu,AUS,AUS,/profile-bio/men/Wally_Masur/,,2016-01-12 00:32:00.067701,M
+821,Wiltrud Probst,wprob,Germany,DEU,/profile-bio/women/Wiltrud_Probst/,,2016-01-12 00:31:49.361524,F
+976,Wendy Turnbull,wturn,Australia,AUS,/profile-bio/women/Wendy_Turnbull/,,2016-01-12 00:31:55.350814,F
+729,Tomas Smid,tsmid,CZE,CZE,/profile-bio/men/Tomas_Smid/,,,M
+730,Anne Minter,amint,Australia,AUS,/profile-bio/women/Anne_Minter/,,,F
+439,Xavier Daufresne,xdauf,BEL,BEL,/profile-bio/men/Xavier_Daufresne/,,2016-01-12 00:31:35.63113,M
+1661,Yayuk Basuki,ybasu,Indonesia,IDN,/profile-bio/women/Yayuk_Basuki/,,2016-01-12 00:32:20.641636,F
+143,Yahiya Doumbia,ydoum,SEN,SEN,/profile-bio/men/Yahiya_Doumbia/,,2016-01-12 00:31:25.236746,M
+760,Zina Garrison,zgarr,United States,USA,/profile-bio/women/Zina_Garrison/,,2016-01-12 00:31:46.925199,F
+555,Eoin Collins,ecoll,IRL,IRL,/profile-bio/men/Eoin_Collins/,,,M
+922,Natasha Zvereva,nzver,Belarus,BLR,/profile-bio/women/Natasha_Zvereva/,,,F
+899,Iva Budarova,ibuda,Czech Republic,CZE,/profile-bio/women/Iva_Budarova/,,,F
+1011,Zeeshan Ali,zali,IND,IND,/profile-bio/men/Zeeshan_Ali/,,,M
+1145,Karin Kschwendt,kksch,Austria,AUT,/profile-bio/women/Karin_Kschwendt/,,,F
+1256,Leona Laskova,llask,Czech Republic,CZE,/profile-bio/women/Leona_Laskova/,,,F
+1331,Csilla Bartos,cbart,Switzerland,CHE,/profile-bio/women/Csilla_Bartos/,,,F
+1433,Andrea Strnadova,astrn,Czech Republic,CZE,/profile-bio/women/Andrea_Strnadova/,,,F
+1555,Andrei Chesnokov,aches,RUS,RUS,/profile-bio/men/Andrei_Chesnokov/,,,M
+88,Sascha Petratschek,spetr,GER,DEU,/profile-bio/men/Sascha_Petratschek/,,,M
+1775,Andrei Olhovskiy,aolho,RUS,RUS,/profile-bio/men/Andrei_Olhovskiy/,,,M
+1963,Ivan Lendl,ilend,USA,USA,/profile-bio/men/Ivan_Lendl/,,,M
+2031,Libor Pimek,lpime,BEL,BEL,/profile-bio/men/Libor_Pimek/,,,M
+2105,Min Tang,mtang,Hong Kong,HKG,/profile-bio/women/Min_Tang/,,,F
+2127,Emile N'Goran,en,CIV,XXX,/profile-bio/men/Emile_N,,,M
+2227,Andrea Holikova,aholi,Czech Republic,CZE,/profile-bio/women/Andrea_Holikova/,,,F
+2287,Andres Vysand,avysa,GER,DEU,/profile-bio/men/Andres_Vysand/,,,M
+2340,Alexander Volkov,avolk,RUS,RUS,/profile-bio/men/Alexander_Volkov/,,,M
+1848,Barbara Mulej,bmule,Slovenia,SVN,/profile-bio/women/Barbara_Mulej/,,,F
+1810,Cassio Motta,cmott,BRA,BRA,/profile-bio/men/Cassio_Motta/,,,M
+820,Dimitri Poliakov,dpoli,UKR,UKR,/profile-bio/men/Dimitri_Poliakov/,,,M
+2271,Hana Mandlikova,hmand,Australia,AUS,/profile-bio/women/Hana_Mandlikova/,,,F
+1573,Helena Sukova,hsuko,Czech Republic,CZE,/profile-bio/women/Helena_Sukova/,,,F
+351,Mansour Bahrami,mbahr,IRI,IRN,/profile-bio/men/Mansour_Bahrami/,,,M
+1153,Nduka Odizor,nodiz,NGR,NGA,/profile-bio/men/Nduka_Odizor/,,,M
+1900,Petra Langrova,plang,Czech Republic,CZE,/profile-bio/women/Petra_Langrova/,,,F
+415,Renata Baranski,rbara,United States,USA,/profile-bio/women/Renata_Baranski/,,,F
+799,Ronald Agenor,ragen,USA,USA,/profile-bio/men/Ronald_Agenor/,,,M
+2149,Regina Marsikova,rmars,Czech Republic,CZE,/profile-bio/women/Regina_Marsikova/,,,F
+626,Slava Dosedel,sdose,CZE,CZE,/profile-bio/men/Slava_Dosedel/,,,M
+193,Leila Meskhi,lmesk,Georgia,GEO,/profile-bio/women/Leila_Meskhi/,,,F
+123,Natalia Medvedeva,nmedv,Ukraine,UKR,/profile-bio/women/Natalia_Medvedeva/,,,F
+157,Karel Novacek,knova,CZE,CZE,/profile-bio/men/Karel_Novacek/,,,M
+211,Petr Korda,pkord,CZE,CZE,/profile-bio/men/Petr_Korda/,,,M
+357,Radka Bobkova,rbobk,Czech Republic,CZE,/profile-bio/women/Radka_Bobkova/,,,F
+632,Eva Sviglerova,esvig,Czech Republic,CZE,/profile-bio/women/Eva_Sviglerova/,,,F
+872,Andrei Cherkasov,acher,RUS,RUS,/profile-bio/men/Andrei_Cherkasov/,,,M
+1396,Karina Habsudova,khabs,Slovakia,SVK,/profile-bio/women/Karina_Habsudova/,,,F
+1508,Carling Bassett-Seguso,cbass,Canada,CAN,/profile-bio/women/Carling_Bassett-Seguso/,,,F
+1570,Branislav Stankovic,bstan,SVK,SVK,/profile-bio/men/Branislav_Stankovic/,,,M
+1605,Jana Novotna,jnovo,Czech Republic,CZE,/profile-bio/women/Jana_Novotna/,,,F
+1962,Mark Merklein,mmerk,BAH,BHS,/profile-bio/men/Mark_Merklein/,,,M
+2153,Jana Pospisilova,janposp,Czech Republic,CZE,/profile-bio/women/Jana_Pospisilova/,,,F
+2219,Richard Vogel,rvoge,CZE,CZE,/profile-bio/men/Richard_Vogel/,,,M
+34,Zhi-Wei Sun,zwsun,CHN,CHN,/profile-bio/men/Zhi-Wei_Sun/,,,M
+35,Alysia May,amay,United States,USA,/profile-bio/women/Alysia_May/,,,F
+36,Remus Farcas,rfarc,ROU,ROM,/profile-bio/men/Remus_Farcas/,,,M
+38,Anouschka Popp,apopp_2,Germany,DEU,/profile-bio/women/Anouschka_Popp/,,,F
+39,Michael Pumpr,mpump,CZE,CZE,/profile-bio/men/Michael_Pumpr/,,,M
+63,Tzipora Obziler,tobzi_2,Israel,ISR,/profile-bio/women/Tzipora_Obziler/,,,F
+72,Nicolas Sabas,nsaba,FRA,FRA,/profile-bio/men/Nicolas_Sabas/,,,M
+73,Nicolette Rooimans,nrooi,Netherlands,NLD,/profile-bio/women/Nicolette_Rooimans/,,,F
+76,Zoltan Krasznai,zkras,HUN,HUN,/profile-bio/men/Zoltan_Krasznai/,,,M
+77,Pierpaolo Gianfaldoni,pgian,ITA,ITA,/profile-bio/men/Pierpaolo_Gianfaldoni/,,,M
+79,Francisco Morell,fmore,ESP,ESP,/profile-bio/men/Francisco_Morell/,,,M
+82,Akemi Nishiya-Kinoshita,anish_2,Japan,JPN,/profile-bio/women/Akemi_Nishiya-Kinoshita/,,,F
+83,Katharina Duell,kduel,Germany,DEU,/profile-bio/women/Katharina_Duell/,,,F
+85,Ingrid Peltzer,ipelt,Germany,DEU,/profile-bio/women/Ingrid_Peltzer/,,,F
+89,Tae-Hee Kong,thkon,KOR,XXX,/profile-bio/men/Tae-Hee_Kong/,,,M
+90,Nina Erickson,neric,Sweden,SWE,/profile-bio/women/Nina_Erickson/,,,F
+91,Lars Lampe,llamp,GER,DEU,/profile-bio/men/Lars_Lampe/,,,M
+93,Ninoska Souto,nsout,Spain,ESP,/profile-bio/women/Ninoska_Souto/,,,F
+94,Juan Garat,jgara,ARG,ARG,/profile-bio/men/Juan_Garat/,,,M
+95,Gaby Coorengel,gcoor,Netherlands,NLD,/profile-bio/women/Gaby_Coorengel/,,,F
+96,Diana Valenti,dvale,United States,USA,/profile-bio/women/Diana_Valenti/,,,F
+98,Marius Barnard,mbarn,RSA,ZAF,/profile-bio/men/Marius_Barnard/,,,M
+99,Manfred Jungnitsch,mjung,GER,DEU,/profile-bio/men/Manfred_Jungnitsch/,,,M
+100,Jean Nabi,jnabi,CIV,XXX,/profile-bio/men/Jean_Nabi/,,,M
+102,Mario Comanescu,mcoma,ROU,ROM,/profile-bio/men/Mario_Comanescu/,,,M
+103,Sook-Ja Im,sjim,South Korea,XXX,/profile-bio/women/Sook-Ja_Im/,,,F
+108,Joel Hoffman,jhoff,USA,USA,/profile-bio/men/Joel_Hoffman/,,,M
+109,Victoria Milvidskaia,vmilv,XXX,XXX,/profile-bio/women/Victoria_Milvidskaia/,,,F
+111,Stefan Vanemo,svane,SWE,SWE,/profile-bio/men/Stefan_Vanemo/,,,M
+113,Paloma Collantes,pcoll,United States,USA,/profile-bio/women/Paloma_Collantes/,,,F
+115,Edvaldo Oliveira,eoliv,BRA,BRA,/profile-bio/men/Edvaldo_Oliveira/,,,M
+116,Dong-Hwan Lee,dhlee,KOR,XXX,/profile-bio/men/Dong-Hwan_Lee/,,,M
+117,Bill Benjes,bbenj,USA,USA,/profile-bio/men/Bill_Benjes/,,,M
+119,Miguel Tobon,mtobo,COL,COL,/profile-bio/men/Miguel_Tobon/,,,M
+121,Cary Cohenour,ccohe_2,USA,USA,/profile-bio/men/Cary_Cohenour/,,,M
+122,Dante Magnoni,dmagn,VEN,XXX,/profile-bio/men/Dante_Magnoni/,,,M
+124,Tomasz Iwanski,tiwan,POL,POL,/profile-bio/men/Tomasz_Iwanski/,,,M
+125,Maria Zsoldos,mzsol,Hungary,HUN,/profile-bio/women/Maria_Zsoldos/,,,F
+126,Luciana Corsato-Owsianka,lcors_2,Brazil,BRA,/profile-bio/women/Luciana_Corsato-Owsianka/,,,F
+127,Piet Norval,pnorv_2,RSA,ZAF,/profile-bio/men/Piet_Norval/,,,M
+128,Phillipe Ventura,pvent,FRA,FRA,/profile-bio/men/Phillipe_Ventura/,,,M
+133,Francesca Morini,fmori,Italy,ITA,/profile-bio/women/Francesca_Morini/,,,F
+134,Alex De Felipe,adefe,ESP,ESP,/profile-bio/men/Alex_De_Felipe/,,,M
+135,Abdul Kahar Mim,akaha,INA,IDN,/profile-bio/men/Abdul_Kahar_Mim/,,,M
+136,Davide Sanguinetti,dsang_2,ITA,ITA,/profile-bio/men/Davide_Sanguinetti/,,,M
+138,Francesco Ercoli,ferco,ITA,ITA,/profile-bio/men/Francesco_Ercoli/,,,M
+139,Michael Roberts,mrobe_2,USA,USA,/profile-bio/men/Michael_Roberts/,,,M
+141,John Barton,jbart,GBR,XXX,/profile-bio/men/John_Barton/,,,M
+142,Giovanna Carotenuto,gcaro,Italy,ITA,/profile-bio/women/Giovanna_Carotenuto/,,,F
+144,Janet Souto,jsout,Spain,ESP,/profile-bio/women/Janet_Souto/,,,F
+145,Nathalie Ballet,nball,France,FRA,/profile-bio/women/Nathalie_Ballet/,,,F
+147,Florin Segarceanu,fsega,ROU,ROM,/profile-bio/men/Florin_Segarceanu/,,,M
+148,Zeljko Cica,zcica,YUG,XXX,/profile-bio/men/Zeljko_Cica/,,,M
+150,Claude N'Goran,cn,CIV,XXX,/profile-bio/men/Claude_N,,,M
+151,Peter Palandjian,ppala,USA,USA,/profile-bio/men/Peter_Palandjian/,,,M
+152,Nathalie Gilbert,ngilb,France,FRA,/profile-bio/women/Nathalie_Gilbert/,,,F
+153,Bill Behrens,bbehr,USA,USA,/profile-bio/men/Bill_Behrens/,,,M
+155,Laura Glitz,lglit,United States,USA,/profile-bio/women/Laura_Glitz/,,,F
+156,Pier Squillari,psqui,ARG,ARG,/profile-bio/men/Pier_Squillari/,,,M
+158,Dirk Leppen,dlepp,GER,DEU,/profile-bio/men/Dirk_Leppen/,,,M
+159,Jose De Miguel,jdemi,ESP,ESP,/profile-bio/men/Jose_De_Miguel/,,,M
+160,Mirijam Schweda,mschw,Austria,AUT,/profile-bio/women/Mirijam_Schweda/,,,F
+161,Vicente Solves,vsolv,ESP,ESP,/profile-bio/men/Vicente_Solves/,,,M
+162,Gerardo Mirad,gmira,ARG,ARG,/profile-bio/men/Gerardo_Mirad/,,,M
+163,Johan Donar,jdona_2,SWE,SWE,/profile-bio/men/Johan_Donar/,,,M
+164,Ville Jansson,vjans,SWE,SWE,/profile-bio/men/Ville_Jansson/,,,M
+167,Monica Rey,mrey,Spain,ESP,/profile-bio/women/Monica_Rey/,,,F
+170,Mauricio Lederman,mlede,COL,COL,/profile-bio/men/Mauricio_Lederman/,,,M
+172,Alexander Windisch,awind,GER,DEU,/profile-bio/men/Alexander_Windisch/,,,M
+174,Juan Carlos Baguena,jcarl_2,ESP,ESP,/profile-bio/men/Juan_Carlos_Baguena/,,,M
+176,Julio Noriega,jnori,PER,PER,/profile-bio/men/Julio_Noriega/,,,M
+177,Mark Buckley,mbuck,USA,USA,/profile-bio/men/Mark_Buckley/,,,M
+181,Adrian Popovici,apopo,ROU,ROM,/profile-bio/men/Adrian_Popovici/,,,M
+182,Nicole Strnadova,nstrn,Czech Republic,CZE,/profile-bio/women/Nicole_Strnadova/,,,F
+183,Girts Dzelde,gdzel,LAT,LVA,/profile-bio/men/Girts_Dzelde/,,,M
+185,Julie McKeon,jmcke,United States,USA,/profile-bio/women/Julie_McKeon/,,,F
+186,Orlando Lourenco,olour,ZIM,ZWE,/profile-bio/men/Orlando_Lourenco/,,,M
+189,Carlos Di Laura,cdila,PER,PER,/profile-bio/men/Carlos_Di_Laura/,,,M
+190,Ivan Kley,ikley,BRA,BRA,/profile-bio/men/Ivan_Kley/,,,M
+191,Ehud Kish,ekish,ISR,ISR,/profile-bio/men/Ehud_Kish/,,,M
+194,Deddy Tedjamukti,dtedj,INA,IDN,/profile-bio/men/Deddy_Tedjamukti/,,,M
+195,Mitch Michulka,mmich,USA,USA,/profile-bio/men/Mitch_Michulka/,,,M
+196,Rene Gramminger,rgram,GER,DEU,/profile-bio/men/Rene_Gramminger/,,,M
+198,Nicolas Becerra,nbece,ARG,ARG,/profile-bio/men/Nicolas_Becerra/,,,M
+199,Michael Bauer,mbaue_2,AUT,AUT,/profile-bio/men/Michael_Bauer/,,,M
+200,Mark Styslinger,mstys,USA,USA,/profile-bio/men/Mark_Styslinger/,,,M
+202,Madeline Sanchez,msanc_2,Dominican Republic,DOM,/profile-bio/women/Madeline_Sanchez/,,,F
+204,John Southcombe,jsout_2,GBR,XXX,/profile-bio/men/John_Southcombe/,,,M
+205,Volker Venohr,vveno,GER,DEU,/profile-bio/men/Volker_Venohr/,,,M
+206,Jurgen Hager,jhage,AUT,AUT,/profile-bio/men/Jurgen_Hager/,,,M
+207,Markus Neuhausen,mneuh,GER,DEU,/profile-bio/men/Markus_Neuhausen/,,,M
+208,Shigefusa Kanroji,skanr,JPN,JPN,/profile-bio/men/Shigefusa_Kanroji/,,,M
+210,Joe De Foor,jdefo,USA,USA,/profile-bio/men/Joe_De_Foor/,,,M
+213,Johan De Preter,jdepr,BEL,BEL,/profile-bio/men/Johan_De_Preter/,,,M
+215,Steve Shaw,sshaw_2,GBR,XXX,/profile-bio/men/Steve_Shaw/,,,M
+216,Eva Bes,ebes,Spain,ESP,/profile-bio/women/Eva_Bes/,,,F
+217,Mauro Menezes,mmene,BRA,BRA,/profile-bio/men/Mauro_Menezes/,,,M
+218,Linley Tanner,ltann,United States,USA,/profile-bio/women/Linley_Tanner/,,,F
+219,Matthew MacMahon,mmacm,AUS,AUS,/profile-bio/men/Matthew_MacMahon/,,,M
+221,Ettore Rossetti,eross_2,ITA,ITA,/profile-bio/men/Ettore_Rossetti/,,,M
+222,Nathalie Tschan,ntsch,Switzerland,CHE,/profile-bio/women/Nathalie_Tschan/,,,F
+223,Mike Van Den Berg,mvden,NED,NLD,/profile-bio/men/Mike_Van_Den_Berg/,,,M
+225,Isabelle Crudo,icrud,France,FRA,/profile-bio/women/Isabelle_Crudo/,,,F
+226,Joana Pedroso,jpedr,Portugal,PRT,/profile-bio/women/Joana_Pedroso/,,,F
+227,Andrea Vopat,avopa,Germany,DEU,/profile-bio/women/Andrea_Vopat/,,,F
+228,Angie Woolcock,awool,Australia,AUS,/profile-bio/women/Angie_Woolcock/,,,F
+231,Jeff Greenwald,jgree,USA,USA,/profile-bio/men/Jeff_Greenwald/,,,M
+232,Scott Sigerseth,ssige,USA,USA,/profile-bio/men/Scott_Sigerseth/,,,M
+233,Srdan Muskatirovic,smusk,SRB,SRB,/profile-bio/men/Srdan_Muskatirovic/,,,M
+234,Pier Gauthier,pgaut,FRA,FRA,/profile-bio/men/Pier_Gauthier/,,,M
+235,Zoran Sevcenko,zsevc,MKD,XXX,/profile-bio/men/Zoran_Sevcenko/,,,M
+236,Sebastien Leblanc,slebl,CAN,CAN,/profile-bio/men/Sebastien_Leblanc/,,,M
+237,Frederic Vitoux,fvito_2,FRA,FRA,/profile-bio/men/Frederic_Vitoux/,,,M
+238,Francisco Pinto,fpint,BRA,BRA,/profile-bio/men/Francisco_Pinto/,,,M
+239,Kimberly Po-Messerli,kpo-m,United States,USA,/profile-bio/women/Kimberly_Po-Messerli/,,,F
+240,Brian Page,bpage,USA,USA,/profile-bio/men/Brian_Page/,,,M
+242,Pedro Lopez,plope,COL,COL,/profile-bio/men/Pedro_Lopez/,,,M
+243,Americo Tupi Venero,atupi,PER,PER,/profile-bio/men/Americo_Tupi_Venero/,,,M
+244,Vladimir Gabrichidze,vgabr,GEO,GEO,/profile-bio/men/Vladimir_Gabrichidze/,,,M
+245,Alexandre Hocevar,ahoce,BRA,BRA,/profile-bio/men/Alexandre_Hocevar/,,,M
+246,Christer Allgardh,callg,SWE,SWE,/profile-bio/men/Christer_Allgardh/,,,M
+249,Jesus Colas,jcola,ESP,ESP,/profile-bio/men/Jesus_Colas/,,,M
+250,Stefan Lochbihler,sloch,AUT,AUT,/profile-bio/men/Stefan_Lochbihler/,,,M
+252,Giorgio Carneade,gcarn,ECU,ECU,/profile-bio/men/Giorgio_Carneade/,,,M
+256,Agnes Blumberga,ablum,Latvia,LVA,/profile-bio/women/Agnes_Blumberga/,,,F
+257,Andres Battad,abatt,PHI,PHL,/profile-bio/men/Andres_Battad/,,,M
+259,Austen Brice,abric,GBR,XXX,/profile-bio/men/Austen_Brice/,,,M
+260,Joern Grunewald,jgrun,GER,DEU,/profile-bio/men/Joern_Grunewald/,,,M
+261,Anna Benzon,abenz,Italy,ITA,/profile-bio/women/Anna_Benzon/,,,F
+264,Mostafa Naiem,mnaie,EGY,EGY,/profile-bio/men/Mostafa_Naiem/,,,M
+265,Themis Zambrzycki,tzamb,Brazil,BRA,/profile-bio/women/Themis_Zambrzycki/,,,F
+266,Heleen Van Den Berg,hvand,Netherlands,NLD,/profile-bio/women/Heleen_Van_Den_Berg/,,,F
+268,Spencer Kooshian,skoos,USA,USA,/profile-bio/men/Spencer_Kooshian/,,,M
+269,Takayoshi Shibuya,tshib,JPN,JPN,/profile-bio/men/Takayoshi_Shibuya/,,,M
+270,Jane Young,jyoun,Canada,CAN,/profile-bio/women/Jane_Young/,,,F
+271,Claus Duppe,cdupp,GER,DEU,/profile-bio/men/Claus_Duppe/,,,M
+272,Lisa Lusteg,llust,United States,USA,/profile-bio/women/Lisa_Lusteg/,,,F
+274,Maria Pilar Valls,mpila,Brazil,BRA,/profile-bio/women/Maria_Pilar_Valls/,,,F
+275,Hans Priller,hpril,AUT,AUT,/profile-bio/men/Hans_Priller/,,,M
+277,Clement N'Goran,cn_2,CIV,XXX,/profile-bio/men/Clement_N,,,M
+278,Justedjo Tarik,jtari,INA,IDN,/profile-bio/men/Justedjo_Tarik/,,,M
+279,Gustavo Re,gre,ARG,ARG,/profile-bio/men/Gustavo_Re/,,,M
+280,Peter Svensson,psven,SWE,SWE,/profile-bio/men/Peter_Svensson/,,,M
+281,Janne Vilhunen,jvilh,FIN,FIN,/profile-bio/men/Janne_Vilhunen/,,,M
+282,Angel Martinez,amart_2,COL,COL,/profile-bio/men/Angel_Martinez/,,,M
+283,Jan Blackstad,jblac,United States,USA,/profile-bio/women/Jan_Blackstad/,,,F
+285,Sergio Rico,srico,MEX,MEX,/profile-bio/men/Sergio_Rico/,,,M
+286,Ricardo Cayola,rcayo,POR,PRT,/profile-bio/men/Ricardo_Cayola/,,,M
+287,Alkis Papamichael,apapa,CYP,CYP,/profile-bio/men/Alkis_Papamichael/,,,M
+288,Claudia Chabalgoity,cchab,Brazil,BRA,/profile-bio/women/Claudia_Chabalgoity/,,,F
+289,Jeff Klaparda,jklap,USA,USA,/profile-bio/men/Jeff_Klaparda/,,,M
+290,Douglas Sachs,dsach,USA,USA,/profile-bio/men/Douglas_Sachs/,,,M
+292,Ricky Brown,rbrow,USA,USA,/profile-bio/men/Ricky_Brown/,,,M
+294,Thilo Fritschi,tfrit_2,GER,DEU,/profile-bio/men/Thilo_Fritschi/,,,M
+298,Patricio Quijano,pquij,MEX,MEX,/profile-bio/men/Patricio_Quijano/,,,M
+300,Andrea Mueller,amuel,Germany,DEU,/profile-bio/women/Andrea_Mueller/,,,F
+303,Felix Barrientos,fbarr,PHI,PHL,/profile-bio/men/Felix_Barrientos/,,,M
+305,Alessandro Baldoni,abald,ITA,ITA,/profile-bio/men/Alessandro_Baldoni/,,,M
+306,Eui-Jong Chang,ejcha,KOR,XXX,/profile-bio/men/Eui-Jong_Chang/,,,M
+307,Hijiri Nakazaka,hnaka,Japan,JPN,/profile-bio/women/Hijiri_Nakazaka/,,,F
+308,Elson Cantuaria,ecant,BRA,BRA,/profile-bio/men/Elson_Cantuaria/,,,M
+309,Thomas Haldin,thald,SWE,SWE,/profile-bio/men/Thomas_Haldin/,,,M
+310,Ayako Hirose,ahiro,Japan,JPN,/profile-bio/women/Ayako_Hirose/,,,F
+312,Dierdre Herman,dherm,United States,USA,/profile-bio/women/Dierdre_Herman/,,,F
+313,Debbie Ladig,dladi,United States,USA,/profile-bio/women/Debbie_Ladig/,,,F
+315,Ned Caswell,ncasw,USA,USA,/profile-bio/men/Ned_Caswell/,,,M
+316,XXXXXXX Suhendar,xsuhe,INA,IDN,/profile-bio/men/XXXXXXX_Suhendar/,,,M
+317,Nils Holm,nholm,SWE,SWE,/profile-bio/men/Nils_Holm/,,,M
+319,Daniel Bishop,dbish,GBR,XXX,/profile-bio/men/Daniel_Bishop/,,,M
+321,Chris Gambino,cgamb,USA,USA,/profile-bio/men/Chris_Gambino/,,,M
+322,Stefan Heckmanns,sheck,GER,DEU,/profile-bio/men/Stefan_Heckmanns/,,,M
+323,Michele Fioroni,mfior,ITA,ITA,/profile-bio/men/Michele_Fioroni/,,,M
+324,Darryl Shapiro,dshap,RSA,ZAF,/profile-bio/men/Darryl_Shapiro/,,,M
+326,Matthew Akman,makma,CAN,CAN,/profile-bio/men/Matthew_Akman/,,,M
+328,Gerald Mandl,gmand,AUT,AUT,/profile-bio/men/Gerald_Mandl/,,,M
+329,Frank Salazar,fsala,USA,USA,/profile-bio/men/Frank_Salazar/,,,M
+330,Robert Pellizzi,rpell,USA,USA,/profile-bio/men/Robert_Pellizzi/,,,M
+331,Agustina Wibisono,awibi,Indonesia,IDN,/profile-bio/women/Agustina_Wibisono/,,,F
+332,Jorg Muller,jmull,GER,DEU,/profile-bio/men/Jorg_Muller/,,,M
+333,Tim Pawsat,tpaws,USA,USA,/profile-bio/men/Tim_Pawsat/,,,M
+335,Juha Lemponen,jlemp,FIN,FIN,/profile-bio/men/Juha_Lemponen/,,,M
+339,Scott Morse,smors,USA,USA,/profile-bio/men/Scott_Morse/,,,M
+340,Jeff Hersh,jhers,USA,USA,/profile-bio/men/Jeff_Hersh/,,,M
+342,Ugo Pigato,upiga,ITA,ITA,/profile-bio/men/Ugo_Pigato/,,,M
+343,Tim Shadiev,tshad,RUS,RUS,/profile-bio/men/Tim_Shadiev/,,,M
+344,Reiko Noguchi,rnogu,Japan,JPN,/profile-bio/women/Reiko_Noguchi/,,,F
+345,Kouichi Sayama,ksaya,JPN,JPN,/profile-bio/men/Kouichi_Sayama/,,,M
+346,Rodrigo Nauarro,rnaua,BOL,XXX,/profile-bio/men/Rodrigo_Nauarro/,,,M
+347,Sam Kipkoech,skipk,KEN,KEN,/profile-bio/men/Sam_Kipkoech/,,,M
+348,Merete Stockmann-Balling,mstoc,Denmark,DNK,/profile-bio/women/Merete_Stockmann-Balling/,,,F
+349,Michael Geserer,mgese,GER,DEU,/profile-bio/men/Michael_Geserer/,,,M
+350,Sandra Begijn,sbegi,Netherlands,NLD,/profile-bio/women/Sandra_Begijn/,,,F
+352,David Harkness,dhark,USA,USA,/profile-bio/men/David_Harkness/,,,M
+353,Ian Morgan,imorg,GBR,XXX,/profile-bio/men/Ian_Morgan/,,,M
+354,Patrick Baumeler,pbaum,PER,PER,/profile-bio/men/Patrick_Baumeler/,,,M
+356,Jana Koran,jkora,Netherlands,NLD,/profile-bio/women/Jana_Koran/,,,F
+359,Brett Dickinson,bdick,USA,USA,/profile-bio/men/Brett_Dickinson/,,,M
+360,Yue-Wei Wang,ywwan,CHN,CHN,/profile-bio/men/Yue-Wei_Wang/,,,M
+361,German Lopez,glope_2,ESP,ESP,/profile-bio/men/German_Lopez/,,,M
+364,James Hevron,jhevr,USA,USA,/profile-bio/men/James_Hevron/,,,M
+365,Joao Zwetsch,jzwet,BRA,BRA,/profile-bio/men/Joao_Zwetsch/,,,M
+366,Maria Jose Gaidano,mjose,Argentina,ARG,/profile-bio/women/Maria_Jose_Gaidano/,,,F
+367,Raul Antonio Viver,ranto,ECU,ECU,/profile-bio/men/Raul_Antonio_Viver/,,,M
+369,Donald Wailan,dwail,INA,IDN,/profile-bio/men/Donald_Wailan/,,,M
+371,Arnaud Casagrande,acasa,FRA,FRA,/profile-bio/men/Arnaud_Casagrande/,,,M
+372,Guillermo Minutella,gminu,ARG,ARG,/profile-bio/men/Guillermo_Minutella/,,,M
+376,Rosalyn Nideffer,rnide,South Africa,ZAF,/profile-bio/women/Rosalyn_Nideffer/,,,F
+377,Natalia Biletskaya,nbile,Ukraine,UKR,/profile-bio/women/Natalia_Biletskaya/,,,F
+380,Duncan Odipo,dodip,KEN,KEN,/profile-bio/men/Duncan_Odipo/,,,M
+381,Enrico Bettini,ebett,ITA,ITA,/profile-bio/men/Enrico_Bettini/,,,M
+383,Jana Strnadova,jstrn,Czech Republic,CZE,/profile-bio/women/Jana_Strnadova/,,,F
+384,Tami Jones,tjone,United States,USA,/profile-bio/women/Tami_Jones/,,,F
+385,Cristina Cavina,ccavi,Italy,ITA,/profile-bio/women/Cristina_Cavina/,,,F
+386,Sharon McNamara,smcna,Australia,AUS,/profile-bio/women/Sharon_McNamara/,,,F
+387,Khalid Outaleb,kouta,MAR,MAR,/profile-bio/men/Khalid_Outaleb/,,,M
+388,Adrian Targett,atarg,AUS,AUS,/profile-bio/men/Adrian_Targett/,,,M
+390,Paul Hoysted,phoys,AUS,AUS,/profile-bio/men/Paul_Hoysted/,,,M
+391,Wayne Davis,wdavi,AUS,AUS,/profile-bio/men/Wayne_Davis/,,,M
+392,Elias Coelho,ecoel,BRA,BRA,/profile-bio/men/Elias_Coelho/,,,M
+394,Yasuyo Kajita,ykaji,Japan,JPN,/profile-bio/women/Yasuyo_Kajita/,,,F
+395,Naratorn Srichaphan,nsric,THA,THA,/profile-bio/men/Naratorn_Srichaphan/,,,M
+398,Klaus Bergstrom,kberg,SWE,SWE,/profile-bio/men/Klaus_Bergstrom/,,,M
+403,Mohamed Ridaoui,mrida,USA,USA,/profile-bio/men/Mohamed_Ridaoui/,,,M
+404,Richard Lubner,rlubn,RSA,ZAF,/profile-bio/men/Richard_Lubner/,,,M
+405,Karen Buchholz,kbuch,United States,USA,/profile-bio/women/Karen_Buchholz/,,,F
+406,Michaela Frimmelova,mfrim,Czech Republic,CZE,/profile-bio/women/Michaela_Frimmelova/,,,F
+407,Laurence Matthews,lmatt_2,GBR,XXX,/profile-bio/men/Laurence_Matthews/,,,M
+408,Vojtech Flegl,vfleg,CZE,CZE,/profile-bio/men/Vojtech_Flegl/,,,M
+409,Arnaud Deleval,adele,FRA,FRA,/profile-bio/men/Arnaud_Deleval/,,,M
+411,Patrick Rafter,praft_2,AUS,AUS,/profile-bio/men/Patrick_Rafter/,,,M
+412,Stefanie Rehmke,srehm,Germany,DEU,/profile-bio/women/Stefanie_Rehmke/,,,F
+413,Marco Cacopardo,mcaco,USA,USA,/profile-bio/men/Marco_Cacopardo/,,,M
+414,Vaclav Roubicek,vroub,CZE,CZE,/profile-bio/men/Vaclav_Roubicek/,,,M
+417,Han-Cheol Shin,hcshi,KOR,XXX,/profile-bio/men/Han-Cheol_Shin/,,,M
+418,Hernan Auguste,haugu,ARG,ARG,/profile-bio/men/Hernan_Auguste/,,,M
+419,Carolina Boscardin,cbosc,Brazil,BRA,/profile-bio/women/Carolina_Boscardin/,,,F
+420,Jose A. Moreno,jamor,ESP,ESP,/profile-bio/men/Jose_A._Moreno/,,,M
+422,Reeka Szikszay,rszik,Hungary,HUN,/profile-bio/women/Reeka_Szikszay/,,,F
+425,Michael Franchi,mfran,USA,USA,/profile-bio/men/Michael_Franchi/,,,M
+426,Pierpaolo Bologna,pbolo,ITA,ITA,/profile-bio/men/Pierpaolo_Bologna/,,,M
+427,David Hopper,dhopp,USA,USA,/profile-bio/men/David_Hopper/,,,M
+429,Grant Adams,gadam,RSA,ZAF,/profile-bio/men/Grant_Adams/,,,M
+430,Robert Lindberg,rlind,SWE,SWE,/profile-bio/men/Robert_Lindberg/,,,M
+431,Pietro Pennisi,ppenn,ITA,ITA,/profile-bio/men/Pietro_Pennisi/,,,M
+432,Freddie De Jesus,fdeje,PUR,PRI,/profile-bio/men/Freddie_De_Jesus/,,,M
+435,Marilia Andrade,mandr_2,Brazil,BRA,/profile-bio/women/Marilia_Andrade/,,,F
+437,Olivia Graveraux,ograv,France,FRA,/profile-bio/women/Olivia_Graveraux/,,,F
+438,Nam-Ju Bae,njbae,KOR,XXX,/profile-bio/men/Nam-Ju_Bae/,,,M
+440,Mathias Huning,mhuni,GER,DEU,/profile-bio/men/Mathias_Huning/,,,M
+441,Gabrielle Villiger,gvill,Switzerland,CHE,/profile-bio/women/Gabrielle_Villiger/,,,F
+442,Julija Apostoli,japos,Greece,GRC,/profile-bio/women/Julija_Apostoli/,,,F
+444,James Schor,jscho,USA,USA,/profile-bio/men/James_Schor/,,,M
+445,Gaston Garcia-Alonso,ggarc_2,ARG,ARG,/profile-bio/men/Gaston_Garcia-Alonso/,,,M
+448,Scott Smith,ssmit_2,USA,USA,/profile-bio/men/Scott_Smith/,,,M
+449,Valentin Frieden,vfrie,SUI,CHE,/profile-bio/men/Valentin_Frieden/,,,M
+451,Eun-Ju Han,ejhan,South Korea,XXX,/profile-bio/women/Eun-Ju_Han/,,,F
+452,Fukiko Osawa,fosaw,Japan,JPN,/profile-bio/women/Fukiko_Osawa/,,,F
+453,Long Phan,lphan,USA,USA,/profile-bio/men/Long_Phan/,,,M
+454,Catao De Souza,cdeso,BRA,BRA,/profile-bio/men/Catao_De_Souza/,,,M
+455,Vuk Jovanovic,vjova,SRB,SRB,/profile-bio/men/Vuk_Jovanovic/,,,M
+456,Victor Caldarelli,vcald,URU,URY,/profile-bio/men/Victor_Caldarelli/,,,M
+457,Mauriceo Yoma,myoma,ARG,ARG,/profile-bio/men/Mauriceo_Yoma/,,,M
+458,Ruben Gajardo,rgaja,CHI,CHL,/profile-bio/men/Ruben_Gajardo/,,,M
+459,Raul Ranzinger,rranz,BRA,BRA,/profile-bio/men/Raul_Ranzinger/,,,M
+461,Claudio Panatta,cpana,ITA,ITA,/profile-bio/men/Claudio_Panatta/,,,M
+462,Pasi Virtanen,pvirt,FIN,FIN,/profile-bio/men/Pasi_Virtanen/,,,M
+463,Kate Gompert,kgomp,United States,USA,/profile-bio/women/Kate_Gompert/,,,F
+466,Jillian Alexander-Brower,jalex,Canada,CAN,/profile-bio/women/Jillian_Alexander-Brower/,,,F
+467,Sandra Reichel,sreic,Austria,AUT,/profile-bio/women/Sandra_Reichel/,,,F
+468,Rodrigo Faria,rfari,BRA,BRA,/profile-bio/men/Rodrigo_Faria/,,,M
+469,Paul Ricar,prica,GER,DEU,/profile-bio/men/Paul_Ricar/,,,M
+471,Sylvia Schenck,ssche_2,United States,USA,/profile-bio/women/Sylvia_Schenck/,,,F
+472,Javier Ruiz,jruiz,MEX,MEX,/profile-bio/men/Javier_Ruiz/,,,M
+473,Sabrina Lucchi,slucc,Italy,ITA,/profile-bio/women/Sabrina_Lucchi/,,,F
+476,Filippo Pietralunga,fpiet,ITA,ITA,/profile-bio/men/Filippo_Pietralunga/,,,M
+477,Michael Nugent,mnuge,IRL,IRL,/profile-bio/men/Michael_Nugent/,,,M
+478,Jeong-Myung Lee,jmlee,South Korea,XXX,/profile-bio/women/Jeong-Myung_Lee/,,,F
+480,Andreea Ehritt-Vanc,aehri,Romania,ROM,/profile-bio/women/Andreea_Ehritt-Vanc/,,,F
+481,Alex Nizet,anize,USA,USA,/profile-bio/men/Alex_Nizet/,,,M
+485,Gilles Ganancia,ggana,MON,MCO,/profile-bio/men/Gilles_Ganancia/,,,M
+487,Julie Foillard,jfoil,France,FRA,/profile-bio/women/Julie_Foillard/,,,F
+488,Rita Pichardo,rpich,Cuba,CUB,/profile-bio/women/Rita_Pichardo/,,,F
+489,Krisna Summa,ksumm,Thailand,THA,/profile-bio/women/Krisna_Summa/,,,F
+490,Allison Cooper,acoop,United States,USA,/profile-bio/women/Allison_Cooper/,,,F
+491,Daniel Heryanto,dhery,INA,IDN,/profile-bio/men/Daniel_Heryanto/,,,M
+493,Peter Hruncak,phrun,CZE,CZE,/profile-bio/men/Peter_Hruncak/,,,M
+495,Sylvia Freye,sfrey,Germany,DEU,/profile-bio/women/Sylvia_Freye/,,,F
+496,Patti O'Reilly,po,United States,XXX,/profile-bio/women/Patti_O,,,F
+499,Jason Netter,jnett,USA,USA,/profile-bio/men/Jason_Netter/,,,M
+500,Scott McTeer,smcte,USA,USA,/profile-bio/men/Scott_McTeer/,,,M
+502,Desiree Leupold,dleup,Austria,AUT,/profile-bio/women/Desiree_Leupold/,,,F
+503,Denia Salu,dsalu,Brazil,BRA,/profile-bio/women/Denia_Salu/,,,F
+504,Yves N'Goran,yvesn,CIV,XXX,/profile-bio/men/Yves_N,,,M
+507,Roger Pettersson,rpett,SWE,SWE,/profile-bio/men/Roger_Pettersson/,,,M
+508,Nelly Pardo,npard,Venezuela,XXX,/profile-bio/women/Nelly_Pardo/,,,F
+510,Greg Failla,gfail,USA,USA,/profile-bio/men/Greg_Failla/,,,M
+511,John Sobel,jsobe,USA,USA,/profile-bio/men/John_Sobel/,,,M
+513,Yoshikazu Okada,yokad,INA,IDN,/profile-bio/men/Yoshikazu_Okada/,,,M
+514,Catherine Mothes,cmoth_2,France,FRA,/profile-bio/women/Catherine_Mothes/,,,F
+515,Eddie Siegenthaler,esieg,ESP,ESP,/profile-bio/men/Eddie_Siegenthaler/,,,M
+517,Andreas Fikas,afika,GRE,GRC,/profile-bio/men/Andreas_Fikas/,,,M
+518,Paul Mancini,pmanc,USA,USA,/profile-bio/men/Paul_Mancini/,,,M
+519,Wittaya Samrej,wsamr,THA,THA,/profile-bio/men/Wittaya_Samrej/,,,M
+520,Gustavo Luza,gluza,ARG,ARG,/profile-bio/men/Gustavo_Luza/,,,M
+521,Scott Patridge,spatr,USA,USA,/profile-bio/men/Scott_Patridge/,,,M
+523,Ana-Belen Quintana,abqui,Spain,ESP,/profile-bio/women/Ana-Belen_Quintana/,,,F
+524,Karathozuvu Ramesh,krame,IND,IND,/profile-bio/men/Karathozuvu_Ramesh/,,,M
+525,Michael Oberleitner,mober,AUT,AUT,/profile-bio/men/Michael_Oberleitner/,,,M
+526,Alessandro De Minicis,ademi,ITA,ITA,/profile-bio/men/Alessandro_De_Minicis/,,,M
+530,Glenny Schaap,gscha_2,NED,NLD,/profile-bio/men/Glenny_Schaap/,,,M
+532,Hidehiko Tanizawa,htani,JPN,JPN,/profile-bio/men/Hidehiko_Tanizawa/,,,M
+533,Tom Toomey,ttoom,USA,USA,/profile-bio/men/Tom_Toomey/,,,M
+535,Paul Torre,ptorr,FRA,FRA,/profile-bio/men/Paul_Torre/,,,M
+536,Marcelo Saliola,msali,BRA,BRA,/profile-bio/men/Marcelo_Saliola/,,,M
+537,Goran Mihajlovic,gmiha,YUG,XXX,/profile-bio/men/Goran_Mihajlovic/,,,M
+538,Karl Hale,khale,CAN,CAN,/profile-bio/men/Karl_Hale/,,,M
+540,William Laban,wlaba,USA,USA,/profile-bio/men/William_Laban/,,,M
+541,Karin Balekova,kbale,Czech Republic,CZE,/profile-bio/women/Karin_Balekova/,,,F
+542,Alessandro Fornaro,aforn,ITA,ITA,/profile-bio/men/Alessandro_Fornaro/,,,M
+543,Paul Robinson,probi,GBR,XXX,/profile-bio/men/Paul_Robinson/,,,M
+544,Chris Cocotos,ccoco,USA,USA,/profile-bio/men/Chris_Cocotos/,,,M
+545,Simona Isidori,sisid,Italy,ITA,/profile-bio/women/Simona_Isidori/,,,F
+546,Carlos Horta,chort,BRA,BRA,/profile-bio/men/Carlos_Horta/,,,M
+547,Fernando Perez-Pascal,fpere,MEX,MEX,/profile-bio/men/Fernando_Perez-Pascal/,,,M
+550,Bing Pan,bpan,CHN,CHN,/profile-bio/men/Bing_Pan/,,,M
+553,Hiromi Yoshihara,hyosh,Japan,JPN,/profile-bio/women/Hiromi_Yoshihara/,,,F
+556,Irawati Moerid,imoer,Indonesia,IDN,/profile-bio/women/Irawati_Moerid/,,,F
+557,Jiu-Hua Zhang,jhzha,CHN,CHN,/profile-bio/men/Jiu-Hua_Zhang/,,,M
+558,Stefania Indemini,sinde,Italy,ITA,/profile-bio/women/Stefania_Indemini/,,,F
+560,Nana Smith,nsmit,Japan,JPN,/profile-bio/women/Nana_Smith/,,,F
+562,Kevin Lubbers,klubb,USA,USA,/profile-bio/men/Kevin_Lubbers/,,,M
+564,Caroline Schneider,cschn,Germany,DEU,/profile-bio/women/Caroline_Schneider/,,,F
+565,Marcus Barbosa,mbarb,BRA,BRA,/profile-bio/men/Marcus_Barbosa/,,,M
+566,Marianne Werdel Witmeyer,mwwit,United States,USA,/profile-bio/women/Marianne_Werdel_Witmeyer/,,,F
+568,Jeff Neuman,jneum,USA,USA,/profile-bio/men/Jeff_Neuman/,,,M
+569,Ann Wunderlich,awund,United States,USA,/profile-bio/women/Ann_Wunderlich/,,,F
+570,Tom Furukrantz,tfuru,SWE,SWE,/profile-bio/men/Tom_Furukrantz/,,,M
+571,Gernot Boehm,gboeh,AUT,AUT,/profile-bio/men/Gernot_Boehm/,,,M
+572,Ginger Nielsen,gniel,United States,USA,/profile-bio/women/Ginger_Nielsen/,,,F
+574,Paul Koscielski,pkosc,USA,USA,/profile-bio/men/Paul_Koscielski/,,,M
+575,Ignace Rotman,irotm,SUI,CHE,/profile-bio/men/Ignace_Rotman/,,,M
+578,Howard Endelman,hende,USA,USA,/profile-bio/men/Howard_Endelman/,,,M
+579,Carsten Krammenschneider,ckram,GER,DEU,/profile-bio/men/Carsten_Krammenschneider/,,,M
+580,Anne Grousbeck,agrou,United States,USA,/profile-bio/women/Anne_Grousbeck/,,,F
+581,Mihai Vanta,mvant,ROU,ROM,/profile-bio/men/Mihai_Vanta/,,,M
+584,Marisa Sanchez Vicario,msvic,Spain,ESP,/profile-bio/women/Marisa_Sanchez_Vicario/,,,F
+586,Elena Wagner,ewagn,Germany,DEU,/profile-bio/women/Elena_Wagner/,,,F
+588,Janine Thompson,jthom_2,Australia,AUS,/profile-bio/women/Janine_Thompson/,,,F
+589,Johan Dysholm,jdysh,SWE,SWE,/profile-bio/men/Johan_Dysholm/,,,M
+590,Thomas Bischof,tbisc,AUT,AUT,/profile-bio/men/Thomas_Bischof/,,,M
+592,Toni Gaddie,tgadd,South Africa,ZAF,/profile-bio/women/Toni_Gaddie/,,,F
+593,Kurt Streeter,kstre,USA,USA,/profile-bio/men/Kurt_Streeter/,,,M
+595,Hernan Chousa,hchou,ARG,ARG,/profile-bio/men/Hernan_Chousa/,,,M
+596,Sang-Yoon Lee,sylee,KOR,XXX,/profile-bio/men/Sang-Yoon_Lee/,,,M
+598,Leigh Anne Eldredge,lanne,United States,USA,/profile-bio/women/Leigh_Anne_Eldredge/,,,F
+599,Pelle Sjoeden,psjoe,SWE,SWE,/profile-bio/men/Pelle_Sjoeden/,,,M
+601,Nathalie Phan Thanh,nphan,France,FRA,/profile-bio/women/Nathalie_Phan_Thanh/,,,F
+603,Lars Holmblad,lholm,SWE,SWE,/profile-bio/men/Lars_Holmblad/,,,M
+604,Jin Choi,jchoi,South Korea,XXX,/profile-bio/women/Jin_Choi/,,,F
+605,Lutz Mieschke,lmies,GER,DEU,/profile-bio/men/Lutz_Mieschke/,,,M
+607,Manuel Nicolae,mnico,ROU,ROM,/profile-bio/men/Manuel_Nicolae/,,,M
+609,Jolene Watanabe-Giltz,jwata_2,United States,USA,/profile-bio/women/Jolene_Watanabe-Giltz/,,,F
+610,Brent Haygarth,bhayg,RSA,ZAF,/profile-bio/men/Brent_Haygarth/,,,M
+611,Roland Stadler,rstad,SUI,CHE,/profile-bio/men/Roland_Stadler/,,,M
+613,Peter Ballauff,pball,GER,DEU,/profile-bio/men/Peter_Ballauff/,,,M
+615,William O'Neil,wo,AUS,XXX,/profile-bio/men/William_O,,,M
+616,Mario Carnevale,mcarn,ITA,ITA,/profile-bio/men/Mario_Carnevale/,,,M
+617,Lynn Nabors,lnabo,United States,USA,/profile-bio/women/Lynn_Nabors/,,,F
+618,Nicolas Kischkewitz,nkisc,FRA,FRA,/profile-bio/men/Nicolas_Kischkewitz/,,,M
+619,Silvio Moine,smoin,ITA,ITA,/profile-bio/men/Silvio_Moine/,,,M
+620,John Rigas,jriga,GRE,GRC,/profile-bio/men/John_Rigas/,,,M
+621,Fredrik Waern,fwaer,SWE,SWE,/profile-bio/men/Fredrik_Waern/,,,M
+622,Holger Speker,hspek,GER,DEU,/profile-bio/men/Holger_Speker/,,,M
+623,Marco Seruca,mseru,POR,PRT,/profile-bio/men/Marco_Seruca/,,,M
+624,Jenny Klemm,jklem,Germany,DEU,/profile-bio/women/Jenny_Klemm/,,,F
+625,Iluminada Concepcion,iconc,Cuba,CUB,/profile-bio/women/Iluminada_Concepcion/,,,F
+627,Cristian Araya,caray,CHI,CHL,/profile-bio/men/Cristian_Araya/,,,M
+628,Joey Blake,jblak_2,USA,USA,/profile-bio/men/Joey_Blake/,,,M
+629,Andreas Ehrnvall,aehrn,SWE,SWE,/profile-bio/men/Andreas_Ehrnvall/,,,M
+630,Robyn Mawdsley,rmawd,Australia,AUS,/profile-bio/women/Robyn_Mawdsley/,,,F
+631,Glen Richards,grich,CAN,CAN,/profile-bio/men/Glen_Richards/,,,M
+635,Fabio Silberberg,fsilb,BRA,BRA,/profile-bio/men/Fabio_Silberberg/,,,M
+636,Gerhard Kochl,gkoch,AUT,AUT,/profile-bio/men/Gerhard_Kochl/,,,M
+637,Kirsten Dreyer,kdrey,United States,USA,/profile-bio/women/Kirsten_Dreyer/,,,F
+639,Masayoshi Takeyari,mtake,JPN,JPN,/profile-bio/men/Masayoshi_Takeyari/,,,M
+641,Jeff Spier,jspie,USA,USA,/profile-bio/men/Jeff_Spier/,,,M
+642,Gerardo Martinez,gmart,MEX,MEX,/profile-bio/men/Gerardo_Martinez/,,,M
+647,Shoichi Tatsuno,stats,JPN,JPN,/profile-bio/men/Shoichi_Tatsuno/,,,M
+648,Al Parker,apark_2,USA,USA,/profile-bio/men/Al_Parker/,,,M
+649,Shai Friedman,sfrie,ISR,ISR,/profile-bio/men/Shai_Friedman/,,,M
+650,Yoshiko Wauke,ywauk,Japan,JPN,/profile-bio/women/Yoshiko_Wauke/,,,F
+653,Gap-Taik Ro,gtro,KOR,XXX,/profile-bio/men/Gap-Taik_Ro/,,,M
+654,Simon Touzil,stouz,GER,DEU,/profile-bio/men/Simon_Touzil/,,,M
+657,Michelle Casati,mcasa_2,United States,USA,/profile-bio/women/Michelle_Casati/,,,F
+662,Michele Strebel,mstre_2,Switzerland,CHE,/profile-bio/women/Michele_Strebel/,,,F
+663,Laurent Guersan,lguer,FRA,FRA,/profile-bio/men/Laurent_Guersan/,,,M
+664,Krisztian Keresztes,kkere,HUN,HUN,/profile-bio/men/Krisztian_Keresztes/,,,M
+665,Cesar Kist,ckist,BRA,BRA,/profile-bio/men/Cesar_Kist/,,,M
+667,Sofia Prazeres,spraz,Portugal,PRT,/profile-bio/women/Sofia_Prazeres/,,,F
+668,Lesley O'Halloran,lo,Ireland,XXX,/profile-bio/women/Lesley_O,,,F
+669,Gabriela Castro,gcast,Argentina,ARG,/profile-bio/women/Gabriela_Castro/,,,F
+671,Alessandra Kaul,akaul,Brazil,BRA,/profile-bio/women/Alessandra_Kaul/,,,F
+672,Doug Pielet,dpiel,USA,USA,/profile-bio/men/Doug_Pielet/,,,M
+673,Inmaculada Varas,ivara_2,Spain,ESP,/profile-bio/women/Inmaculada_Varas/,,,F
+674,Isabela Petrov,ipetr,Mexico,MEX,/profile-bio/women/Isabela_Petrov/,,,F
+675,Roland So,rso,PHI,PHL,/profile-bio/men/Roland_So/,,,M
+677,Carlos Chabalgoity,cchab_2,BRA,BRA,/profile-bio/men/Carlos_Chabalgoity/,,,M
+678,Halle Carroll,hcarr,United States,USA,/profile-bio/women/Halle_Carroll/,,,F
+681,Adrian Marcu,amarc,ROU,ROM,/profile-bio/men/Adrian_Marcu/,,,M
+683,Clayton Johnson,cjohn,RSA,ZAF,/profile-bio/men/Clayton_Johnson/,,,M
+686,Emilio Marturano,emart_2,ITA,ITA,/profile-bio/men/Emilio_Marturano/,,,M
+687,Srinivasan Vasudevan,svasu,IND,IND,/profile-bio/men/Srinivasan_Vasudevan/,,,M
+688,Bruce Man Son Hing,bmansh,USA,USA,/profile-bio/men/Bruce_Man_Son_Hing/,,,M
+689,Shu-Wah Liu,swliu,CHN,CHN,/profile-bio/men/Shu-Wah_Liu/,,,M
+690,Bruce Kurtz,bkurt,USA,USA,/profile-bio/men/Bruce_Kurtz/,,,M
+691,Yvonne Vermaak,yverm,South Africa,ZAF,/profile-bio/women/Yvonne_Vermaak/,,,F
+692,Michael Penman,mpenm,RSA,ZAF,/profile-bio/men/Michael_Penman/,,,M
+693,Ola Kristiansson,okris,SWE,SWE,/profile-bio/men/Ola_Kristiansson/,,,M
+694,Shozo Shiraishi,sshir,JPN,JPN,/profile-bio/men/Shozo_Shiraishi/,,,M
+695,Estefania Bottini,ebott,Spain,ESP,/profile-bio/women/Estefania_Bottini/,,,F
+696,Tom Vanhoudt,tvanh,BEL,BEL,/profile-bio/men/Tom_Vanhoudt/,,,M
+697,Stephen Enochs,senoc,USA,USA,/profile-bio/men/Stephen_Enochs/,,,M
+698,Jorgelina Moreno,jmore,Argentina,ARG,/profile-bio/women/Jorgelina_Moreno/,,,F
+699,Oliver Freund,ofreu,GER,DEU,/profile-bio/men/Oliver_Freund/,,,M
+700,Gerd Albiez,galbi,GER,DEU,/profile-bio/men/Gerd_Albiez/,,,M
+701,Annette Gerber,agerb,Germany,DEU,/profile-bio/women/Annette_Gerber/,,,F
+702,Christian Feenstra,cfeen,NED,NLD,/profile-bio/men/Christian_Feenstra/,,,M
+703,Fumiko Yamazaki,fyama,Japan,JPN,/profile-bio/women/Fumiko_Yamazaki/,,,F
+706,David Dilucia,ddilu_2,USA,USA,/profile-bio/men/David_Dilucia/,,,M
+707,Roland Burtscher,rburt,AUT,AUT,/profile-bio/men/Roland_Burtscher/,,,M
+708,Dahlia Coriat,dcori,Israel,ISR,/profile-bio/women/Dahlia_Coriat/,,,F
+709,David Franco,dfran,ESP,ESP,/profile-bio/men/David_Franco/,,,M
+710,Jacques Radoux,jrado,LUX,LUX,/profile-bio/men/Jacques_Radoux/,,,M
+712,Laura Arraya,larra,Peru,PER,/profile-bio/women/Laura_Arraya/,,,F
+714,Brad Properjohn,bprop,AUS,AUS,/profile-bio/men/Brad_Properjohn/,,,M
+715,Asif Ismail,aisma,IND,IND,/profile-bio/men/Asif_Ismail/,,,M
+717,Janne Kiilavirta,jkiil,FIN,FIN,/profile-bio/men/Janne_Kiilavirta/,,,M
+722,Marlies Reinders,mrein,Netherlands,NLD,/profile-bio/women/Marlies_Reinders/,,,F
+724,Ginevra Mugnaini,gmugn,Italy,ITA,/profile-bio/women/Ginevra_Mugnaini/,,,F
+727,Mary Lou Daniels,mloud,United States,USA,/profile-bio/women/Mary_Lou_Daniels/,,,F
+728,Mara Eijkenboom,meijk,Netherlands,NLD,/profile-bio/women/Mara_Eijkenboom/,,,F
+731,Davide Scala,dscal,ITA,ITA,/profile-bio/men/Davide_Scala/,,,M
+733,Andrew Poole,apool,GBR,XXX,/profile-bio/men/Andrew_Poole/,,,M
+736,Brice Karsh,bkars,USA,USA,/profile-bio/men/Brice_Karsh/,,,M
+737,Susan Gadroen,sgadr,Netherlands,NLD,/profile-bio/women/Susan_Gadroen/,,,F
+738,Alice Nohacova,anoha,Czech Republic,CZE,/profile-bio/women/Alice_Nohacova/,,,F
+739,Choon-Ho Kim,chkim,KOR,XXX,/profile-bio/men/Choon-Ho_Kim/,,,M
+742,Sotero Rebelo,srebe,POR,PRT,/profile-bio/men/Sotero_Rebelo/,,,M
+743,Eleonora Agnolozzi,eagno,Italy,ITA,/profile-bio/women/Eleonora_Agnolozzi/,,,F
+744,Luis Lobo,llobo,ARG,ARG,/profile-bio/men/Luis_Lobo/,,,M
+746,Markus Nacke,mnack,GER,DEU,/profile-bio/men/Markus_Nacke/,,,M
+747,Marie-Pierre Villani,mpvil,France,FRA,/profile-bio/women/Marie-Pierre_Villani/,,,F
+748,Markus Toenges,mtoen,GER,DEU,/profile-bio/men/Markus_Toenges/,,,M
+749,Ty Tucker,ttuck,USA,USA,/profile-bio/men/Ty_Tucker/,,,M
+750,Dave Klembith,dklem,USA,USA,/profile-bio/men/Dave_Klembith/,,,M
+751,Steven Leier,sleie,CAN,CAN,/profile-bio/men/Steven_Leier/,,,M
+752,Xi-Dong Dai,xddai,CHN,CHN,/profile-bio/men/Xi-Dong_Dai/,,,M
+753,Savvas Constantinou,scons,CYP,CYP,/profile-bio/men/Savvas_Constantinou/,,,M
+754,Sven Salumaa,ssalu,USA,USA,/profile-bio/men/Sven_Salumaa/,,,M
+755,David Ireland,direl,GBR,XXX,/profile-bio/men/David_Ireland/,,,M
+756,Mayumi Yamada,myama,Japan,JPN,/profile-bio/women/Mayumi_Yamada/,,,F
+757,Adriana Isaza,aisaz,Colombia,COL,/profile-bio/women/Adriana_Isaza/,,,F
+759,Hitoshi Shirato,hshir,JPN,JPN,/profile-bio/men/Hitoshi_Shirato/,,,M
+762,Rich Benson,rbens,USA,USA,/profile-bio/men/Rich_Benson/,,,M
+764,Dirk Hortian,dhort,GER,DEU,/profile-bio/men/Dirk_Hortian/,,,M
+765,Eduardo Velez,evele,MEX,MEX,/profile-bio/men/Eduardo_Velez/,,,M
+767,Leisa Dunn,ldunn,Australia,AUS,/profile-bio/women/Leisa_Dunn/,,,F
+768,Andres Alarcon,aalar,ECU,ECU,/profile-bio/men/Andres_Alarcon/,,,M
+769,Andre Snyman,asnym,RSA,ZAF,/profile-bio/men/Andre_Snyman/,,,M
+771,Peter Flintsoe,pflin,DEN,DNK,/profile-bio/men/Peter_Flintsoe/,,,M
+772,Wilfredo Henery,whene,CUB,CUB,/profile-bio/men/Wilfredo_Henery/,,,M
+773,Sophie Woorons,swoor,France,FRA,/profile-bio/women/Sophie_Woorons/,,,F
+774,Fritz Bissell,fbiss,USA,USA,/profile-bio/men/Fritz_Bissell/,,,M
+775,Katharina Bueche,kbuec,Austria,AUT,/profile-bio/women/Katharina_Bueche/,,,F
+776,Michaela Kriebel,mkrie,Germany,DEU,/profile-bio/women/Michaela_Kriebel/,,,F
+777,Alessandro Bosic,abosi,YUG,XXX,/profile-bio/men/Alessandro_Bosic/,,,M
+779,Harald Mair,hmair,AUT,AUT,/profile-bio/men/Harald_Mair/,,,M
+781,Kathy Rinaldi Stunkel,krstu,United States,USA,/profile-bio/women/Kathy_Rinaldi_Stunkel/,,,F
+782,Robert Jan Bierens,rjanb,NED,NLD,/profile-bio/men/Robert_Jan_Bierens/,,,M
+784,Rafael Santonja,rsant,ESP,ESP,/profile-bio/men/Rafael_Santonja/,,,M
+785,Andrew Sproule,aspro,GBR,XXX,/profile-bio/men/Andrew_Sproule/,,,M
+786,Yuko Hosoki,yhoso,Japan,JPN,/profile-bio/women/Yuko_Hosoki/,,,F
+787,Roberto Gattiker,rgatt,ARG,ARG,/profile-bio/men/Roberto_Gattiker/,,,M
+788,Henry Somerville,hsome,USA,USA,/profile-bio/men/Henry_Somerville/,,,M
+789,Christophe Delzenne,cdelz,BEL,BEL,/profile-bio/men/Christophe_Delzenne/,,,M
+790,Richard Ashby,rashb,USA,USA,/profile-bio/men/Richard_Ashby/,,,M
+792,Kilmeny Waterman,kwate,United States,USA,/profile-bio/women/Kilmeny_Waterman/,,,F
+794,Ricardo Camargo,rcama,BRA,BRA,/profile-bio/men/Ricardo_Camargo/,,,M
+796,Keith Evans,kevan,USA,USA,/profile-bio/men/Keith_Evans/,,,M
+797,Martin Dionne,mdion,CAN,CAN,/profile-bio/men/Martin_Dionne/,,,M
+798,Kay Louthian,klout,United States,USA,/profile-bio/women/Kay_Louthian/,,,F
+800,Peter Moshamer,pmosh,AUT,AUT,/profile-bio/men/Peter_Moshamer/,,,M
+801,Medi Dadoch,mdado,Israel,ISR,/profile-bio/women/Medi_Dadoch/,,,F
+807,Florentina Curpene,fcurp,XXX,XXX,/profile-bio/women/Florentina_Curpene/,,,F
+809,Beverly Bowes-Hackney,bbowe_2,United States,USA,/profile-bio/women/Beverly_Bowes-Hackney/,,,F
+810,Tintus Wibowo,twibo,INA,IDN,/profile-bio/men/Tintus_Wibowo/,,,M
+811,Nigel Russell,nruss,GBR,XXX,/profile-bio/men/Nigel_Russell/,,,M
+814,Gilles Bastie,gbast_2,FRA,FRA,/profile-bio/men/Gilles_Bastie/,,,M
+815,Todd Larkham,tlark_2,AUS,AUS,/profile-bio/men/Todd_Larkham/,,,M
+816,Janine Humphreys,jhump,South Africa,ZAF,/profile-bio/women/Janine_Humphreys/,,,F
+817,Tanya Soemarno,tsoem,Indonesia,IDN,/profile-bio/women/Tanya_Soemarno/,,,F
+819,Astrid Ruehr,arueh,Germany,DEU,/profile-bio/women/Astrid_Ruehr/,,,F
+822,Olivier Launo,olaun,FRA,FRA,/profile-bio/men/Olivier_Launo/,,,M
+824,Yoram Baron,ybaro,ISR,ISR,/profile-bio/men/Yoram_Baron/,,,M
+825,Fran Bosch,fbosc,ESP,ESP,/profile-bio/men/Fran_Bosch/,,,M
+826,Elena Ordinaga,eordi,Spain,ESP,/profile-bio/women/Elena_Ordinaga/,,,F
+827,Horacio Pacheco,hpach,ARG,ARG,/profile-bio/men/Horacio_Pacheco/,,,M
+828,Johan Sunnemark,jsunn,SWE,SWE,/profile-bio/men/Johan_Sunnemark/,,,M
+829,Katharzyna Teodorowicz,kteod,Poland,POL,/profile-bio/women/Katharzyna_Teodorowicz/,,,F
+830,Mike Holten,mholt,USA,USA,/profile-bio/men/Mike_Holten/,,,M
+831,Mike Brown,mbrow_2,USA,USA,/profile-bio/men/Mike_Brown/,,,M
+833,Juan Boyanovich,jboya,PER,PER,/profile-bio/men/Juan_Boyanovich/,,,M
+834,Ricardo Sanchez-Rueda,rsanc,ESP,ESP,/profile-bio/men/Ricardo_Sanchez-Rueda/,,,M
+837,Angela Kerek,akere,Germany,DEU,/profile-bio/women/Angela_Kerek/,,,F
+839,Peter Olsson,polss,SWE,SWE,/profile-bio/men/Peter_Olsson/,,,M
+840,Conny Falk,cfalk,SWE,SWE,/profile-bio/men/Conny_Falk/,,,M
+841,Gonzalo Lopez-Fabero,glope_3,ESP,ESP,/profile-bio/men/Gonzalo_Lopez-Fabero/,,,M
+842,Johan Vekemans,jveke,NED,NLD,/profile-bio/men/Johan_Vekemans/,,,M
+844,Johnaton Haycock,jhayc,GBR,XXX,/profile-bio/men/Johnaton_Haycock/,,,M
+845,Scott Wlodychak,swlod,USA,USA,/profile-bio/men/Scott_Wlodychak/,,,M
+846,Stephan Rhode,srhod,GER,DEU,/profile-bio/men/Stephan_Rhode/,,,M
+848,Qiang-Hua Meng,qhmen,CHN,CHN,/profile-bio/men/Qiang-Hua_Meng/,,,M
+850,Peter Peham,ppeha,AUT,AUT,/profile-bio/men/Peter_Peham/,,,M
+851,Iztok Bozic,ibozi,SLO,SVN,/profile-bio/men/Iztok_Bozic/,,,M
+852,Luis Largacha,llarg,COL,COL,/profile-bio/men/Luis_Largacha/,,,M
+854,Chang-Hee Park,chpar,KOR,XXX,/profile-bio/men/Chang-Hee_Park/,,,M
+856,David Clarry,dclar,GBR,XXX,/profile-bio/men/David_Clarry/,,,M
+857,Boris Laustroer,blaus,GER,DEU,/profile-bio/men/Boris_Laustroer/,,,M
+859,Andres Marco,amarc_2,ESP,ESP,/profile-bio/men/Andres_Marco/,,,M
+860,Federico Mordegan,fmord,ITA,ITA,/profile-bio/men/Federico_Mordegan/,,,M
+862,Jose Maria Arenas,jmare,ESP,ESP,/profile-bio/men/Jose_Maria_Arenas/,,,M
+864,Eric Riley,erile,USA,USA,/profile-bio/men/Eric_Riley/,,,M
+865,Michael Bayh,mbayh,GER,DEU,/profile-bio/men/Michael_Bayh/,,,M
+866,Ivan Keskinov,ikesk,BUL,BGR,/profile-bio/men/Ivan_Keskinov/,,,M
+868,Royce Deppe,rdepp,RSA,ZAF,/profile-bio/men/Royce_Deppe/,,,M
+869,Luis Herrera,lherr,MEX,MEX,/profile-bio/men/Luis_Herrera/,,,M
+870,Gustavo Carbonari,gcarb,ARG,ARG,/profile-bio/men/Gustavo_Carbonari/,,,M
+874,Jae-Sik Kim,jskim,KOR,XXX,/profile-bio/men/Jae-Sik_Kim/,,,M
+875,Sylvano Simone,ssimo,ITA,ITA,/profile-bio/men/Sylvano_Simone/,,,M
+876,Roberto Teofilo,rteof,BRA,BRA,/profile-bio/men/Roberto_Teofilo/,,,M
+877,Edoardo Mazza,emazz,ITA,ITA,/profile-bio/men/Edoardo_Mazza/,,,M
+878,Simone Restelli,srest,ITA,ITA,/profile-bio/men/Simone_Restelli/,,,M
+879,Ciro Nishiyama,cnish,BRA,BRA,/profile-bio/men/Ciro_Nishiyama/,,,M
+880,Xochitl Escobedo,xesco,Mexico,MEX,/profile-bio/women/Xochitl_Escobedo/,,,F
+882,Mike Wolf,mwolf,USA,USA,/profile-bio/men/Mike_Wolf/,,,M
+884,Lukas Hovorka,lhovo,CZE,CZE,/profile-bio/men/Lukas_Hovorka/,,,M
+885,Norbert Odour,nodou,KEN,KEN,/profile-bio/men/Norbert_Odour/,,,M
+886,Lech Sidor,lsido,POL,POL,/profile-bio/men/Lech_Sidor/,,,M
+887,David Lewis,dlewi,NZL,NZL,/profile-bio/men/David_Lewis/,,,M
+888,Radek Zahraj,rzahr,CZE,CZE,/profile-bio/men/Radek_Zahraj/,,,M
+890,Carmela Vitali,cvita,Italy,ITA,/profile-bio/women/Carmela_Vitali/,,,F
+891,Ruben Alvarenga,ralva,PAR,PRY,/profile-bio/men/Ruben_Alvarenga/,,,M
+893,Juan Farrow,jfarr,USA,USA,/profile-bio/men/Juan_Farrow/,,,M
+894,Adam Malik,amali,MAS,MYS,/profile-bio/men/Adam_Malik/,,,M
+895,Warren Green,wgree,RSA,ZAF,/profile-bio/men/Warren_Green/,,,M
+896,Caroline Wuillot,cwuil,Belgium,BEL,/profile-bio/women/Caroline_Wuillot/,,,F
+897,Johnny Goudenbour,jgoud,LUX,LUX,/profile-bio/men/Johnny_Goudenbour/,,,M
+898,Johan De Beer,jdebe,RSA,ZAF,/profile-bio/men/Johan_De_Beer/,,,M
+900,Fermin Novillo,fnovi,ESP,ESP,/profile-bio/men/Fermin_Novillo/,,,M
+902,Jin-Soo Lee,jslee,KOR,XXX,/profile-bio/men/Jin-Soo_Lee/,,,M
+903,Greg Muller,gmull,RSA,ZAF,/profile-bio/men/Greg_Muller/,,,M
+904,Miriam Ponce De Leon,mponc,Sweden,SWE,/profile-bio/women/Miriam_Ponce_De_Leon/,,,F
+905,Evica Koljanin,ekolj,XXX,XXX,/profile-bio/women/Evica_Koljanin/,,,F
+906,Renata Kochta,rkoch,Germany,DEU,/profile-bio/women/Renata_Kochta/,,,F
+907,Chip Tolleson,ctoll,USA,USA,/profile-bio/men/Chip_Tolleson/,,,M
+908,Tsuyoshi Fukui,tfuku,JPN,JPN,/profile-bio/men/Tsuyoshi_Fukui/,,,M
+909,Carlos Engel,cenge,BRA,BRA,/profile-bio/men/Carlos_Engel/,,,M
+910,Manuel Bonati,mbona,ITA,ITA,/profile-bio/men/Manuel_Bonati/,,,M
+911,Boaz Merenstein,bmere,ISR,ISR,/profile-bio/men/Boaz_Merenstein/,,,M
+912,Markus Hintermeier,mhint,GER,DEU,/profile-bio/men/Markus_Hintermeier/,,,M
+913,Maja Palaversic Coopersmith,mpcoo,Croatia,HRV,/profile-bio/women/Maja_Palaversic_Coopersmith/,,,F
+914,Klara Blahova,kblah,Czech Republic,CZE,/profile-bio/women/Klara_Blahova/,,,F
+915,Maria Vento-Kabchi,mvent,Venezuela,XXX,/profile-bio/women/Maria_Vento-Kabchi/,,,F
+916,Gorana Matic,gmati,Croatia,HRV,/profile-bio/women/Gorana_Matic/,,,F
+917,Dan Goldberg,dgold_2,USA,USA,/profile-bio/men/Dan_Goldberg/,,,M
+918,Wendy Prausa,wprau,United States,USA,/profile-bio/women/Wendy_Prausa/,,,F
+919,Jose Tort,jtort,CHI,CHL,/profile-bio/men/Jose_Tort/,,,M
+920,Fabio Rizzo,frizz,ITA,ITA,/profile-bio/men/Fabio_Rizzo/,,,M
+921,Birgit Arming,barmi,Austria,AUT,/profile-bio/women/Birgit_Arming/,,,F
+924,Michel Van Der Sanden,mvdsa,NED,NLD,/profile-bio/men/Michel_Van_Der_Sanden/,,,M
+925,Herbert Sandberg,hsand,GER,DEU,/profile-bio/men/Herbert_Sandberg/,,,M
+926,Mark Farren,mfarr,USA,USA,/profile-bio/men/Mark_Farren/,,,M
+927,Miyako Ataka,matak,Japan,JPN,/profile-bio/women/Miyako_Ataka/,,,F
+929,Glen Eaton,geato,AUS,AUS,/profile-bio/men/Glen_Eaton/,,,M
+931,Galia Angelova,gange,Bulgaria,BGR,/profile-bio/women/Galia_Angelova/,,,F
+934,Miles Walker,mwalk,USA,USA,/profile-bio/men/Miles_Walker/,,,M
+936,Kerstin Taube,ktaub,Germany,DEU,/profile-bio/women/Kerstin_Taube/,,,F
+937,Ivona Matulikova,imatu,Germany,DEU,/profile-bio/women/Ivona_Matulikova/,,,F
+938,Miloslav Mecir Sr.,mmeci1,SVK,SVK,/profile-bio/men/Miloslav_Mecir_Sr./,,,M
+939,Eva Jimenez Sanz,ejime,Spain,ESP,/profile-bio/women/Eva_Jimenez_Sanz/,,,F
+940,Catherine Bonnet,cbonn,France,FRA,/profile-bio/women/Catherine_Bonnet/,,,F
+941,Alexander Lindholm,alind,FIN,FIN,/profile-bio/men/Alexander_Lindholm/,,,M
+942,Kylie Johnson,kjohn,United States,USA,/profile-bio/women/Kylie_Johnson/,,,F
+943,Andrei Merinov,ameri_2,RUS,RUS,/profile-bio/men/Andrei_Merinov/,,,M
+944,Jonas Gustafsson,jgust,SWE,SWE,/profile-bio/men/Jonas_Gustafsson/,,,M
+945,Eduardo Mandarino,emand,ESP,ESP,/profile-bio/men/Eduardo_Mandarino/,,,M
+946,Ola Jonsson,ojons,SWE,SWE,/profile-bio/men/Ola_Jonsson/,,,M
+947,Samuel Constantino,scons_2,MEX,MEX,/profile-bio/men/Samuel_Constantino/,,,M
+948,Torsten Park,tpark,GER,DEU,/profile-bio/men/Torsten_Park/,,,M
+949,Paula Astrini,pastr,Brazil,BRA,/profile-bio/women/Paula_Astrini/,,,F
+951,Aurel Damian,adami,ROU,ROM,/profile-bio/men/Aurel_Damian/,,,M
+952,Johan Kjellsten,jkjel,SWE,SWE,/profile-bio/men/Johan_Kjellsten/,,,M
+955,Colin Grant,cgran,HKG,HKG,/profile-bio/men/Colin_Grant/,,,M
+956,Ilse De Ruysscher,ideru,Belgium,BEL,/profile-bio/women/Ilse_De_Ruysscher/,,,F
+957,Yasufumi Yamamoto,yyama,JPN,JPN,/profile-bio/men/Yasufumi_Yamamoto/,,,M
+960,Leslie Hakala,lhaka,United States,USA,/profile-bio/women/Leslie_Hakala/,,,F
+961,Rafael Figueredo,rfigu,COL,COL,/profile-bio/men/Rafael_Figueredo/,,,M
+962,Martin Stringari,mstri,ARG,ARG,/profile-bio/men/Martin_Stringari/,,,M
+963,Michel Lunesu,mlune,FRA,FRA,/profile-bio/men/Michel_Lunesu/,,,M
+964,Eric Amend,eamen,USA,USA,/profile-bio/men/Eric_Amend/,,,M
+965,Daniel Marco,dmarc_2,ESP,ESP,/profile-bio/men/Daniel_Marco/,,,M
+966,Alexandra Grunow,agrun_2,Germany,DEU,/profile-bio/women/Alexandra_Grunow/,,,F
+967,Karina Kuregian,kkure,XXX,XXX,/profile-bio/women/Karina_Kuregian/,,,F
+968,Robert Henderson,rhend,USA,USA,/profile-bio/men/Robert_Henderson/,,,M
+972,Rudiger Benz,rbenz,GER,DEU,/profile-bio/men/Rudiger_Benz/,,,M
+973,Pedro Cordeiro,pcord,POR,PRT,/profile-bio/men/Pedro_Cordeiro/,,,M
+974,Ilana Berger,iberg,Israel,ISR,/profile-bio/women/Ilana_Berger/,,,F
+975,Il-Soon Kim,iskim,South Korea,XXX,/profile-bio/women/Il-Soon_Kim/,,,F
+977,Masako Morikawa,mmori,Japan,JPN,/profile-bio/women/Masako_Morikawa/,,,F
+979,Sebastian Pacheco,spach,ARG,ARG,/profile-bio/men/Sebastian_Pacheco/,,,M
+981,Sabine Lohmann,slohm,Germany,DEU,/profile-bio/women/Sabine_Lohmann/,,,F
+982,Fabian Blengino,fblen,ARG,ARG,/profile-bio/men/Fabian_Blengino/,,,M
+983,Armin Kopf,akopf,GER,DEU,/profile-bio/men/Armin_Kopf/,,,M
+984,Mikael Stadling,mstad,SWE,SWE,/profile-bio/men/Mikael_Stadling/,,,M
+985,Andreas Buchwald,abuch,AUT,AUT,/profile-bio/men/Andreas_Buchwald/,,,M
+986,Peter Wright,pwrig,USA,USA,/profile-bio/men/Peter_Wright/,,,M
+988,William Kyriakos,wkyri,BRA,BRA,/profile-bio/men/William_Kyriakos/,,,M
+993,Oliver Trott,otrot,GER,DEU,/profile-bio/men/Oliver_Trott/,,,M
+996,Stanislav Birner,sbirn,CZE,CZE,/profile-bio/men/Stanislav_Birner/,,,M
+997,Roberto Conti,rcont,ITA,ITA,/profile-bio/men/Roberto_Conti/,,,M
+998,Francesco Michelotti,fmich,ITA,ITA,/profile-bio/men/Francesco_Michelotti/,,,M
+1000,Nicolas Romero,nrome,ESP,ESP,/profile-bio/men/Nicolas_Romero/,,,M
+1001,Enrico Cocchi,ecocc,ITA,ITA,/profile-bio/men/Enrico_Cocchi/,,,M
+1002,Dimitru Haradau,dhara,ROU,ROM,/profile-bio/men/Dimitru_Haradau/,,,M
+1003,Ernesto Diaz,ediaz,CHI,CHL,/profile-bio/men/Ernesto_Diaz/,,,M
+1004,Mihnea-Ion Nastase,minas,ROU,ROM,/profile-bio/men/Mihnea-Ion_Nastase/,,,M
+1005,Craig Johnson,cjohn_2,USA,USA,/profile-bio/men/Craig_Johnson/,,,M
+1006,Lisa Bobby,lbobb,United States,USA,/profile-bio/women/Lisa_Bobby/,,,F
+1007,Morten Ronneberg,mronn,NOR,NOR,/profile-bio/men/Morten_Ronneberg/,,,M
+1008,Morten Christensen,mchri,DEN,DNK,/profile-bio/men/Morten_Christensen/,,,M
+1009,Agnes Romand,aroma,France,FRA,/profile-bio/women/Agnes_Romand/,,,F
+1010,Jennifer Young,jyoun_2,United States,USA,/profile-bio/women/Jennifer_Young/,,,F
+1012,Laneal Vaughn,lvaug,USA,USA,/profile-bio/men/Laneal_Vaughn/,,,M
+1014,Paul Gastonguay,pgast,USA,USA,/profile-bio/men/Paul_Gastonguay/,,,M
+1015,Daniel Reig,dreig,ESP,ESP,/profile-bio/men/Daniel_Reig/,,,M
+1017,Brian Veillette,bveil,USA,USA,/profile-bio/men/Brian_Veillette/,,,M
+1018,Herald Digel,hdige,GER,DEU,/profile-bio/men/Herald_Digel/,,,M
+1019,Bettina Fulco,bfulc_2,Argentina,ARG,/profile-bio/women/Bettina_Fulco/,,,F
+1021,Vera-Carina Elter,vcelt,Germany,DEU,/profile-bio/women/Vera-Carina_Elter/,,,F
+1022,Andreas Fink,afink,ITA,ITA,/profile-bio/men/Andreas_Fink/,,,M
+1024,Alois Beust,abeus,FRA,FRA,/profile-bio/men/Alois_Beust/,,,M
+1025,Xavier Avila,xavil,ESP,ESP,/profile-bio/men/Xavier_Avila/,,,M
+1026,Ciprian Petre Porumb,cpetr,ROU,ROM,/profile-bio/men/Ciprian_Petre_Porumb/,,,M
+1027,Florence Gauvain,fgauv,France,FRA,/profile-bio/women/Florence_Gauvain/,,,F
+1028,Paulo Vilmena,pvilm,POR,PRT,/profile-bio/men/Paulo_Vilmena/,,,M
+1029,Luis Andreotti,landr_2,ARG,ARG,/profile-bio/men/Luis_Andreotti/,,,M
+1030,Hiroki Ishii,hishi,JPN,JPN,/profile-bio/men/Hiroki_Ishii/,,,M
+1031,Garry Engleman,gengl,GBR,XXX,/profile-bio/men/Garry_Engleman/,,,M
+1032,Michael Schmidtmann,mschm,GER,DEU,/profile-bio/men/Michael_Schmidtmann/,,,M
+1033,Antonia Homolya,ahomo,Hungary,HUN,/profile-bio/women/Antonia_Homolya/,,,F
+1035,Mark Bailey,mbail,HKG,HKG,/profile-bio/men/Mark_Bailey/,,,M
+1036,Sergio Sarli,ssarl,BRA,BRA,/profile-bio/men/Sergio_Sarli/,,,M
+1037,Ma. Luciana Reynares,mluci_2,Argentina,ARG,/profile-bio/women/Ma._Luciana_Reynares/,,,F
+1038,Anne Simpkin,asimp,United Kingdom,GBR,/profile-bio/women/Anne_Simpkin/,,,F
+1041,Blaz Trupej,btrup,SLO,SVN,/profile-bio/men/Blaz_Trupej/,,,M
+1043,Suzanna Wibowo,swibo,Indonesia,IDN,/profile-bio/women/Suzanna_Wibowo/,,,F
+1048,Andrew Stoner,aston,USA,USA,/profile-bio/men/Andrew_Stoner/,,,M
+1049,Christian Geyer,cgeye,GER,DEU,/profile-bio/men/Christian_Geyer/,,,M
+1050,Tanja Hauschildt,thaus,Germany,DEU,/profile-bio/women/Tanja_Hauschildt/,,,F
+58,Cyril Suk,csuk,CZE,CZE,/profile-bio/men/Cyril_Suk/,,,M
+47,Marcos Aurelio Gorriz,maure,ESP,ESP,/profile-bio/men/Marcos_Aurelio_Gorriz/,,,M
+40,Chad Andrews,candr,USA,USA,/profile-bio/men/Chad_Andrews/,,,M
+42,Hiroko Hara,hhara,Japan,JPN,/profile-bio/women/Hiroko_Hara/,,,F
+46,George Kalovelonis,gkalo,GRE,GRC,/profile-bio/men/George_Kalovelonis/,,,M
+48,Krister Wedenby,kwede,SWE,SWE,/profile-bio/men/Krister_Wedenby/,,,M
+50,Tracey Rodgers,trodg,Australia,AUS,/profile-bio/women/Tracey_Rodgers/,,,F
+51,Sabrina Giusto,sgius,Brazil,BRA,/profile-bio/women/Sabrina_Giusto/,,,F
+52,Sven Brandau,sbran,USA,USA,/profile-bio/men/Sven_Brandau/,,,M
+53,Rikki Gaddie,rgadd,South Africa,ZAF,/profile-bio/women/Rikki_Gaddie/,,,F
+55,Fabio Walker,fwalk,CAN,CAN,/profile-bio/men/Fabio_Walker/,,,M
+56,Oliver Vogt,ovogt,GER,DEU,/profile-bio/men/Oliver_Vogt/,,,M
+57,Florian Krumrey,fkrum,GER,DEU,/profile-bio/men/Florian_Krumrey/,,,M
+60,Krassimir Lazarov,klaza,BUL,BGR,/profile-bio/men/Krassimir_Lazarov/,,,M
+61,Daniella Blanke,dblan,Germany,DEU,/profile-bio/women/Daniella_Blanke/,,,F
+62,Mark Ozer,mozer,USA,USA,/profile-bio/men/Mark_Ozer/,,,M
+64,Rodrigo Urzua,rurzu,CHI,CHL,/profile-bio/men/Rodrigo_Urzua/,,,M
+66,Paul Hand,phand,GBR,XXX,/profile-bio/men/Paul_Hand/,,,M
+67,Amy Van Buuren,avanb,Netherlands,NLD,/profile-bio/women/Amy_Van_Buuren/,,,F
+1052,Nuno Veiga,nveig,POR,PRT,/profile-bio/men/Nuno_Veiga/,,,M
+1053,Jacco Van Duyn,jvand,NED,NLD,/profile-bio/men/Jacco_Van_Duyn/,,,M
+1055,Jack Griffin,jgrif,USA,USA,/profile-bio/men/Jack_Griffin/,,,M
+1057,Cedric Raynaud,crayn,FRA,FRA,/profile-bio/men/Cedric_Raynaud/,,,M
+1059,Markus Gau,mgau,GER,DEU,/profile-bio/men/Markus_Gau/,,,M
+1060,Mike Briggs,mbrig,USA,USA,/profile-bio/men/Mike_Briggs/,,,M
+1061,Gaston Naon,gnaon,ARG,ARG,/profile-bio/men/Gaston_Naon/,,,M
+1062,Sara Migliori,smigl,Italy,ITA,/profile-bio/women/Sara_Migliori/,,,F
+1064,Ivona Horvat,ihorv,Croatia,HRV,/profile-bio/women/Ivona_Horvat/,,,F
+1065,Linda Barnard,lbarn,South Africa,ZAF,/profile-bio/women/Linda_Barnard/,,,F
+1066,Doug Burke,dburk,JAM,JAM,/profile-bio/men/Doug_Burke/,,,M
+1067,Fabio Melegari,fmele,ITA,ITA,/profile-bio/men/Fabio_Melegari/,,,M
+1070,Renata Smekalova,rsmek,Slovakia,SVK,/profile-bio/women/Renata_Smekalova/,,,F
+1071,Bent-Ove Pedersen,boped_2,NOR,NOR,/profile-bio/men/Bent-Ove_Pedersen/,,,M
+1072,Giovanni Lelli Mami,glell,ITA,ITA,/profile-bio/men/Giovanni_Lelli_Mami/,,,M
+1073,Lone Vandborg,lvand,Denmark,DNK,/profile-bio/women/Lone_Vandborg/,,,F
+1074,Petra Raclavska,pracl,Czech Republic,CZE,/profile-bio/women/Petra_Raclavska/,,,F
+1075,Omar Haggag,ohagg,EGY,EGY,/profile-bio/men/Omar_Haggag/,,,M
+1076,Karoly Gyorgy,kgyor,HUN,HUN,/profile-bio/men/Karoly_Gyorgy/,,,M
+1077,Paulo Machado,pmach,POR,PRT,/profile-bio/men/Paulo_Machado/,,,M
+1079,David Collins,dcoll_2,GBR,XXX,/profile-bio/men/David_Collins/,,,M
+1080,Cornelia Marty,cmart_2,Switzerland,CHE,/profile-bio/women/Cornelia_Marty/,,,F
+1081,Claudia Hernandez,chern,Mexico,MEX,/profile-bio/women/Claudia_Hernandez/,,,F
+1083,Roberto Lopez,rlope,MEX,MEX,/profile-bio/men/Roberto_Lopez/,,,M
+1085,Alistair Hunt,ahunt,NZL,NZL,/profile-bio/men/Alistair_Hunt/,,,M
+1086,Suzanne Italiano,sital,Canada,CAN,/profile-bio/women/Suzanne_Italiano/,,,F
+1088,Jennifer Prah,jprah,United States,USA,/profile-bio/women/Jennifer_Prah/,,,F
+1089,Juan Pablo Etchecoin,jpabl,BRA,BRA,/profile-bio/men/Juan_Pablo_Etchecoin/,,,M
+1092,Rudolf Fekete,rfeke,HUN,HUN,/profile-bio/men/Rudolf_Fekete/,,,M
+1093,Mario Cleto,mclet,BRA,BRA,/profile-bio/men/Mario_Cleto/,,,M
+1094,Jose-Luis Aparisi,jlapa,ESP,ESP,/profile-bio/men/Jose-Luis_Aparisi/,,,M
+1095,Yuval Karutzi,ykaru,ISR,ISR,/profile-bio/men/Yuval_Karutzi/,,,M
+1097,Angelo Tanganelli,atang,ITA,ITA,/profile-bio/men/Angelo_Tanganelli/,,,M
+1099,Mike Conroy,mconr,USA,USA,/profile-bio/men/Mike_Conroy/,,,M
+1101,Rozzell Lightfoot,rligh,USA,USA,/profile-bio/men/Rozzell_Lightfoot/,,,M
+1102,Cindy Summers,csumm,South Africa,ZAF,/profile-bio/women/Cindy_Summers/,,,F
+1104,Jorgen Windahl,jwind,SWE,SWE,/profile-bio/men/Jorgen_Windahl/,,,M
+1105,Ernesto Munoz De Cote,emuno,MEX,MEX,/profile-bio/men/Ernesto_Munoz_De_Cote/,,,M
+1106,Luis Riba,lriba,ESP,ESP,/profile-bio/men/Luis_Riba/,,,M
+1109,Per Henricsson,phenr,SWE,SWE,/profile-bio/men/Per_Henricsson/,,,M
+1112,Tony Richey,trich,JAM,JAM,/profile-bio/men/Tony_Richey/,,,M
+1115,Nadja Beik,nbeik,Germany,DEU,/profile-bio/women/Nadja_Beik/,,,F
+1116,Daniel Dobre,ddobr,ROU,ROM,/profile-bio/men/Daniel_Dobre/,,,M
+1119,Paul Mick,pmick,AUS,AUS,/profile-bio/men/Paul_Mick/,,,M
+1120,Marco Saliola,msali_2,BRA,BRA,/profile-bio/men/Marco_Saliola/,,,M
+1121,Scott Gessner,sgess,GER,DEU,/profile-bio/men/Scott_Gessner/,,,M
+1122,Monika De Lenart,mdele,Switzerland,CHE,/profile-bio/women/Monika_De_Lenart/,,,F
+1123,Melissa Mazzotta,mmazz,United States,USA,/profile-bio/women/Melissa_Mazzotta/,,,F
+1125,Pascale Paradis-Mangon,ppara_2,France,FRA,/profile-bio/women/Pascale_Paradis-Mangon/,,,F
+1127,Darija Deskovic,ddesk,Croatia,HRV,/profile-bio/women/Darija_Deskovic/,,,F
+1128,Tad Grattan,tgrat,USA,USA,/profile-bio/men/Tad_Grattan/,,,M
+1129,Kathy Foxworth,kfoxw,United States,USA,/profile-bio/women/Kathy_Foxworth/,,,F
+1130,Oleksandr Dolgopolov Sr.,odolg,UKR,UKR,/profile-bio/men/Oleksandr_Dolgopolov_Sr./,,,M
+1131,Enrico Sellan,esell,ITA,ITA,/profile-bio/men/Enrico_Sellan/,,,M
+1132,Jiri Pelikan,jpeli,CZE,CZE,/profile-bio/men/Jiri_Pelikan/,,,M
+1133,Brenda Schultz-McCarthy,bschu_2,Netherlands,NLD,/profile-bio/women/Brenda_Schultz-McCarthy/,,,F
+1135,Stefan Eggmayer,seggm,GER,DEU,/profile-bio/men/Stefan_Eggmayer/,,,M
+1137,Kenzo Ukon,kukon,JPN,JPN,/profile-bio/men/Kenzo_Ukon/,,,M
+1138,Eva-Maria Schuerhoff,emsch_2,Germany,DEU,/profile-bio/women/Eva-Maria_Schuerhoff/,,,F
+1139,Adrian Graimprey,agrai,LUX,LUX,/profile-bio/men/Adrian_Graimprey/,,,M
+1140,Hawin Sutopo,hsuto,INA,IDN,/profile-bio/men/Hawin_Sutopo/,,,M
+1141,Adriano Ferreira,aferr,BRA,BRA,/profile-bio/men/Adriano_Ferreira/,,,M
+1142,Monica Reinach,mrein_2,South Africa,ZAF,/profile-bio/women/Monica_Reinach/,,,F
+1143,Nathalie Guerree,nguer_2,France,FRA,/profile-bio/women/Nathalie_Guerree/,,,F
+1146,Lionel Barthez,lbart,FRA,FRA,/profile-bio/men/Lionel_Barthez/,,,M
+1147,Lisa Keller,lkell,Australia,AUS,/profile-bio/women/Lisa_Keller/,,,F
+1148,Jill Brenner,jbren,United States,USA,/profile-bio/women/Jill_Brenner/,,,F
+1150,Fredrik Perman,fperm,SWE,SWE,/profile-bio/men/Fredrik_Perman/,,,M
+1152,Teddy Tanjung,ttanj,INA,IDN,/profile-bio/men/Teddy_Tanjung/,,,M
+1154,Anat Varon,avaro,Israel,ISR,/profile-bio/women/Anat_Varon/,,,F
+1155,Eduard Pana,epana,ROU,ROM,/profile-bio/men/Eduard_Pana/,,,M
+1157,Dane Nebel,dnebe,AUS,AUS,/profile-bio/men/Dane_Nebel/,,,M
+1159,Rod Rafael,rrafa,PHI,PHL,/profile-bio/men/Rod_Rafael/,,,M
+1161,Fredrik Eliasson,felia,SWE,SWE,/profile-bio/men/Fredrik_Eliasson/,,,M
+1162,Junichi Maruyama,jmaru,JPN,JPN,/profile-bio/men/Junichi_Maruyama/,,,M
+1163,Sandrine Bregnard,sbreg,Switzerland,CHE,/profile-bio/women/Sandrine_Bregnard/,,,F
+1164,Jose Antonio Pellejero,janto,ESP,ESP,/profile-bio/men/Jose_Antonio_Pellejero/,,,M
+1165,Michelle Jaggard-Lai,mjagg_2,Australia,AUS,/profile-bio/women/Michelle_Jaggard-Lai/,,,F
+1167,Jeffrey Hunter,jhunt,GBR,XXX,/profile-bio/men/Jeffrey_Hunter/,,,M
+1168,Won-Geun Na,wgna,KOR,XXX,/profile-bio/men/Won-Geun_Na/,,,M
+1169,Amit Naor,anaor,ISR,ISR,/profile-bio/men/Amit_Naor/,,,M
+1170,Cora Hofmann,chofm,Germany,DEU,/profile-bio/women/Cora_Hofmann/,,,F
+1171,Toshihisa Tsuchihashi,ttsuc,JPN,JPN,/profile-bio/men/Toshihisa_Tsuchihashi/,,,M
+1172,Rafael Pedros,rpedr,FRA,FRA,/profile-bio/men/Rafael_Pedros/,,,M
+1173,Tom Kempers,tkemp_2,NED,NLD,/profile-bio/men/Tom_Kempers/,,,M
+1175,Juan Olivert,joliv,ESP,ESP,/profile-bio/men/Juan_Olivert/,,,M
+1176,Eduardo Nunes,enune,BRA,BRA,/profile-bio/men/Eduardo_Nunes/,,,M
+1177,Gunnar Salumaa,gsalu,USA,USA,/profile-bio/men/Gunnar_Salumaa/,,,M
+1178,Alan Douglas,adoug,GBR,XXX,/profile-bio/men/Alan_Douglas/,,,M
+1180,John Werner,jwern,AUS,AUS,/profile-bio/men/John_Werner/,,,M
+1182,Juan Rios,jrios,PUR,PRI,/profile-bio/men/Juan_Rios/,,,M
+1186,Jane Thomas,jthom_3,United States,USA,/profile-bio/women/Jane_Thomas/,,,F
+1191,Christophe Fournerie,cfour,FRA,FRA,/profile-bio/men/Christophe_Fournerie/,,,M
+1192,Daniel Montes De Oca,dmont,URU,URY,/profile-bio/men/Daniel_Montes_De_Oca/,,,M
+1193,Eliot Teltscher,etelt,USA,USA,/profile-bio/men/Eliot_Teltscher/,,,M
+1194,David Kass,dkass,USA,USA,/profile-bio/men/David_Kass/,,,M
+1195,Ruben Lamothe,rlamo,HAI,HTI,/profile-bio/men/Ruben_Lamothe/,,,M
+1196,Ulli Nganga,ungan,GBR,XXX,/profile-bio/men/Ulli_Nganga/,,,M
+1197,Loic Courteau,lcour_2,FRA,FRA,/profile-bio/men/Loic_Courteau/,,,M
+1198,Orathai Thampensri,otham,Thailand,THA,/profile-bio/women/Orathai_Thampensri/,,,F
+1199,Michael Feldbausch,mfeld,GER,DEU,/profile-bio/men/Michael_Feldbausch/,,,M
+1202,Rudi Prinsloo,rprin,RSA,ZAF,/profile-bio/men/Rudi_Prinsloo/,,,M
+1203,Shlomo Shemesh,sshem,ISR,ISR,/profile-bio/men/Shlomo_Shemesh/,,,M
+1204,Cecilia Bargagni,cbarg,Italy,ITA,/profile-bio/women/Cecilia_Bargagni/,,,F
+1205,Scott Brown,sbrow,USA,USA,/profile-bio/men/Scott_Brown/,,,M
+1206,Rita Cruz Lima,rcruz,Brazil,BRA,/profile-bio/women/Rita_Cruz_Lima/,,,F
+1208,Gonzalo Fernandez,gfern_2,CHI,CHL,/profile-bio/men/Gonzalo_Fernandez/,,,M
+1211,Larry Angus,langu,USA,USA,/profile-bio/men/Larry_Angus/,,,M
+1212,Andrew Thurstone,athur,USA,USA,/profile-bio/men/Andrew_Thurstone/,,,M
+1213,Pam Casale-Telford,pcasa_2,United States,USA,/profile-bio/women/Pam_Casale-Telford/,,,F
+1214,Hakan Svensson,hsven,SWE,SWE,/profile-bio/men/Hakan_Svensson/,,,M
+1217,Kersten Renneissen,krenn,Germany,DEU,/profile-bio/women/Kersten_Renneissen/,,,F
+1218,Magnus Zeile,mzeil,SWE,SWE,/profile-bio/men/Magnus_Zeile/,,,M
+1219,Barry Richards,brich,USA,USA,/profile-bio/men/Barry_Richards/,,,M
+1221,Sofia Kelbert,skelb,Brazil,BRA,/profile-bio/women/Sofia_Kelbert/,,,F
+1222,Wege Van Niekerk,wvann,RSA,ZAF,/profile-bio/men/Wege_Van_Niekerk/,,,M
+1223,Mark Joachim,mjoac,GER,DEU,/profile-bio/men/Mark_Joachim/,,,M
+1224,Cora Linneman,clinn,Germany,DEU,/profile-bio/women/Cora_Linneman/,,,F
+1226,Peter Tragauer,ptrag,AUT,AUT,/profile-bio/men/Peter_Tragauer/,,,M
+1227,Nicola Bruno,nbrun,ITA,ITA,/profile-bio/men/Nicola_Bruno/,,,M
+1228,Trisha Laux,tlaux,United States,USA,/profile-bio/women/Trisha_Laux/,,,F
+1229,Bret Richardson,brich_2,AUS,AUS,/profile-bio/men/Bret_Richardson/,,,M
+1231,Christian Camradt,ccamr,DEN,DNK,/profile-bio/men/Christian_Camradt/,,,M
+1232,Brian Gyetko,bgyet,CAN,CAN,/profile-bio/men/Brian_Gyetko/,,,M
+1233,Emmanuel Marmillod,emarm,SUI,CHE,/profile-bio/men/Emmanuel_Marmillod/,,,M
+1237,Rodney Jacks,rjack,USA,USA,/profile-bio/men/Rodney_Jacks/,,,M
+1238,Reid Rafter,rraft,USA,USA,/profile-bio/men/Reid_Rafter/,,,M
+1239,Tim Corwin,tcorw,USA,USA,/profile-bio/men/Tim_Corwin/,,,M
+1241,David De Miguel,ddemi,ESP,ESP,/profile-bio/men/David_De_Miguel/,,,M
+1242,N/A Sulistyono,asuli,INA,XXX,/profile-bio/men/N/A_Sulistyono/,,,M
+1243,Radka Zrubakova,rzrub_2,Slovakia,SVK,/profile-bio/women/Radka_Zrubakova/,,,F
+1245,Douglas Geiwald,dgeiw,SWE,SWE,/profile-bio/men/Douglas_Geiwald/,,,M
+1246,Ulrike Priller,upril,Austria,AUT,/profile-bio/women/Ulrike_Priller/,,,F
+1247,Stephen Gleeson,sglee,AUS,AUS,/profile-bio/men/Stephen_Gleeson/,,,M
+1248,Peter Kerekes,pkere,HUN,HUN,/profile-bio/men/Peter_Kerekes/,,,M
+1249,Takeshi Murakami,tmura,JPN,JPN,/profile-bio/men/Takeshi_Murakami/,,,M
+1250,Frank Schaffner,fscha,GER,DEU,/profile-bio/men/Frank_Schaffner/,,,M
+1251,Silvia Ramon-Cortes,sramo,Spain,ESP,/profile-bio/women/Silvia_Ramon-Cortes/,,,F
+1253,Karel Demuynck,kdemu,BEL,BEL,/profile-bio/men/Karel_Demuynck/,,,M
+1254,Dinu Pescariu,dpesc,ROU,ROM,/profile-bio/men/Dinu_Pescariu/,,,M
+1257,Toru Yonezawa,tyone,JPN,JPN,/profile-bio/men/Toru_Yonezawa/,,,M
+1258,Marc Walder,mwald,SUI,CHE,/profile-bio/men/Marc_Walder/,,,M
+1260,Hortensia Hernandez,hhern,Mexico,MEX,/profile-bio/women/Hortensia_Hernandez/,,,F
+1261,Rona Mayer,rmaye,Israel,ISR,/profile-bio/women/Rona_Mayer/,,,F
+1262,Rodrigo Barnabe,rbarn,BRA,BRA,/profile-bio/men/Rodrigo_Barnabe/,,,M
+1263,Tibor Toth,ttoth,SVK,SVK,/profile-bio/men/Tibor_Toth/,,,M
+1264,Tanja Cerne,tcern,Slovakia,SVK,/profile-bio/women/Tanja_Cerne/,,,F
+1265,Martin Schaffl,mscha_2,AUT,AUT,/profile-bio/men/Martin_Schaffl/,,,M
+1267,Daniel Baertschi,dbaer,SUI,CHE,/profile-bio/men/Daniel_Baertschi/,,,M
+1268,Mariano Vantini,mvant_2,ITA,ITA,/profile-bio/men/Mariano_Vantini/,,,M
+1269,Jamie Holmes,jholm,AUS,AUS,/profile-bio/men/Jamie_Holmes/,,,M
+1270,Magdalena Feistel,mfeis,Poland,POL,/profile-bio/women/Magdalena_Feistel/,,,F
+1271,Peanut Harper,pharp,United States,USA,/profile-bio/women/Peanut_Harper/,,,F
+1273,Borja Uribe,burib,ESP,ESP,/profile-bio/men/Borja_Uribe/,,,M
+1274,Patrik Albertsson,palbe,SWE,SWE,/profile-bio/men/Patrik_Albertsson/,,,M
+1275,Carlos Alcaraz Gonzalez,calca,ESP,ESP,/profile-bio/men/Carlos_Alcaraz_Gonzalez/,,,M
+1277,Sascha Bandermann,sband,GER,DEU,/profile-bio/men/Sascha_Bandermann/,,,M
+1278,Joao Couto,jcout,POR,PRT,/profile-bio/men/Joao_Couto/,,,M
+1280,Walmir Bandeira,wband,BRA,BRA,/profile-bio/men/Walmir_Bandeira/,,,M
+1281,Neus Avila,navil_2,Spain,ESP,/profile-bio/women/Neus_Avila/,,,F
+1282,Michael Daniel,mdani,ISR,ISR,/profile-bio/men/Michael_Daniel/,,,M
+1283,Marcelo Calfat,mcalf,BRA,BRA,/profile-bio/men/Marcelo_Calfat/,,,M
+1284,Phillip Williamson,pwill_2,USA,USA,/profile-bio/men/Phillip_Williamson/,,,M
+1285,Petra Holubova,pholu,Czech Republic,CZE,/profile-bio/women/Petra_Holubova/,,,F
+1289,Steve Jung,sjung,USA,USA,/profile-bio/men/Steve_Jung/,,,M
+1291,Patrick Galbraith,pgalb,USA,USA,/profile-bio/men/Patrick_Galbraith/,,,M
+1293,Jeff Chiang,jchia,USA,USA,/profile-bio/men/Jeff_Chiang/,,,M
+1294,Thomas Buchmayer,tbuch,AUT,AUT,/profile-bio/men/Thomas_Buchmayer/,,,M
+1295,Boro Colvee,bcolv,VEN,XXX,/profile-bio/men/Boro_Colvee/,,,M
+1296,Pilar Perez,ppere,Spain,ESP,/profile-bio/women/Pilar_Perez/,,,F
+1297,Alix Creek,acree,United States,USA,/profile-bio/women/Alix_Creek/,,,F
+1298,Andrew Wager,awage,USA,USA,/profile-bio/men/Andrew_Wager/,,,M
+1299,Michael Stump,mstum,GER,DEU,/profile-bio/men/Michael_Stump/,,,M
+1300,Etsuko Kaneshiro,ekane,Japan,JPN,/profile-bio/women/Etsuko_Kaneshiro/,,,F
+1304,Nike Dobrovits,ndobr,Austria,AUT,/profile-bio/women/Nike_Dobrovits/,,,F
+1305,Katja Meichelbock,kmeic,Germany,DEU,/profile-bio/women/Katja_Meichelbock/,,,F
+1306,Marek Miskolci,mmisk,CZE,CZE,/profile-bio/men/Marek_Miskolci/,,,M
+1308,Diego Varela,dvare,ARG,ARG,/profile-bio/men/Diego_Varela/,,,M
+1309,Pascalle Druyts,pdruy,Netherlands,NLD,/profile-bio/women/Pascalle_Druyts/,,,F
+1310,Pasi Kinnunen,pkinn,FIN,FIN,/profile-bio/men/Pasi_Kinnunen/,,,M
+1312,Claudio Rigagnoli,criga,ITA,ITA,/profile-bio/men/Claudio_Rigagnoli/,,,M
+1313,Jose Wasserfirer,jwass,BRA,BRA,/profile-bio/men/Jose_Wasserfirer/,,,M
+1314,Brian Roe,broe_2,AUS,AUS,/profile-bio/men/Brian_Roe/,,,M
+1316,Ki-Ju Chung,kjchu,KOR,XXX,/profile-bio/men/Ki-Ju_Chung/,,,M
+1317,Hatem McDadi,hmcda,CAN,CAN,/profile-bio/men/Hatem_McDadi/,,,M
+1318,Gunther Vanderveeren,gvand,BEL,BEL,/profile-bio/men/Gunther_Vanderveeren/,,,M
+1319,Jesper Joergensen,jjoer,DEN,DNK,/profile-bio/men/Jesper_Joergensen/,,,M
+1320,Belkis Rodriguez,brodr,Cuba,CUB,/profile-bio/women/Belkis_Rodriguez/,,,F
+1321,Sander Groen,sgroe,NED,NLD,/profile-bio/men/Sander_Groen/,,,M
+1323,Elaine Gibrayl,egibr,Brazil,BRA,/profile-bio/women/Elaine_Gibrayl/,,,F
+1325,Yuval Hirsch,yhirs,ISR,ISR,/profile-bio/men/Yuval_Hirsch/,,,M
+1327,Tertius Reynders,treyn,RSA,ZAF,/profile-bio/men/Tertius_Reynders/,,,M
+1328,Robinson Ureta,ruret,CHI,CHL,/profile-bio/men/Robinson_Ureta/,,,M
+1332,Tim Donovan,tdono,USA,USA,/profile-bio/men/Tim_Donovan/,,,M
+1333,Eva Haslinghuis,ehasl,Netherlands,NLD,/profile-bio/women/Eva_Haslinghuis/,,,F
+1335,Fabio Di Mauro,fdima,ITA,ITA,/profile-bio/men/Fabio_Di_Mauro/,,,M
+1336,Claudia Piccini,cpicc,Italy,ITA,/profile-bio/women/Claudia_Piccini/,,,F
+1338,Alessandro Dalboni,adalb,ITA,ITA,/profile-bio/men/Alessandro_Dalboni/,,,M
+1341,Clinton Ferreira,cferr,RSA,ZAF,/profile-bio/men/Clinton_Ferreira/,,,M
+1343,Marcos Hocevar,mhoce,BRA,BRA,/profile-bio/men/Marcos_Hocevar/,,,M
+1344,Helena Vildova,hvild,Czech Republic,CZE,/profile-bio/women/Helena_Vildova/,,,F
+1345,Cristiano Testa,ctest,BRA,BRA,/profile-bio/men/Cristiano_Testa/,,,M
+1346,Sasa Hirszon,shirs,CRO,HRV,/profile-bio/men/Sasa_Hirszon/,,,M
+1347,Judith Warringa,jwarr,Netherlands,NLD,/profile-bio/women/Judith_Warringa/,,,F
+1350,Monika Kratochvilova,mkrat,Czech Republic,CZE,/profile-bio/women/Monika_Kratochvilova/,,,F
+1351,Nick Fulwood,nfulw_2,GBR,XXX,/profile-bio/men/Nick_Fulwood/,,,M
+1356,David Salvador-Estepa,dsalv,ESP,ESP,/profile-bio/men/David_Salvador-Estepa/,,,M
+1357,Wentzel Pretorius,wpret,RSA,ZAF,/profile-bio/men/Wentzel_Pretorius/,,,M
+1358,Alex Lopez Moron,almor,ESP,ESP,/profile-bio/men/Alex_Lopez_Moron/,,,M
+1359,Joseph Russell,jruss,USA,USA,/profile-bio/men/Joseph_Russell/,,,M
+1360,Dennis Schmid,dschm,USA,USA,/profile-bio/men/Dennis_Schmid/,,,M
+1361,Dae-Sung Jin,dsjin,KOR,XXX,/profile-bio/men/Dae-Sung_Jin/,,,M
+1362,Armand Custers,acust,NED,NLD,/profile-bio/men/Armand_Custers/,,,M
+1363,Craig Boynton,cboyn,USA,USA,/profile-bio/men/Craig_Boynton/,,,M
+1364,Erica O'Neill,eo,United States,XXX,/profile-bio/women/Erica_O,,,F
+1365,Jaime Cortes,jcort,COL,COL,/profile-bio/men/Jaime_Cortes/,,,M
+1366,Radek Kocek,rkoce,USA,USA,/profile-bio/men/Radek_Kocek/,,,M
+1367,Rafael Reichow,rreic,BRA,BRA,/profile-bio/men/Rafael_Reichow/,,,M
+1368,Luanne Spadea,lspad,United States,USA,/profile-bio/women/Luanne_Spadea/,,,F
+1369,John Carras,jcarr,USA,USA,/profile-bio/men/John_Carras/,,,M
+1370,Nathalie Rodriguez,nrodr,Chile,CHL,/profile-bio/women/Nathalie_Rodriguez/,,,F
+1371,Julie Halard-Decugis,jhala_2,France,FRA,/profile-bio/women/Julie_Halard-Decugis/,,,F
+1374,Jett Jones,jjone_2,USA,USA,/profile-bio/men/Jett_Jones/,,,M
+1375,Louise Pleming,lplem,Australia,AUS,/profile-bio/women/Louise_Pleming/,,,F
+1377,Mike Lee,mlee_2,USA,USA,/profile-bio/men/Mike_Lee/,,,M
+1378,Jean Leclercq,jlecl,FRA,FRA,/profile-bio/men/Jean_Leclercq/,,,M
+1381,Ed Nagel,enage,USA,USA,/profile-bio/men/Ed_Nagel/,,,M
+1384,Alexis Hombrecher,ahomb,GER,DEU,/profile-bio/men/Alexis_Hombrecher/,,,M
+1386,Thierry Grin,tgrin,SUI,CHE,/profile-bio/men/Thierry_Grin/,,,M
+1387,Anke Marchl,amarc_3,Germany,DEU,/profile-bio/women/Anke_Marchl/,,,F
+1389,Edwin Wu,ewu,PER,PER,/profile-bio/men/Edwin_Wu/,,,M
+1391,Kentaro Masuda,kmasu,JPN,JPN,/profile-bio/men/Kentaro_Masuda/,,,M
+1392,Titia Wilmink,twilm,Netherlands,NLD,/profile-bio/women/Titia_Wilmink/,,,F
+1393,Alejandro Aramburu,aaram_2,PER,PER,/profile-bio/men/Alejandro_Aramburu/,,,M
+1394,Virginia Humphreys-Davies,vhump_2,United Kingdom,GBR,/profile-bio/women/Virginia_Humphreys-Davies/,,,F
+1397,Milan Trneny,mtrne,CZE,CZE,/profile-bio/men/Milan_Trneny/,,,M
+1400,Pierre Godfroid,pgodf,BEL,BEL,/profile-bio/men/Pierre_Godfroid/,,,M
+1403,Peter Nyborg,pnybo,SWE,SWE,/profile-bio/men/Peter_Nyborg/,,,M
+1404,Charles-Brent Walker,cbwal,USA,USA,/profile-bio/men/Charles-Brent_Walker/,,,M
+1405,Mark Ferreira,mferr,IND,IND,/profile-bio/men/Mark_Ferreira/,,,M
+1406,Jaromir Becka,jbeck,GER,DEU,/profile-bio/men/Jaromir_Becka/,,,M
+1407,Alvaro Jordan,ajord,COL,COL,/profile-bio/men/Alvaro_Jordan/,,,M
+1408,Thomas Gollwitzer,tgoll,GER,DEU,/profile-bio/men/Thomas_Gollwitzer/,,,M
+1409,Lior Dahan,ldaha,ISR,ISR,/profile-bio/men/Lior_Dahan/,,,M
+1410,Juan Rathman Jousef,jrath,HKG,HKG,/profile-bio/men/Juan_Rathman_Jousef/,,,M
+1411,Alberto Paris,apari,LUX,LUX,/profile-bio/men/Alberto_Paris/,,,M
+1413,Magnus Nilsson,mnils,SWE,SWE,/profile-bio/men/Magnus_Nilsson/,,,M
+1414,Christian Weis,cweis,GER,DEU,/profile-bio/men/Christian_Weis/,,,M
+1415,Henrike Kadzidroga,hkadz,Germany,DEU,/profile-bio/women/Henrike_Kadzidroga/,,,F
+1416,Jose-Maria Blasi,jmbla,ESP,ESP,/profile-bio/men/Jose-Maria_Blasi/,,,M
+1418,Jose Mario Silva,jmsil,POR,PRT,/profile-bio/men/Jose_Mario_Silva/,,,M
+1420,Genaro De Leon,gdele,DOM,DOM,/profile-bio/men/Genaro_De_Leon/,,,M
+1422,Stefan Lohse,slohs,GER,DEU,/profile-bio/men/Stefan_Lohse/,,,M
+1423,Juan Gisbert Sr,jgisb,ESP,ESP,/profile-bio/men/Juan_Gisbert_Sr/,,,M
+1425,Steve Cornelissen,scorn,BEL,BEL,/profile-bio/men/Steve_Cornelissen/,,,M
+1426,Laura Murgo,lmurg,Italy,ITA,/profile-bio/women/Laura_Murgo/,,,F
+1427,Mel Purcell,mpurc_2,USA,USA,/profile-bio/men/Mel_Purcell/,,,M
+1428,Peter Campbell,pcamp_2,AUS,AUS,/profile-bio/men/Peter_Campbell/,,,M
+1430,Michael Walker,mwalk_2,HKG,HKG,/profile-bio/men/Michael_Walker/,,,M
+1432,Sergio Gomez-Barrio,sgome_2,ESP,ESP,/profile-bio/men/Sergio_Gomez-Barrio/,,,M
+1435,Nicole Muns-Jagerman,nmuns,Netherlands,NLD,/profile-bio/women/Nicole_Muns-Jagerman/,,,F
+1436,Axel Hornung,ahorn,GER,DEU,/profile-bio/men/Axel_Hornung/,,,M
+1438,Macarena Miranda,mmira,Chile,CHL,/profile-bio/women/Macarena_Miranda/,,,F
+1439,Eduardo Furusho,efuru,JPN,JPN,/profile-bio/men/Eduardo_Furusho/,,,M
+1440,Mark Billone,mbill,USA,USA,/profile-bio/men/Mark_Billone/,,,M
+1443,Francois Errard,ferra,FRA,FRA,/profile-bio/men/Francois_Errard/,,,M
+1444,Tino Anda,tanda,ESP,ESP,/profile-bio/men/Tino_Anda/,,,M
+1445,Worapol Thongkamcho,wthon,THA,THA,/profile-bio/men/Worapol_Thongkamcho/,,,M
+1447,Angel Luis Lopez,aluis,ESP,ESP,/profile-bio/men/Angel_Luis_Lopez/,,,M
+1449,Pierre Arnold,parno_2,ARG,ARG,/profile-bio/men/Pierre_Arnold/,,,M
+1450,Ilou Lonfo,ilonf,CIV,XXX,/profile-bio/men/Ilou_Lonfo/,,,M
+1451,Lui Pang,lpang,HKG,HKG,/profile-bio/men/Lui_Pang/,,,M
+1452,Nathalie Van Dierendonck,nvand,Netherlands,NLD,/profile-bio/women/Nathalie_Van_Dierendonck/,,,F
+1453,Jordi Ortiga,jorti,ESP,ESP,/profile-bio/men/Jordi_Ortiga/,,,M
+1455,David Wells-Roth,dwell,USA,USA,/profile-bio/men/David_Wells-Roth/,,,M
+1456,Shinya Tanaka,stana,JPN,JPN,/profile-bio/men/Shinya_Tanaka/,,,M
+1457,Ferenc Csepai,fcsep,HUN,HUN,/profile-bio/men/Ferenc_Csepai/,,,M
+1458,Corrado Aprili,capri,ITA,ITA,/profile-bio/men/Corrado_Aprili/,,,M
+1460,Sybile Niox-Chateau,sniox_2,France,FRA,/profile-bio/women/Sybile_Niox-Chateau/,,,F
+1461,Simone Colombo,scolo,ITA,ITA,/profile-bio/men/Simone_Colombo/,,,M
+1462,Marko Por,mpor,SLO,SVN,/profile-bio/men/Marko_Por/,,,M
+1464,Ernesto Ponce,eponc,MEX,MEX,/profile-bio/men/Ernesto_Ponce/,,,M
+1466,Norberto Mantinan,nmant,MEX,MEX,/profile-bio/men/Norberto_Mantinan/,,,M
+1467,Filippo Grasso,fgras,ITA,ITA,/profile-bio/men/Filippo_Grasso/,,,M
+1468,Jeremy Grubi,jgrub,NZL,NZL,/profile-bio/men/Jeremy_Grubi/,,,M
+1469,Eddie Stewart,estew,USA,USA,/profile-bio/men/Eddie_Stewart/,,,M
+1470,Patricia Miller,pmill,Uruguay,URY,/profile-bio/women/Patricia_Miller/,,,F
+1473,Lucia Peria,lperi,Brazil,BRA,/profile-bio/women/Lucia_Peria/,,,F
+1474,Nick Bendtsen,nbend,DEN,DNK,/profile-bio/men/Nick_Bendtsen/,,,M
+1475,Jesus Manteca,jmant,ESP,ESP,/profile-bio/men/Jesus_Manteca/,,,M
+1476,Ma. Christine Damas,mchri_2,France,FRA,/profile-bio/women/Ma._Christine_Damas/,,,F
+1479,Arjan Van Der Zande,avdza,NED,NLD,/profile-bio/men/Arjan_Van_Der_Zande/,,,M
+1480,Tomas Anzari,tanza,CZE,CZE,/profile-bio/men/Tomas_Anzari/,,,M
+1481,Araceli Montero,amont,Spain,ESP,/profile-bio/women/Araceli_Montero/,,,F
+1482,Robert Kraus,rkrau,GER,DEU,/profile-bio/men/Robert_Kraus/,,,M
+1483,Naoko Kinoshita,nkino,Japan,JPN,/profile-bio/women/Naoko_Kinoshita/,,,F
+1484,Leeh Bienkowski,lbien,POL,POL,/profile-bio/men/Leeh_Bienkowski/,,,M
+1485,Donny Susetyo,dsuse,INA,IDN,/profile-bio/men/Donny_Susetyo/,,,M
+1487,Michaela Rajchrtova,mrajc,Czech Republic,CZE,/profile-bio/women/Michaela_Rajchrtova/,,,F
+1489,Jeff Brown,jbrow_2,USA,USA,/profile-bio/men/Jeff_Brown/,,,M
+1490,Jorn Dankaart,jdank,NED,NLD,/profile-bio/men/Jorn_Dankaart/,,,M
+1491,Yael Shavit,yshav,Israel,ISR,/profile-bio/women/Yael_Shavit/,,,F
+1493,Roger Warmenhoven,rwarm,NED,NLD,/profile-bio/men/Roger_Warmenhoven/,,,M
+1494,Alexandra Niepel,aniep,United Kingdom,GBR,/profile-bio/women/Alexandra_Niepel/,,,F
+1496,Susanna Attili,satti,Italy,ITA,/profile-bio/women/Susanna_Attili/,,,F
+1497,Thierry Pham,tpham,FRA,FRA,/profile-bio/men/Thierry_Pham/,,,M
+1500,Ivan Camus,icamu,CHI,CHL,/profile-bio/men/Ivan_Camus/,,,M
+1501,Ted Scherman,tsche_2,USA,USA,/profile-bio/men/Ted_Scherman/,,,M
+1502,Larry Stefanki,lstef,USA,USA,/profile-bio/men/Larry_Stefanki/,,,M
+1503,Natasha Marcucci,nmarc,Argentina,ARG,/profile-bio/women/Natasha_Marcucci/,,,F
+1504,Gail Boon,gboon,South Africa,ZAF,/profile-bio/women/Gail_Boon/,,,F
+1507,Dusan Prchlik,dprch,CZE,CZE,/profile-bio/men/Dusan_Prchlik/,,,M
+1509,Roberta Burzagli,rburz,Brazil,BRA,/profile-bio/women/Roberta_Burzagli/,,,F
+1511,Lisa Bonder-Kreiss,lbond_2,United States,USA,/profile-bio/women/Lisa_Bonder-Kreiss/,,,F
+1513,Marius Masencamp,mmase,RSA,ZAF,/profile-bio/men/Marius_Masencamp/,,,M
+1515,Heike Thoms,hthom,Germany,DEU,/profile-bio/women/Heike_Thoms/,,,F
+1517,Buff Farrow,bfarr,USA,USA,/profile-bio/men/Buff_Farrow/,,,M
+1518,Virag Csurgo,vcsur,Hungary,HUN,/profile-bio/women/Virag_Csurgo/,,,F
+1519,Glenn Dickerson,gdick,USA,USA,/profile-bio/men/Glenn_Dickerson/,,,M
+1520,Susan Gilchrist,sgilc,United States,USA,/profile-bio/women/Susan_Gilchrist/,,,F
+1523,Bernhard Pils,bpils,AUT,AUT,/profile-bio/men/Bernhard_Pils/,,,M
+1524,Derek Tarr,dtarr,USA,USA,/profile-bio/men/Derek_Tarr/,,,M
+1525,Markus Rackl,mrack,GER,DEU,/profile-bio/men/Markus_Rackl/,,,M
+1527,Gustavo Giussani,ggius,ARG,ARG,/profile-bio/men/Gustavo_Giussani/,,,M
+1529,Johan Alven,jalve,SWE,SWE,/profile-bio/men/Johan_Alven/,,,M
+1530,Michaela Tigiser,mtigi,Germany,DEU,/profile-bio/women/Michaela_Tigiser/,,,F
+1531,Elizabeth Nieto,eniet,Venezuela,XXX,/profile-bio/women/Elizabeth_Nieto/,,,F
+1532,Rosalba Caporuscio,rcapo,Italy,ITA,/profile-bio/women/Rosalba_Caporuscio/,,,F
+1533,Ulrike Przysucha,uprzy,Germany,DEU,/profile-bio/women/Ulrike_Przysucha/,,,F
+1534,Jan Kodes Jr.,jkode,CZE,CZE,/profile-bio/men/Jan_Kodes_Jr./,,,M
+1539,Eric Dawance,edawa,BEL,BEL,/profile-bio/men/Eric_Dawance/,,,M
+1546,Jordi Mas,jmas,ESP,ESP,/profile-bio/men/Jordi_Mas/,,,M
+1547,Nathalie Baudone-Furlan,nbaud_2,Italy,ITA,/profile-bio/women/Nathalie_Baudone-Furlan/,,,F
+1548,Gabor Koves,gkove,HUN,HUN,/profile-bio/men/Gabor_Koves/,,,M
+1549,Lupita Novelo,lnove,Mexico,MEX,/profile-bio/women/Lupita_Novelo/,,,F
+1550,Joakim Bengtsson,jbeng,SWE,SWE,/profile-bio/men/Joakim_Bengtsson/,,,M
+1551,Trevor Kronemann,tkron,USA,USA,/profile-bio/men/Trevor_Kronemann/,,,M
+1552,Diego Del Rio,ddelr,ARG,ARG,/profile-bio/men/Diego_Del_Rio/,,,M
+1553,Luis Sanchis,lsanc,ESP,ESP,/profile-bio/men/Luis_Sanchis/,,,M
+1554,Denis Langaskens,dlang,BEL,BEL,/profile-bio/men/Denis_Langaskens/,,,M
+1556,Ingo Kroll,ikrol,GER,DEU,/profile-bio/men/Ingo_Kroll/,,,M
+1557,Christiane Hofmann,chofm_2,Germany,DEU,/profile-bio/women/Christiane_Hofmann/,,,F
+1558,Owen Casey,ocase,IRL,IRL,/profile-bio/men/Owen_Casey/,,,M
+1559,Jin-So Lee,jslee_2,KOR,XXX,/profile-bio/men/Jin-So_Lee/,,,M
+1563,Pavel Vizner,pvizn,CZE,CZE,/profile-bio/men/Pavel_Vizner/,,,M
+1564,Seung-Ho Ji,shji,KOR,XXX,/profile-bio/men/Seung-Ho_Ji/,,,M
+1565,Tony Pipa,tpipa,USA,USA,/profile-bio/men/Tony_Pipa/,,,M
+1566,Kush Bhardwaj,kbhar,KEN,KEN,/profile-bio/men/Kush_Bhardwaj/,,,M
+1567,Peter Hajek,phaje,GER,DEU,/profile-bio/men/Peter_Hajek/,,,M
+1568,Roberto Arguello,rargu,ARG,ARG,/profile-bio/men/Roberto_Arguello/,,,M
+1571,Otavio Della,odell,BRA,BRA,/profile-bio/men/Otavio_Della/,,,M
+1572,Larisa Neiland,lneil,Latvia,LVA,/profile-bio/women/Larisa_Neiland/,,,F
+1580,Alfonso Fernandez-Fermoselle,afern,ESP,ESP,/profile-bio/men/Alfonso_Fernandez-Fermoselle/,,,M
+1581,Thomas Fergg,tferg,GER,DEU,/profile-bio/men/Thomas_Fergg/,,,M
+1584,David Stewart,dstew,USA,USA,/profile-bio/men/David_Stewart/,,,M
+1585,Clinton Banducci,cband,RSA,ZAF,/profile-bio/men/Clinton_Banducci/,,,M
+1587,Karin Ptaszek,kptas,Denmark,DNK,/profile-bio/women/Karin_Ptaszek/,,,F
+1588,Jose Antonio (Pepe) Conde,ja(pe,ESP,ESP,/profile-bio/men/Jose_Antonio_(Pepe)_Conde/,,,M
+1589,Gil Kovalski,gkova,ISR,ISR,/profile-bio/men/Gil_Kovalski/,,,M
+1590,Jose Clavet,jclav,ESP,ESP,/profile-bio/men/Jose_Clavet/,,,M
+1591,Florian Loddenkemper,flodd,GER,DEU,/profile-bio/men/Florian_Loddenkemper/,,,M
+1593,Paul Scholtz,pscho,USA,USA,/profile-bio/men/Paul_Scholtz/,,,M
+1598,Janne Holtari,jholt,FIN,FIN,/profile-bio/men/Janne_Holtari/,,,M
+1599,Mats Sandstrom,msand,SWE,SWE,/profile-bio/men/Mats_Sandstrom/,,,M
+1602,Milan Palme,mpalm,GER,DEU,/profile-bio/men/Milan_Palme/,,,M
+1603,Mareke Plocher,mploc,Switzerland,CHE,/profile-bio/women/Mareke_Plocher/,,,F
+1604,Massimo Valeri,mvale,ITA,ITA,/profile-bio/men/Massimo_Valeri/,,,M
+1606,Kai Giesker,kgies,GER,DEU,/profile-bio/men/Kai_Giesker/,,,M
+1607,Carlos Zwetsch,czwet,BRA,BRA,/profile-bio/men/Carlos_Zwetsch/,,,M
+1608,Rolf Harrison,rharr_2,HKG,HKG,/profile-bio/men/Rolf_Harrison/,,,M
+1609,Harald Rittersbacher,hritt,GER,DEU,/profile-bio/men/Harald_Rittersbacher/,,,M
+1611,Johan Milbrimk,jmilb,SWE,SWE,/profile-bio/men/Johan_Milbrimk/,,,M
+1612,Lukky Tedjamukti,ltedj,Indonesia,IDN,/profile-bio/women/Lukky_Tedjamukti/,,,F
+1613,Silvia Farina Elia,sfeli,Italy,ITA,/profile-bio/women/Silvia_Farina_Elia/,,,F
+1615,Tetsuya Sato,tsato,JPN,JPN,/profile-bio/men/Tetsuya_Sato/,,,M
+1617,Peter Bastiansen,pbast,DEN,DNK,/profile-bio/men/Peter_Bastiansen/,,,M
+1618,Mal-Sim Park,mspar,South Korea,XXX,/profile-bio/women/Mal-Sim_Park/,,,F
+1619,Ugo Colombini,ucolo,ITA,ITA,/profile-bio/men/Ugo_Colombini/,,,M
+1620,Roger Guedes,rgued,BRA,BRA,/profile-bio/men/Roger_Guedes/,,,M
+1621,Fotis Vazeos,fvaze,GRE,GRC,/profile-bio/men/Fotis_Vazeos/,,,M
+1622,David Valeriano,dvale_2,ESP,ESP,/profile-bio/men/David_Valeriano/,,,M
+1623,Matthew Stroyman,mstro,USA,USA,/profile-bio/men/Matthew_Stroyman/,,,M
+1626,Seong-Hoon Choi,shcho,KOR,XXX,/profile-bio/men/Seong-Hoon_Choi/,,,M
+1627,Giulia Toschi,gtosc,Italy,ITA,/profile-bio/women/Giulia_Toschi/,,,F
+1629,Federico Garcia-Berro,fgarc,ARG,ARG,/profile-bio/men/Federico_Garcia-Berro/,,,M
+1630,Adam Skrzypczak,askrz,POL,POL,/profile-bio/men/Adam_Skrzypczak/,,,M
+1631,Carlos Claverie,cclav,VEN,XXX,/profile-bio/men/Carlos_Claverie/,,,M
+1632,Mary Nejasmic,mneja,Australia,AUS,/profile-bio/women/Mary_Nejasmic/,,,F
+1634,Massimo Boscatto,mbosc,ITA,ITA,/profile-bio/men/Massimo_Boscatto/,,,M
+1635,Matt Hewitt,mhewi,USA,USA,/profile-bio/men/Matt_Hewitt/,,,M
+1636,Ugo Biagianti,ubiag,ITA,ITA,/profile-bio/men/Ugo_Biagianti/,,,M
+1637,Kathleen Horvath,khorv_2,United States,USA,/profile-bio/women/Kathleen_Horvath/,,,F
+1638,Nao Akahori,nakah,Japan,JPN,/profile-bio/women/Nao_Akahori/,,,F
+1640,Axel Finnberg,afinn,GER,DEU,/profile-bio/men/Axel_Finnberg/,,,M
+1641,Stefan Kruger,skrug,RSA,ZAF,/profile-bio/men/Stefan_Kruger/,,,M
+1642,Arkie Engle,aengl,USA,USA,/profile-bio/men/Arkie_Engle/,,,M
+1643,Gregor Breznik,gbrez,YUG,XXX,/profile-bio/men/Gregor_Breznik/,,,M
+1644,Sang-Soo Lee,sslee,KOR,XXX,/profile-bio/men/Sang-Soo_Lee/,,,M
+1645,Kim Barry,kbarr_2,United States,USA,/profile-bio/women/Kim_Barry/,,,F
+1646,Maria-Farnes Capistrano,mfcap,Sweden,SWE,/profile-bio/women/Maria-Farnes_Capistrano/,,,F
+1647,John Larsen,jlars_2,DEN,DNK,/profile-bio/men/John_Larsen/,,,M
+1648,Alexia Dechaume-Balleret,adech_2,France,FRA,/profile-bio/women/Alexia_Dechaume-Balleret/,,,F
+1649,Hernando Aguirre,hagui,COL,COL,/profile-bio/men/Hernando_Aguirre/,,,M
+1650,Chris McGarey,cmcga,USA,USA,/profile-bio/men/Chris_McGarey/,,,M
+1651,Naoko Sato,nsato,Japan,JPN,/profile-bio/women/Naoko_Sato/,,,F
+1653,Orlando Agudelo,oagud,COL,COL,/profile-bio/men/Orlando_Agudelo/,,,M
+1654,Alexandre Oncins,aonci,BRA,BRA,/profile-bio/men/Alexandre_Oncins/,,,M
+1655,Laurence Duffaud,lduff,France,FRA,/profile-bio/women/Laurence_Duffaud/,,,F
+1656,Valerie Batut,vbatu,France,FRA,/profile-bio/women/Valerie_Batut/,,,F
+1657,Abdul-Khalek Nadini,aknad,MAR,MAR,/profile-bio/men/Abdul-Khalek_Nadini/,,,M
+1658,Julie Shiflet,jshif,United States,USA,/profile-bio/women/Julie_Shiflet/,,,F
+1660,Gregg Hill,ghill,USA,USA,/profile-bio/men/Gregg_Hill/,,,M
+1662,Mimouschka Kion,mkion,Netherlands,NLD,/profile-bio/women/Mimouschka_Kion/,,,F
+1663,Luis Gonzalez,lgonz,COL,COL,/profile-bio/men/Luis_Gonzalez/,,,M
+1667,Mike Lynch,mlync,AUS,AUS,/profile-bio/men/Mike_Lynch/,,,M
+1668,Laszlo Markovits,lmark,HUN,HUN,/profile-bio/men/Laszlo_Markovits/,,,M
+1669,Emanuel Couto,ecout,POR,PRT,/profile-bio/men/Emanuel_Couto/,,,M
+1670,Anne-Marie Walson,amwal,United States,USA,/profile-bio/women/Anne-Marie_Walson/,,,F
+1672,Massimo Ardinghi,mardi,ITA,ITA,/profile-bio/men/Massimo_Ardinghi/,,,M
+1673,Eva Melicharova,emeli,Czech Republic,CZE,/profile-bio/women/Eva_Melicharova/,,,F
+1674,Rodrigo Navarro,rnava,BOL,XXX,/profile-bio/men/Rodrigo_Navarro/,,,M
+1676,Michael Hammett,mhamm,USA,USA,/profile-bio/men/Michael_Hammett/,,,M
+1679,Alain Lemaitre,alema,MEX,MEX,/profile-bio/men/Alain_Lemaitre/,,,M
+1680,Stefania Dalla Valle,sdall,Italy,ITA,/profile-bio/women/Stefania_Dalla_Valle/,,,F
+1684,Sebastian Soresini,ssore,ITA,ITA,/profile-bio/men/Sebastian_Soresini/,,,M
+1685,Stefano Caroni,scaro,ITA,ITA,/profile-bio/men/Stefano_Caroni/,,,M
+1686,Roberto Alvarez,ralva_2,ARG,ARG,/profile-bio/men/Roberto_Alvarez/,,,M
+1687,York Heidenreich,yheid,GER,DEU,/profile-bio/men/York_Heidenreich/,,,M
+1688,Brendan Curry,bcurr,RSA,ZAF,/profile-bio/men/Brendan_Curry/,,,M
+1690,Larissa Schaerer,lscha,Paraguay,PRY,/profile-bio/women/Larissa_Schaerer/,,,F
+1691,Magdalena Simkova,msimk,Czech Republic,CZE,/profile-bio/women/Magdalena_Simkova/,,,F
+1692,Susi Lohrmann,slohr,Germany,DEU,/profile-bio/women/Susi_Lohrmann/,,,F
+1695,George Cosac,gcosa,ROU,ROM,/profile-bio/men/George_Cosac/,,,M
+1696,Yosafat Sihombing,ysiho,INA,IDN,/profile-bio/men/Yosafat_Sihombing/,,,M
+1697,Aranzazu Gallardo,agall,Mexico,MEX,/profile-bio/women/Aranzazu_Gallardo/,,,F
+1701,Steve Bickham,sbick,USA,USA,/profile-bio/men/Steve_Bickham/,,,M
+1703,Emiko Sakaguchi,esaka,Japan,JPN,/profile-bio/women/Emiko_Sakaguchi/,,,F
+1708,Joel Figueras,jfigu,ESP,ESP,/profile-bio/men/Joel_Figueras/,,,M
+1709,Jitka Dubcova,jdubc,Czech Republic,CZE,/profile-bio/women/Jitka_Dubcova/,,,F
+1710,Lisa Dunner,ldunn_2,United States,USA,/profile-bio/women/Lisa_Dunner/,,,F
+1711,Miki Mizokuchi,mmizo,Japan,JPN,/profile-bio/women/Miki_Mizokuchi/,,,F
+1712,Sergio Naufel,snauf,BRA,BRA,/profile-bio/men/Sergio_Naufel/,,,M
+1715,Melissa McFarlane,mmcfa,Australia,AUS,/profile-bio/women/Melissa_McFarlane/,,,F
+1717,Rene Hanak,rhana,CZE,CZE,/profile-bio/men/Rene_Hanak/,,,M
+1718,Gerardo Vacarezza,gvaca,CHI,CHL,/profile-bio/men/Gerardo_Vacarezza/,,,M
+1722,Jose Alejos,jalej,ESP,ESP,/profile-bio/men/Jose_Alejos/,,,M
+1725,Pernilla Sorensen,psore,Denmark,DNK,/profile-bio/women/Pernilla_Sorensen/,,,F
+1728,Gavin Pfitzner,gpfit,AUS,AUS,/profile-bio/men/Gavin_Pfitzner/,,,M
+1729,James Edwards,jedwa,USA,USA,/profile-bio/men/James_Edwards/,,,M
+1732,Jose Ayala,jayal,MEX,MEX,/profile-bio/men/Jose_Ayala/,,,M
+1733,Young-Dae Jeon,ydjeo,KOR,XXX,/profile-bio/men/Young-Dae_Jeon/,,,M
+1734,Ricardo Colombini,rcolo,ITA,ITA,/profile-bio/men/Ricardo_Colombini/,,,M
+1735,Greta Schmitt,gschm,Hungary,HUN,/profile-bio/women/Greta_Schmitt/,,,F
+1736,Jon Ireland,jirel,AUS,AUS,/profile-bio/men/Jon_Ireland/,,,M
+1737,Brett Custer,bcust_2,AUS,AUS,/profile-bio/men/Brett_Custer/,,,M
+1739,Caterina Nozzoli,cnozz,Italy,ITA,/profile-bio/women/Caterina_Nozzoli/,,,F
+1740,Jeff Cathrall,jcath,USA,USA,/profile-bio/men/Jeff_Cathrall/,,,M
+1741,Tal Harel,thare,ISR,ISR,/profile-bio/men/Tal_Harel/,,,M
+1742,Hugo Chapacu,hchap,PAR,PRY,/profile-bio/men/Hugo_Chapacu/,,,M
+1745,Simona D'Andrea,sd,Italy,XXX,/profile-bio/women/Simona_D,,,F
+1747,Marten Renstrom,mrens,SWE,SWE,/profile-bio/men/Marten_Renstrom/,,,M
+1748,Julian Barham,jbarh,USA,USA,/profile-bio/men/Julian_Barham/,,,M
+1750,Alfred Dundalek,adund,AUT,AUT,/profile-bio/men/Alfred_Dundalek/,,,M
+1751,Andrea Noszaly,anosz,Hungary,HUN,/profile-bio/women/Andrea_Noszaly/,,,F
+1752,Sandro Della Piana,sdell,SUI,CHE,/profile-bio/men/Sandro_Della_Piana/,,,M
+1754,Christopher Gillis,cgill,USA,USA,/profile-bio/men/Christopher_Gillis/,,,M
+1755,Esther Markenstein,emark,Netherlands,NLD,/profile-bio/women/Esther_Markenstein/,,,F
+1756,Richard Cahill,rcahi,AUS,AUS,/profile-bio/men/Richard_Cahill/,,,M
+1758,Loredana Bujor,lbujo,XXX,XXX,/profile-bio/women/Loredana_Bujor/,,,F
+1760,Oren Motevassel,omote,USA,USA,/profile-bio/men/Oren_Motevassel/,,,M
+1761,Rodolfo Ramos-Paganini,rramo,ARG,ARG,/profile-bio/men/Rodolfo_Ramos-Paganini/,,,M
+1766,Jennifer Larking-Dawson,jlark,United States,USA,/profile-bio/women/Jennifer_Larking-Dawson/,,,F
+1768,Patricia Hy-Boulais,phy-b,Canada,CAN,/profile-bio/women/Patricia_Hy-Boulais/,,,F
+1769,Kevin Dykes,kdyke,GBR,XXX,/profile-bio/men/Kevin_Dykes/,,,M
+1770,Robbie Koenig,rkoen,RSA,ZAF,/profile-bio/men/Robbie_Koenig/,,,M
+1771,Teresa Dobson,tdobs,Canada,CAN,/profile-bio/women/Teresa_Dobson/,,,F
+1772,James Lenton,jlent,GBR,XXX,/profile-bio/men/James_Lenton/,,,M
+1778,Mark Markov,mmark,BUL,BGR,/profile-bio/men/Mark_Markov/,,,M
+1779,Shinichi Sakamoto,ssaka,JPN,JPN,/profile-bio/men/Shinichi_Sakamoto/,,,M
+1781,Thomas Breuninger,tbreu,GER,DEU,/profile-bio/men/Thomas_Breuninger/,,,M
+1783,Elena Savoldi,esavo,Italy,ITA,/profile-bio/women/Elena_Savoldi/,,,F
+1784,Dong-Wook Song,dwson,KOR,XXX,/profile-bio/men/Dong-Wook_Song/,,,M
+1785,Jeff Gross,jgros,USA,USA,/profile-bio/men/Jeff_Gross/,,,M
+1786,Reka Monoki,rmono,United States,USA,/profile-bio/women/Reka_Monoki/,,,F
+1787,Nelson Aerts,naert,BRA,BRA,/profile-bio/men/Nelson_Aerts/,,,M
+1788,Alberto Gutierrez,aguti,ESP,ESP,/profile-bio/men/Alberto_Gutierrez/,,,M
+1789,Viviana Valdovinos,vvald,Paraguay,PRY,/profile-bio/women/Viviana_Valdovinos/,,,F
+1790,Liat Cohen,lcohe,Israel,ISR,/profile-bio/women/Liat_Cohen/,,,F
+1792,Alejandra Perez-Gimenez,apere,Argentina,ARG,/profile-bio/women/Alejandra_Perez-Gimenez/,,,F
+1793,Sebastien Hette,shett,FRA,FRA,/profile-bio/men/Sebastien_Hette/,,,M
+1794,Joice Sutedja,jsute,Indonesia,IDN,/profile-bio/women/Joice_Sutedja/,,,F
+1795,Pierre Lemoine,plemo,FRA,FRA,/profile-bio/men/Pierre_Lemoine/,,,M
+1796,Petra Schmitt,pschm,Hungary,HUN,/profile-bio/women/Petra_Schmitt/,,,F
+1797,Juan Avendano,javen,ESP,ESP,/profile-bio/men/Juan_Avendano/,,,M
+1799,Mark Hopkins,mhopk,AUS,AUS,/profile-bio/men/Mark_Hopkins/,,,M
+1801,Manuel Rodriguez,mrodr_2,CHI,CHL,/profile-bio/men/Manuel_Rodriguez/,,,M
+1802,Grant Saacks,gsaac,RSA,ZAF,/profile-bio/men/Grant_Saacks/,,,M
+1805,Butch Palmer,bpalm,USA,USA,/profile-bio/men/Butch_Palmer/,,,M
+1806,Eugenia Maia,emaia,Brazil,BRA,/profile-bio/women/Eugenia_Maia/,,,F
+1809,Tatiana Buss,tbuss,Brazil,BRA,/profile-bio/women/Tatiana_Buss/,,,F
+1811,Stephan Bienz,sbien,SUI,CHE,/profile-bio/men/Stephan_Bienz/,,,M
+1812,Jean Fisette,jfise,BEL,BEL,/profile-bio/men/Jean_Fisette/,,,M
+1816,Oliver Fernandez,ofern,MEX,MEX,/profile-bio/men/Oliver_Fernandez/,,,M
+1817,Nuno Mota,nmota,POR,PRT,/profile-bio/men/Nuno_Mota/,,,M
+1818,Will Bull,wbull,USA,USA,/profile-bio/men/Will_Bull/,,,M
+1819,Juha Pesola,jpeso,FIN,FIN,/profile-bio/men/Juha_Pesola/,,,M
+1820,Howard Joffe,hjoff,RSA,ZAF,/profile-bio/men/Howard_Joffe/,,,M
+1821,Lihini Weerasuriya,lweer,Sri Lanka,LKA,/profile-bio/women/Lihini_Weerasuriya/,,,F
+1822,Sergej Skakun,sskak,RUS,RUS,/profile-bio/men/Sergej_Skakun/,,,M
+1823,Dacio Campos,dcamp,BRA,BRA,/profile-bio/men/Dacio_Campos/,,,M
+1824,Mark Greenan,mgree,CAN,CAN,/profile-bio/men/Mark_Greenan/,,,M
+1826,Jeom-Sang Choi,jscho_2,South Korea,XXX,/profile-bio/women/Jeom-Sang_Choi/,,,F
+1828,Nicolas Copin,ncopi,FRA,FRA,/profile-bio/men/Nicolas_Copin/,,,M
+1829,Dean Goldfine,dgold_3,USA,USA,/profile-bio/men/Dean_Goldfine/,,,M
+1831,Maria-Elena Llamas,mella,Mexico,MEX,/profile-bio/women/Maria-Elena_Llamas/,,,F
+1832,Kenichi Kiyomiya,kkiyo,JPN,JPN,/profile-bio/men/Kenichi_Kiyomiya/,,,M
+1833,Neil Smith,nsmit_2,RSA,ZAF,/profile-bio/men/Neil_Smith/,,,M
+1837,In-Sook Park,ispar,South Korea,XXX,/profile-bio/women/In-Sook_Park/,,,F
+1839,Nora Koeves,nkoev,Hungary,HUN,/profile-bio/women/Nora_Koeves/,,,F
+1841,Eduardo Oncins,eonci,BRA,BRA,/profile-bio/men/Eduardo_Oncins/,,,M
+1842,Jens Peter,jpete,GER,DEU,/profile-bio/men/Jens_Peter/,,,M
+1843,Cathrin Caspary,ccasp,Germany,DEU,/profile-bio/women/Cathrin_Caspary/,,,F
+1844,Karen Shin,kshin,United States,USA,/profile-bio/women/Karen_Shin/,,,F
+1845,Colette Sely,csely,Netherlands,NLD,/profile-bio/women/Colette_Sely/,,,F
+791,Lan Bale,lbale,RSA,ZAF,/profile-bio/men/Lan_Bale/,,2016-01-12 00:31:48.005248,M
+1846,Antonio Torregrosa,atorr,ESP,ESP,/profile-bio/men/Antonio_Torregrosa/,,,M
+1850,Stefano Colombo,scolo_2,ITA,ITA,/profile-bio/men/Stefano_Colombo/,,,M
+1851,Anne Aallonen,aaall,Finland,FIN,/profile-bio/women/Anne_Aallonen/,,,F
+1852,Jose Francisco Altur,jfran_2,ESP,ESP,/profile-bio/men/Jose_Francisco_Altur/,,,M
+1853,Eduardo Osta,eosta_2,ESP,ESP,/profile-bio/men/Eduardo_Osta/,,,M
+1855,Amit Ben David,abend,ISR,ISR,/profile-bio/men/Amit_Ben_David/,,,M
+1856,Tarquin Maylam,tmayl,GBR,XXX,/profile-bio/men/Tarquin_Maylam/,,,M
+1857,Marcos Perez-Hubert,mpere_2,ESP,ESP,/profile-bio/men/Marcos_Perez-Hubert/,,,M
+1858,Yvonne Der Kinderen,yderk,Netherlands,NLD,/profile-bio/women/Yvonne_Der_Kinderen/,,,F
+1859,Gary Donnelly,gdonn,USA,USA,/profile-bio/men/Gary_Donnelly/,,,M
+1861,Li Ling Chen,lling,China,CHN,/profile-bio/women/Li_Ling_Chen/,,,F
+1862,Ivano Cappelloni,icapp,ITA,ITA,/profile-bio/men/Ivano_Cappelloni/,,,M
+1863,Andrew Florent,aflor,AUS,AUS,/profile-bio/men/Andrew_Florent/,,,M
+1864,Catarina Bernstein,cbern,Sweden,SWE,/profile-bio/women/Catarina_Bernstein/,,,F
+1866,Seong-Kon Kim,skkim,KOR,XXX,/profile-bio/men/Seong-Kon_Kim/,,,M
+1868,Sabine Gerke,sgerk,Germany,DEU,/profile-bio/women/Sabine_Gerke/,,,F
+1869,Maite Martinez,mmart_2,Spain,ESP,/profile-bio/women/Maite_Martinez/,,,F
+1870,Pedro Alatorre,palat,MEX,MEX,/profile-bio/men/Pedro_Alatorre/,,,M
+1875,Tim Trigueiro,ttrig,USA,USA,/profile-bio/men/Tim_Trigueiro/,,,M
+1876,Kimiko Date-Krumm,kdate_2,Japan,JPN,/profile-bio/women/Kimiko_Date-Krumm/,,,F
+1877,Adrian Morgan,amorg,GBR,XXX,/profile-bio/men/Adrian_Morgan/,,,M
+1878,Jackie Van Wijk,jvanw,Netherlands,NLD,/profile-bio/women/Jackie_Van_Wijk/,,,F
+1879,Marcos Garzo,mgarz,ESP,ESP,/profile-bio/men/Marcos_Garzo/,,,M
+1880,Caroline Billingham,cbill,United Kingdom,GBR,/profile-bio/women/Caroline_Billingham/,,,F
+1881,Stefan Lennholm,slenn,SWE,SWE,/profile-bio/men/Stefan_Lennholm/,,,M
+1883,Andreas Matzinger,amatz,GER,DEU,/profile-bio/men/Andreas_Matzinger/,,,M
+1885,Heidi Sprung,hspru,Austria,AUT,/profile-bio/women/Heidi_Sprung/,,,F
+1887,Teresa Stromberg,tstro,Sweden,SWE,/profile-bio/women/Teresa_Stromberg/,,,F
+1888,Christina Rozwadowski,crozw,Brazil,BRA,/profile-bio/women/Christina_Rozwadowski/,,,F
+1889,Rudiger Haas,rhaas_2,GER,DEU,/profile-bio/men/Rudiger_Haas/,,,M
+1890,Alexandre Chamereau,acham,FRA,FRA,/profile-bio/men/Alexandre_Chamereau/,,,M
+1891,Ji-Hyeob Shin,jhshi,KOR,XXX,/profile-bio/men/Ji-Hyeob_Shin/,,,M
+1893,Vladimir Petrushenko,vpetr,RUS,RUS,/profile-bio/men/Vladimir_Petrushenko/,,,M
+1895,Danilo Pila,dpila,PHI,PHL,/profile-bio/men/Danilo_Pila/,,,M
+1896,Cristina Salvi,csalv,Italy,ITA,/profile-bio/women/Cristina_Salvi/,,,F
+1897,Narc Rodrigues,nrodr_2,BRA,BRA,/profile-bio/men/Narc_Rodrigues/,,,M
+1899,Carlos Gomez-Diaz,cgome,ARG,ARG,/profile-bio/men/Carlos_Gomez-Diaz/,,,M
+1901,Stephen Furlong,sfurl,AUS,AUS,/profile-bio/men/Stephen_Furlong/,,,M
+1904,Peter Geppel,pgepp,AUS,AUS,/profile-bio/men/Peter_Geppel/,,,M
+1906,Mattias Sundberg,msund,SWE,SWE,/profile-bio/men/Mattias_Sundberg/,,,M
+1907,Javier Molina,jmoli,ESP,ESP,/profile-bio/men/Javier_Molina/,,,M
+1908,Christian Miniussi,cmini_2,ARG,ARG,/profile-bio/men/Christian_Miniussi/,,,M
+1909,Anneli Ornstedt,aorns,Sweden,SWE,/profile-bio/women/Anneli_Ornstedt/,,,F
+1910,Dinky Van Rensburg,dvanr,South Africa,ZAF,/profile-bio/women/Dinky_Van_Rensburg/,,,F
+1911,Guillermo Rivas,griva,ARG,ARG,/profile-bio/men/Guillermo_Rivas/,,,M
+1912,Daniel Marting,dmart,USA,USA,/profile-bio/men/Daniel_Marting/,,,M
+1914,Gabriella Boschiero,gbosc,Italy,ITA,/profile-bio/women/Gabriella_Boschiero/,,,F
+1916,Sabina Pellas,spell,Italy,ITA,/profile-bio/women/Sabina_Pellas/,,,F
+1917,Marianne Vallin,mvall,Sweden,SWE,/profile-bio/women/Marianne_Vallin/,,,F
+1918,Caroline Van Renterghem,cvren,Belgium,BEL,/profile-bio/women/Caroline_Van_Renterghem/,,,F
+1919,Oscar Bustos,obust,CHI,CHL,/profile-bio/men/Oscar_Bustos/,,,M
+1920,Shiho Okada,sokad,Japan,JPN,/profile-bio/women/Shiho_Okada/,,,F
+1922,Sylvia Czopek,sczop,Poland,POL,/profile-bio/women/Sylvia_Czopek/,,,F
+1924,Claudio Rottger,crott,GER,DEU,/profile-bio/men/Claudio_Rottger/,,,M
+1925,Anya Kochoff,akoch,United States,USA,/profile-bio/women/Anya_Kochoff/,,,F
+1926,Vincent Van Gelderen,vvang,NED,NLD,/profile-bio/men/Vincent_Van_Gelderen/,,,M
+1928,Tjahjono Tjahjono,ttjah,INA,IDN,/profile-bio/men/Tjahjono_Tjahjono/,,,M
+1929,Shigeru Ota,sota,JPN,JPN,/profile-bio/men/Shigeru_Ota/,,,M
+1930,Gildardo Cuartas,gcuar,COL,COL,/profile-bio/men/Gildardo_Cuartas/,,,M
+1931,Greg Van Emburgh,gvane,USA,USA,/profile-bio/men/Greg_Van_Emburgh/,,,M
+1932,Spyros Charalamdous,schar,CYP,CYP,/profile-bio/men/Spyros_Charalamdous/,,,M
+1933,Pablo Minutella,pminu,ARG,ARG,/profile-bio/men/Pablo_Minutella/,,,M
+1935,Tory Plunkett,tplun,United States,USA,/profile-bio/women/Tory_Plunkett/,,,F
+1936,Gustavo Silva,gsilv,BRA,BRA,/profile-bio/men/Gustavo_Silva/,,,M
+1937,Hana Guy,hguy,New Zealand,NZL,/profile-bio/women/Hana_Guy/,,,F
+1938,Aurelia Gheorghe,agheo,Germany,DEU,/profile-bio/women/Aurelia_Gheorghe/,,,F
+1940,Bartlomiej Dabrowski,bdabr,POL,POL,/profile-bio/men/Bartlomiej_Dabrowski/,,,M
+1943,Halid El Sallawy,helsa,EGY,EGY,/profile-bio/men/Halid_El_Sallawy/,,,M
+1946,Xin Xu,xinxu,CHN,CHN,/profile-bio/men/Xin_Xu/,,,M
+1947,Dominic Durand,ddura,FRA,FRA,/profile-bio/men/Dominic_Durand/,,,M
+1948,Ofer Sela,osela,ISR,ISR,/profile-bio/men/Ofer_Sela/,,,M
+1949,Gustavo Guerrero,gguer,ARG,ARG,/profile-bio/men/Gustavo_Guerrero/,,,M
+1950,Daniel Ahl,dahl,GBR,XXX,/profile-bio/men/Daniel_Ahl/,,,M
+1952,Vincenza Procacci,vproc,United States,USA,/profile-bio/women/Vincenza_Procacci/,,,F
+1954,Antony Emerson,aemer,AUS,AUS,/profile-bio/men/Antony_Emerson/,,,M
+1955,Regina Kordova,rkord,Czech Republic,CZE,/profile-bio/women/Regina_Kordova/,,,F
+1956,Seok-Jin Chung,sjchu,KOR,XXX,/profile-bio/men/Seok-Jin_Chung/,,,M
+1957,Cary Sochin,csoch,USA,USA,/profile-bio/men/Cary_Sochin/,,,M
+1958,Hannes Muller,hmull,AUT,AUT,/profile-bio/men/Hannes_Muller/,,,M
+1959,Rita Winebarger,rwine,United States,USA,/profile-bio/women/Rita_Winebarger/,,,F
+1960,Reto Staubli,rstau,SUI,CHE,/profile-bio/men/Reto_Staubli/,,,M
+1964,Emmanuel Brard,ebrar,FRA,FRA,/profile-bio/men/Emmanuel_Brard/,,,M
+1965,Gabrio Castrichella,gcast_2,ITA,ITA,/profile-bio/men/Gabrio_Castrichella/,,,M
+1968,Ken Diller,kdill,USA,USA,/profile-bio/men/Ken_Diller/,,,M
+1969,Elena Bryukhovets,ebryu,Russia,XXX,/profile-bio/women/Elena_Bryukhovets/,,,F
+1970,Nick Adams,nadam,GBR,XXX,/profile-bio/men/Nick_Adams/,,,M
+1971,Gustavo Espinosa,gespi,MEX,MEX,/profile-bio/men/Gustavo_Espinosa/,,,M
+1972,Konrad Schmid,kschm,GER,DEU,/profile-bio/men/Konrad_Schmid/,,,M
+1973,Barbara Navarro,bnava,Spain,ESP,/profile-bio/women/Barbara_Navarro/,,,F
+1975,Fredrik Nilsson,fnils,SWE,SWE,/profile-bio/men/Fredrik_Nilsson/,,,M
+1976,Shawn Foltz,sfolt,United States,USA,/profile-bio/women/Shawn_Foltz/,,,F
+1977,Stefan Van Schalkwyk,svans,RSA,ZAF,/profile-bio/men/Stefan_Van_Schalkwyk/,,,M
+1978,Silviu Gorgan,sgorg,ROU,ROM,/profile-bio/men/Silviu_Gorgan/,,,M
+1979,Pamela Wallenfels,pwall,Germany,DEU,/profile-bio/women/Pamela_Wallenfels/,,,F
+1981,Marc Van Eekeren,mvane,NED,NLD,/profile-bio/men/Marc_Van_Eekeren/,,,M
+1982,Juan Pino,jpino,CUB,CUB,/profile-bio/men/Juan_Pino/,,,M
+1983,Jose Lopez-Maeso,jlope,ESP,ESP,/profile-bio/men/Jose_Lopez-Maeso/,,,M
+1984,Thomas Soerensen,tsoer,DEN,DNK,/profile-bio/men/Thomas_Soerensen/,,,M
+1985,Renata Diez,rdiez,Brazil,BRA,/profile-bio/women/Renata_Diez/,,,F
+1986,Juan-Luis Rascon-Lope,jlras,ESP,ESP,/profile-bio/men/Juan-Luis_Rascon-Lope/,,,M
+1987,Kevin Moir,kmoir,RSA,ZAF,/profile-bio/men/Kevin_Moir/,,,M
+1988,Steve Herdoiza,sherd,USA,USA,/profile-bio/men/Steve_Herdoiza/,,,M
+1989,Ana Larrakoetxea,alarr,Spain,ESP,/profile-bio/women/Ana_Larrakoetxea/,,,F
+1992,Bruce Steel,bstee,USA,USA,/profile-bio/men/Bruce_Steel/,,,M
+1993,Rita Kowacsics,rkowa,Hungary,HUN,/profile-bio/women/Rita_Kowacsics/,,,F
+1996,Marcel Van Der Merwe,mvdme,RSA,ZAF,/profile-bio/men/Marcel_Van_Der_Merwe/,,,M
+1997,Luciana Tella,ltell,Brazil,BRA,/profile-bio/women/Luciana_Tella/,,,F
+1998,Emile Fourie,efour,RSA,ZAF,/profile-bio/men/Emile_Fourie/,,,M
+2000,Nicklas Utgren,nutgr,SWE,SWE,/profile-bio/men/Nicklas_Utgren/,,,M
+2001,Cristian Brandi,cbran,ITA,ITA,/profile-bio/men/Cristian_Brandi/,,,M
+2002,Jan-Willem Lodder,jwlod,NED,NLD,/profile-bio/men/Jan-Willem_Lodder/,,,M
+2003,Haim Zion,hzion,ISR,ISR,/profile-bio/men/Haim_Zion/,,,M
+2005,Ian Aler,ialer,USA,USA,/profile-bio/men/Ian_Aler/,,,M
+2006,Roland Leissler,rleis,GER,DEU,/profile-bio/men/Roland_Leissler/,,,M
+2007,Veerawah Selvam,vselv,MLI,MLI,/profile-bio/men/Veerawah_Selvam/,,,M
+2009,Miguel Dungo,mdung,PHI,PHL,/profile-bio/men/Miguel_Dungo/,,,M
+2012,Esmir Hoogendoorn,ehoog,Netherlands,NLD,/profile-bio/women/Esmir_Hoogendoorn/,,,F
+2014,Yann Lefebvre,ylefe,CAN,CAN,/profile-bio/men/Yann_Lefebvre/,,,M
+2015,Quino Munoz,qmuno,ESP,ESP,/profile-bio/men/Quino_Munoz/,,,M
+2016,Anton Rapev,arape,BUL,BGR,/profile-bio/men/Anton_Rapev/,,,M
+2017,Hui Zhang,hzhan,China,CHN,/profile-bio/women/Hui_Zhang/,,,F
+2018,Lisa Albano,lalba_2,United States,USA,/profile-bio/women/Lisa_Albano/,,,F
+2019,Kirstin Freye,kfrey,Germany,DEU,/profile-bio/women/Kirstin_Freye/,,,F
+2020,Barbara Garassino,bgara,Italy,ITA,/profile-bio/women/Barbara_Garassino/,,,F
+2022,Stephane Bonneau,sbonn,CAN,CAN,/profile-bio/men/Stephane_Bonneau/,,,M
+2023,Michelle Anderson,mande,South Africa,ZAF,/profile-bio/women/Michelle_Anderson/,,,F
+2024,Sammy Giammalva Jr.,sgiam2,USA,USA,/profile-bio/men/Sammy_Giammalva_Jr./,,,M
+2025,Shelley Bartlett,sbart,United States,USA,/profile-bio/women/Shelley_Bartlett/,,,F
+2026,Nouhoun Sangare,nsang,CIV,XXX,/profile-bio/men/Nouhoun_Sangare/,,,M
+2027,Tanja Weigl,tweig,Germany,DEU,/profile-bio/women/Tanja_Weigl/,,,F
+2029,Michael Kupferschmid,mkupf,GER,DEU,/profile-bio/men/Michael_Kupferschmid/,,,M
+2030,Gary Stewart,gstew,GBR,XXX,/profile-bio/men/Gary_Stewart/,,,M
+2032,Jin-Sun Yoo,jsyoo,KOR,XXX,/profile-bio/men/Jin-Sun_Yoo/,,,M
+2033,Jo Louis,jloui,United Kingdom,GBR,/profile-bio/women/Jo_Louis/,,,F
+2034,Farouk Marcos,fmarc,MEX,MEX,/profile-bio/men/Farouk_Marcos/,,,M
+2035,Yannos Hadjigeorgiou,yhadj,CYP,CYP,/profile-bio/men/Yannos_Hadjigeorgiou/,,,M
+2036,Luciana Della Casa,ldell,Brazil,BRA,/profile-bio/women/Luciana_Della_Casa/,,,F
+2038,Viktor Nagy,vnagy,HUN,HUN,/profile-bio/men/Viktor_Nagy/,,,M
+2040,Marko Ostoja,mosto,CRO,HRV,/profile-bio/men/Marko_Ostoja/,,,M
+2041,Stefan Dallwitz,sdall_2,MEX,MEX,/profile-bio/men/Stefan_Dallwitz/,,,M
+2043,Patrik Wennberg,pwenn,SWE,SWE,/profile-bio/men/Patrik_Wennberg/,,,M
+2045,Odair Santos,osant,BRA,BRA,/profile-bio/men/Odair_Santos/,,,M
+2047,Julio Goes,jgoes,BRA,BRA,/profile-bio/men/Julio_Goes/,,,M
+2050,John Gibson,jgibs,AUS,AUS,/profile-bio/men/John_Gibson/,,,M
+2051,Matthias Frisk,mfris,SWE,SWE,/profile-bio/men/Matthias_Frisk/,,,M
+2053,Tomas Weindorfer,twein,AUT,AUT,/profile-bio/men/Tomas_Weindorfer/,,,M
+2055,Brandon Walters,bwalt,USA,USA,/profile-bio/men/Brandon_Walters/,,,M
+2058,Jaroslav Bulant,jbula,CZE,CZE,/profile-bio/men/Jaroslav_Bulant/,,,M
+2059,Anand Amritraj,aamri,IND,IND,/profile-bio/men/Anand_Amritraj/,,,M
+2060,Elizma Nortje,enort,Namibia,NAM,/profile-bio/women/Elizma_Nortje/,,,F
+2062,Jean-Francois Mathieu,jfmat,CAN,CAN,/profile-bio/men/Jean-Francois_Mathieu/,,,M
+2063,Li-Wu Zhang,lwzha,CHN,CHN,/profile-bio/men/Li-Wu_Zhang/,,,M
+2065,Serge Soulie,ssoul,FRA,FRA,/profile-bio/men/Serge_Soulie/,,,M
+2066,Floriano Salvoni,fsalv,ITA,ITA,/profile-bio/men/Floriano_Salvoni/,,,M
+2067,John Stimpson,jstim,USA,USA,/profile-bio/men/John_Stimpson/,,,M
+2068,Paula Boccia,pbocc,Argentina,ARG,/profile-bio/women/Paula_Boccia/,,,F
+2069,Omar Urbinati,ourbi,ITA,ITA,/profile-bio/men/Omar_Urbinati/,,,M
+2070,Dean Botha,dboth,RSA,ZAF,/profile-bio/men/Dean_Botha/,,,M
+2071,Edson Raw,eraw,BRA,BRA,/profile-bio/men/Edson_Raw/,,,M
+2072,Branko Horvat,bhorv,CRO,HRV,/profile-bio/men/Branko_Horvat/,,,M
+2074,Desmond Tyson,dtyso,AUS,AUS,/profile-bio/men/Desmond_Tyson/,,,M
+2075,Richard Wihlborg,rwihl,SWE,SWE,/profile-bio/men/Richard_Wihlborg/,,,M
+2076,Julian Stamatov,jstam,BUL,BGR,/profile-bio/men/Julian_Stamatov/,,,M
+2078,Chi-Wan Kim,cwkim,KOR,XXX,/profile-bio/men/Chi-Wan_Kim/,,,M
+2079,Milko Petkov,mpetk,BUL,BGR,/profile-bio/men/Milko_Petkov/,,,M
+2081,Jorge Vila,jvila,ESP,ESP,/profile-bio/men/Jorge_Vila/,,,M
+2082,Hana Fukarkova,hfuka,Czech Republic,CZE,/profile-bio/women/Hana_Fukarkova/,,,F
+2083,Nevio Devide,ndevi_2,ITA,ITA,/profile-bio/men/Nevio_Devide/,,,M
+2084,Mattias Mander,mmand,GER,DEU,/profile-bio/men/Mattias_Mander/,,,M
+2086,Filip Dewulf,fdewu_2,BEL,BEL,/profile-bio/men/Filip_Dewulf/,,,M
+2087,David Pollack,dpoll,USA,USA,/profile-bio/men/David_Pollack/,,,M
+2089,Martin Zumpft,mzump,GER,DEU,/profile-bio/men/Martin_Zumpft/,,,M
+2090,Aleco Preovolas,apreo,USA,USA,/profile-bio/men/Aleco_Preovolas/,,,M
+2091,Tosporn Summa,tsumm_2,Thailand,THA,/profile-bio/women/Tosporn_Summa/,,,F
+2092,Laura Randmaa,lrand,Canada,CAN,/profile-bio/women/Laura_Randmaa/,,,F
+2093,Shigeyuki Nishio,snish,JPN,JPN,/profile-bio/men/Shigeyuki_Nishio/,,,M
+2094,Enrique Perez-Cassarino,epere,URU,URY,/profile-bio/men/Enrique_Perez-Cassarino/,,,M
+2097,Tania Couto,tcout,Portugal,PRT,/profile-bio/women/Tania_Couto/,,,F
+2100,Mary Norwood,mnorw,United States,USA,/profile-bio/women/Mary_Norwood/,,,F
+2101,Daniele Balducci,dbald,ITA,ITA,/profile-bio/men/Daniele_Balducci/,,,M
+2102,Schalk Van Der Merwe,svdme,RSA,ZAF,/profile-bio/men/Schalk_Van_Der_Merwe/,,,M
+2104,Hendrik Jan Davids,hjand,NED,NLD,/profile-bio/men/Hendrik_Jan_Davids/,,,M
+2106,Marco Mencaglia,mmenc,ITA,ITA,/profile-bio/men/Marco_Mencaglia/,,,M
+2109,Mike Oosterveen,moost_2,NED,NLD,/profile-bio/men/Mike_Oosterveen/,,,M
+2111,Paolo Bardessa,pbard,ITA,ITA,/profile-bio/men/Paolo_Bardessa/,,,M
+2113,Carlos Oliveira,coliv,BRA,BRA,/profile-bio/men/Carlos_Oliveira/,,,M
+2114,Jose Daher,jdahe,BRA,BRA,/profile-bio/men/Jose_Daher/,,,M
+2115,Alfredo Rivera,arive,CHI,CHL,/profile-bio/men/Alfredo_Rivera/,,,M
+2116,Massimiliano Benedetti,mbene,ITA,ITA,/profile-bio/men/Massimiliano_Benedetti/,,,M
+2117,Avi Fadlun,afadl,ISR,ISR,/profile-bio/men/Avi_Fadlun/,,,M
+2118,Hassan El Arousy,helar,EGY,EGY,/profile-bio/men/Hassan_El_Arousy/,,,M
+2119,Arafa Chekrouni,achek,MAR,MAR,/profile-bio/men/Arafa_Chekrouni/,,,M
+2120,David Lomicky,dlomi,USA,USA,/profile-bio/men/David_Lomicky/,,,M
+2122,Axelle Thomas,athom_2,France,FRA,/profile-bio/women/Axelle_Thomas/,,,F
+2123,Zuzana Witzova,zwitz,Czech Republic,CZE,/profile-bio/women/Zuzana_Witzova/,,,F
+2124,Ana Segura,asegu,Spain,ESP,/profile-bio/women/Ana_Segura/,,,F
+2125,Stefan Fueg,sfueg,GER,DEU,/profile-bio/men/Stefan_Fueg/,,,M
+2126,Tasos Bavelas,tbave,GRE,GRC,/profile-bio/men/Tasos_Bavelas/,,,M
+2128,Paolo Pambianco,ppamb,ITA,ITA,/profile-bio/men/Paolo_Pambianco/,,,M
+2129,Valerio Boccitto,vbocc,VEN,XXX,/profile-bio/men/Valerio_Boccitto/,,,M
+2130,Raviv Weidenfeld,rweid,ISR,ISR,/profile-bio/men/Raviv_Weidenfeld/,,,M
+2131,Johan Sandberg,jsand,SWE,SWE,/profile-bio/men/Johan_Sandberg/,,,M
+2133,T.J. Middleton,tmidd,USA,USA,/profile-bio/men/T.J._Middleton/,,,M
+2134,Steve DeVries,sdevr,USA,USA,/profile-bio/men/Steve_DeVries/,,,M
+2137,Marco Sitepu,msite,INA,IDN,/profile-bio/men/Marco_Sitepu/,,,M
+2139,Jean-Marie Lozano,jmloz,United States,USA,/profile-bio/women/Jean-Marie_Lozano/,,,F
+2140,Charles Beckman,cbeck,USA,USA,/profile-bio/men/Charles_Beckman/,,,M
+2142,Stefan Eriksson,serik,SWE,SWE,/profile-bio/men/Stefan_Eriksson/,,,M
+2143,Stefano Mezzadri,smezz,SUI,CHE,/profile-bio/men/Stefano_Mezzadri/,,,M
+2147,Guillaume Marx,gmarx,FRA,FRA,/profile-bio/men/Guillaume_Marx/,,,M
+2150,Carlos Bustos,cbust,USA,USA,/profile-bio/men/Carlos_Bustos/,,,M
+2152,Michael Karbacher,mkarb,GER,DEU,/profile-bio/men/Michael_Karbacher/,,,M
+2154,Cristiane Tassi,ctass,Brazil,BRA,/profile-bio/women/Cristiane_Tassi/,,,F
+2155,Anna Foldenyi,afold,Hungary,HUN,/profile-bio/women/Anna_Foldenyi/,,,F
+2156,Gustavo Merbilhaa,gmerb,ARG,ARG,/profile-bio/men/Gustavo_Merbilhaa/,,,M
+2157,Howard Herr,hherr,RSA,ZAF,/profile-bio/men/Howard_Herr/,,,M
+2159,Catherine Barclay-Reitz,cbarc_2,Australia,AUS,/profile-bio/women/Catherine_Barclay-Reitz/,,,F
+2160,Donnie Isaak,disaa,USA,USA,/profile-bio/men/Donnie_Isaak/,,,M
+2161,Linda Wild,lwild,United States,USA,/profile-bio/women/Linda_Wild/,,,F
+2165,Paul Martins,pmart_2,BRA,BRA,/profile-bio/men/Paul_Martins/,,,M
+2167,Kimmo Hurme,khurm,FIN,FIN,/profile-bio/men/Kimmo_Hurme/,,,M
+2168,Kaoru Maruyama,kmaru,JPN,JPN,/profile-bio/men/Kaoru_Maruyama/,,,M
+2169,Lorenza Jachia,ljach,Italy,ITA,/profile-bio/women/Lorenza_Jachia/,,,F
+2170,Igor Saric,isari,CRO,HRV,/profile-bio/men/Igor_Saric/,,,M
+2172,Thomas Prerovsky,tprer,AUT,AUT,/profile-bio/men/Thomas_Prerovsky/,,,M
+2175,Otis Smith,osmit,USA,USA,/profile-bio/men/Otis_Smith/,,,M
+2176,Jose Ramon Roca,jramo,ESP,ESP,/profile-bio/men/Jose_Ramon_Roca/,,,M
+2177,Wieslaw Gasiorek,wgasi,POL,POL,/profile-bio/men/Wieslaw_Gasiorek/,,,M
+2178,Patrick Flynn,pflyn,AUS,AUS,/profile-bio/men/Patrick_Flynn/,,,M
+2179,Emilio Benfele Alvarez,ebalv,ESP,ESP,/profile-bio/men/Emilio_Benfele_Alvarez/,,,M
+2180,Yael Segal,ysega,Israel,ISR,/profile-bio/women/Yael_Segal/,,,F
+2182,Annika Narbe,anarb,Sweden,SWE,/profile-bio/women/Annika_Narbe/,,,F
+2183,Robert Phillips,rphil,USA,USA,/profile-bio/men/Robert_Phillips/,,,M
+2185,Rosa Bielsa,rbiel,Spain,ESP,/profile-bio/women/Rosa_Bielsa/,,,F
+2186,Karin Dallwitz,kdall,Mexico,MEX,/profile-bio/women/Karin_Dallwitz/,,,F
+2187,Gabriela Mosca,gmosc,Argentina,ARG,/profile-bio/women/Gabriela_Mosca/,,,F
+2190,Nandan Bal,nbal,IND,IND,/profile-bio/men/Nandan_Bal/,,,M
+2192,Bonit Wiryawan,bwiry,INA,IDN,/profile-bio/men/Bonit_Wiryawan/,,,M
+2193,Brett Buffington,bbuff,USA,USA,/profile-bio/men/Brett_Buffington/,,,M
+2194,Ruth Seeman,rseem,New Zealand,NZL,/profile-bio/women/Ruth_Seeman/,,,F
+2197,Alain Schott,ascho,FRA,FRA,/profile-bio/men/Alain_Schott/,,,M
+2198,Nick Jones,njone,GBR,XXX,/profile-bio/men/Nick_Jones/,,,M
+2200,Victor Lopez,vlope,ESP,ESP,/profile-bio/men/Victor_Lopez/,,,M
+2203,Tanakorn Srichaphan,tsric,THA,THA,/profile-bio/men/Tanakorn_Srichaphan/,,,M
+2204,Ed Ross,eross_3,USA,USA,/profile-bio/men/Ed_Ross/,,,M
+2207,Brad Koontz,bkoon,USA,USA,/profile-bio/men/Brad_Koontz/,,,M
+2208,Razvan Itu,ritu,ROU,ROM,/profile-bio/men/Razvan_Itu/,,,M
+2210,Mark Jacobson,mjaco,USA,USA,/profile-bio/men/Mark_Jacobson/,,,M
+2211,Denys Maasdorp,dmaas,RSA,ZAF,/profile-bio/men/Denys_Maasdorp/,,,M
+2212,Lea Antonoplis-Inoye,lanto_2,United States,USA,/profile-bio/women/Lea_Antonoplis-Inoye/,,,F
+2213,Karim Strohmeier,kstro,Peru,PER,/profile-bio/women/Karim_Strohmeier/,,,F
+2214,Katalin Darvas,kdarv,Hungary,HUN,/profile-bio/women/Katalin_Darvas/,,,F
+2215,Orawan Thampensri,otham_2,Thailand,THA,/profile-bio/women/Orawan_Thampensri/,,,F
+2216,Nora Bajchikova,nbajc,Czech Republic,CZE,/profile-bio/women/Nora_Bajchikova/,,,F
+2218,Ivo Werner,iwern_2,GER,DEU,/profile-bio/men/Ivo_Werner/,,,M
+2220,Gerald Marzenell,gmarz,GER,DEU,/profile-bio/men/Gerald_Marzenell/,,,M
+2221,Bertrand Lacombe,blaco,HAI,HTI,/profile-bio/men/Bertrand_Lacombe/,,,M
+2222,Jose Antonio Fernandez,jafer,CHI,CHL,/profile-bio/men/Jose_Antonio_Fernandez/,,,M
+2228,Shoji Katoh,skato,JPN,JPN,/profile-bio/men/Shoji_Katoh/,,,M
+2229,Kazuko Ito,kito,Japan,JPN,/profile-bio/women/Kazuko_Ito/,,,F
+2231,Chuck Swayne,csway,USA,USA,/profile-bio/men/Chuck_Swayne/,,,M
+2232,Rolf Hertzog,rhert,SUI,CHE,/profile-bio/men/Rolf_Hertzog/,,,M
+2234,Christian Guhl,cguhl,GER,DEU,/profile-bio/men/Christian_Guhl/,,,M
+2235,Marcelo Ferlin,mferl,BRA,BRA,/profile-bio/men/Marcelo_Ferlin/,,,M
+2237,Eiji Takeuchi,etake,JPN,JPN,/profile-bio/men/Eiji_Takeuchi/,,,M
+2239,Frank Rieker,friek,GER,DEU,/profile-bio/men/Frank_Rieker/,,,M
+2240,Andras Lanyi,alany,HUN,HUN,/profile-bio/men/Andras_Lanyi/,,,M
+2241,Young Min Kwon,ymink,KOR,XXX,/profile-bio/men/Young_Min_Kwon/,,,M
+2242,Jason Sher,jsher,RSA,ZAF,/profile-bio/men/Jason_Sher/,,,M
+2243,Haruo Nakano,hnaka_2,JPN,JPN,/profile-bio/men/Haruo_Nakano/,,,M
+2247,Limor Zaltz,lzalt,Israel,ISR,/profile-bio/women/Limor_Zaltz/,,,F
+2248,Hugo Nunez,hnune,ECU,ECU,/profile-bio/men/Hugo_Nunez/,,,M
+2249,Horacio Matta,hmatt,CHI,CHL,/profile-bio/men/Horacio_Matta/,,,M
+2250,Sumara Passos,spass,Brazil,BRA,/profile-bio/women/Sumara_Passos/,,,F
+2253,Willi Otten,wotte,GER,DEU,/profile-bio/men/Willi_Otten/,,,M
+2255,Rick Kepler,rkepl,USA,USA,/profile-bio/men/Rick_Kepler/,,,M
+2256,Sascha Nensel,snens,GER,DEU,/profile-bio/men/Sascha_Nensel/,,,M
+2258,Marcelo Rebolledo,mrebo,CHI,CHL,/profile-bio/men/Marcelo_Rebolledo/,,,M
+2259,Nick Barone,nbaro,USA,USA,/profile-bio/men/Nick_Barone/,,,M
+2260,Caroline Schuck,cschu,Brazil,BRA,/profile-bio/women/Caroline_Schuck/,,,F
+2262,Oscar Ortiz,oorti,MEX,MEX,/profile-bio/men/Oscar_Ortiz/,,,M
+2263,Robert Kresberg,rkres,USA,USA,/profile-bio/men/Robert_Kresberg/,,,M
+2266,Penny Mager,pmage,United States,USA,/profile-bio/women/Penny_Mager/,,,F
+2267,Jose Enrique Hernandez,jenri,MEX,MEX,/profile-bio/men/Jose_Enrique_Hernandez/,,,M
+2268,Ron Ward,rward,USA,USA,/profile-bio/men/Ron_Ward/,,,M
+2272,Nicole Bradtke,nbrad,Australia,AUS,/profile-bio/women/Nicole_Bradtke/,,,F
+2273,Gustavo Garetto,ggare,ARG,ARG,/profile-bio/men/Gustavo_Garetto/,,,M
+2274,Tjerk Bogtstra,tbogt,NED,NLD,/profile-bio/men/Tjerk_Bogtstra/,,,M
+2275,Rohit Rajpal,rrajp,IND,IND,/profile-bio/men/Rohit_Rajpal/,,,M
+2276,Givaldo Barbosa,gbarb,BRA,BRA,/profile-bio/men/Givaldo_Barbosa/,,,M
+2277,Mark Leschly,mlesc,DEN,DNK,/profile-bio/men/Mark_Leschly/,,,M
+2278,Luke Leighton,lleig,AUS,AUS,/profile-bio/men/Luke_Leighton/,,,M
+2279,Christoph Sr Muller,csrmu,GER,DEU,/profile-bio/men/Christoph_Sr_Muller/,,,M
+2280,Bettina Bunge,bbung,Germany,DEU,/profile-bio/women/Bettina_Bunge/,,,F
+2281,Karine Quentrec Eagle,kqeag,France,FRA,/profile-bio/women/Karine_Quentrec_Eagle/,,,F
+2282,Eugenio Rossi,eross_4,ITA,ITA,/profile-bio/men/Eugenio_Rossi/,,,M
+2283,Michael Bleicher,mblei,GER,DEU,/profile-bio/men/Michael_Bleicher/,,,M
+2285,Amy Alcini,aalci,United States,USA,/profile-bio/women/Amy_Alcini/,,,F
+2289,David Harris,dharr,GBR,XXX,/profile-bio/men/David_Harris/,,,M
+2292,Stephanie Mayorkis,smayo,Brazil,BRA,/profile-bio/women/Stephanie_Mayorkis/,,,F
+2294,Bing Chao Lin,bchao,TPE,XXX,/profile-bio/men/Bing_Chao_Lin/,,,M
+2295,Maria Jose Llorca,mjllo,Spain,ESP,/profile-bio/women/Maria_Jose_Llorca/,,,F
+2296,Alex Rouse,arous,GBR,XXX,/profile-bio/men/Alex_Rouse/,,,M
+2297,Ricardo Acioly,racio,BRA,BRA,/profile-bio/men/Ricardo_Acioly/,,,M
+2298,Jonas Svensson,jsven,SWE,SWE,/profile-bio/men/Jonas_Svensson/,,,M
+2299,Margarita Vaquero,mvaqu,Spain,ESP,/profile-bio/women/Margarita_Vaquero/,,,F
+2300,Ivana Jankovska,ijank,Czech Republic,CZE,/profile-bio/women/Ivana_Jankovska/,,,F
+2302,Jake Martyn,jmart_2,GBR,XXX,/profile-bio/men/Jake_Martyn/,,,M
+2304,German Puentes,gpuen_2,ESP,ESP,/profile-bio/men/German_Puentes/,,,M
+2306,Pat Emmett,pemme,USA,USA,/profile-bio/men/Pat_Emmett/,,,M
+2307,Vincent Baudat,vbaud,FRA,FRA,/profile-bio/men/Vincent_Baudat/,,,M
+2308,Mitchell Bridge,mbrid,USA,USA,/profile-bio/men/Mitchell_Bridge/,,,M
+2309,Alfonso Mora,amora,VEN,XXX,/profile-bio/men/Alfonso_Mora/,,,M
+2310,David Ison,dison,GBR,XXX,/profile-bio/men/David_Ison/,,,M
+2312,Bernardo Mota,bmota,POR,PRT,/profile-bio/men/Bernardo_Mota/,,,M
+2315,Cliff Retief,creti,RSA,ZAF,/profile-bio/men/Cliff_Retief/,,,M
+2316,Anna Mirza,amirz,XXX,XXX,/profile-bio/women/Anna_Mirza/,,,F
+2317,Damir Buljevic,dbulj,CRO,HRV,/profile-bio/men/Damir_Buljevic/,,,M
+2319,Marcello Bassanelli,mbass,ITA,ITA,/profile-bio/men/Marcello_Bassanelli/,,,M
+2323,Sylvia Stefkova,sstef,Czech Republic,CZE,/profile-bio/women/Sylvia_Stefkova/,,,F
+2324,Kim Warwick,kwarw,AUS,AUS,/profile-bio/men/Kim_Warwick/,,,M
+2326,Tom Wangelin,twang,USA,USA,/profile-bio/men/Tom_Wangelin/,,,M
+2327,Robert Janecek,rjane,CAN,CAN,/profile-bio/men/Robert_Janecek/,,,M
+2329,Robert Van't Hof,rvan,USA,XXX,/profile-bio/men/Robert_Van,,,M
+2330,Ahmed El Mehelmy,aelme,EGY,EGY,/profile-bio/men/Ahmed_El_Mehelmy/,,,M
+2331,Ulices Cerda,ucerd,CHI,CHL,/profile-bio/men/Ulices_Cerda/,,,M
+2333,Clavdio Galoppini,cgalo,ESP,ESP,/profile-bio/men/Clavdio_Galoppini/,,,M
+2334,Anders Haaseth,ahaas,NOR,NOR,/profile-bio/men/Anders_Haaseth/,,,M
+2336,Adriana Villagran-Reami,avill_2,Argentina,ARG,/profile-bio/women/Adriana_Villagran-Reami/,,,F
+2338,Yassine Lalaoui,ylala,MAR,MAR,/profile-bio/men/Yassine_Lalaoui/,,,M
+2339,Suharyadi Suharyadi,ssuha,INA,IDN,/profile-bio/men/Suharyadi_Suharyadi/,,,M
+2341,Martin Barba,mbarb_2,USA,USA,/profile-bio/men/Martin_Barba/,,,M
+2342,Adam Kework,akewo,USA,USA,/profile-bio/men/Adam_Kework/,,,M
+2343,Nicolletta Iaccarino,niacc,Italy,ITA,/profile-bio/women/Nicolletta_Iaccarino/,,,F
+2344,Mike De Palmer,mdepa,USA,USA,/profile-bio/men/Mike_De_Palmer/,,,M
+2345,Marco Filippeschi,mfili_2,ITA,ITA,/profile-bio/men/Marco_Filippeschi/,,,M
+2346,Mika Hedman,mhedm,FIN,FIN,/profile-bio/men/Mika_Hedman/,,,M
+2347,Nicklas Kroon,nkroo_2,SWE,SWE,/profile-bio/men/Nicklas_Kroon/,,,M
+2348,Mark Hlawaty,mhlaw,AUS,AUS,/profile-bio/men/Mark_Hlawaty/,,,M
+2349,Luis Ruette,lruet,BRA,BRA,/profile-bio/men/Luis_Ruette/,,,M
+2351,Corine Bousmans,cbous,Belgium,BEL,/profile-bio/women/Corine_Bousmans/,,,F
+2352,Ohad Weinberg,owein,ISR,ISR,/profile-bio/men/Ohad_Weinberg/,,,M
+120,John Mwalongo,jmwal,ZAM,ZMB,/profile-bio/men/John_Mwalongo/,,,M
+212,Segun Akinloye,sakin,NGR,NGA,/profile-bio/men/Segun_Akinloye/,,,M
+474,Yakubu Suleiman,ysule,NGR,NGA,/profile-bio/men/Yakubu_Suleiman/,,,M
+725,Abdelhak Hameurlaine,ahame,ALG,DZA,/profile-bio/men/Abdelhak_Hameurlaine/,,,M
+823,Chinedu-Thomas Nweje,ctnwe,NGR,NGA,/profile-bio/men/Chinedu-Thomas_Nweje/,,,M
+994,Gerard Gbedey,ggbed,TOG,TGO,/profile-bio/men/Gerard_Gbedey/,,,M
+1023,Kodzo Apeti,kapet,TOG,TGO,/profile-bio/men/Kodzo_Apeti/,,,M
+1160,Sadiq Abdullahi,sabdu,NGR,NGA,/profile-bio/men/Sadiq_Abdullahi/,,,M
+1215,Peter Orwa,porwa,NGR,NGA,/profile-bio/men/Peter_Orwa/,,,M
+1259,Sunday Ogundele,sogun,NGR,NGA,/profile-bio/men/Sunday_Ogundele/,,,M
+1431,Moncef Zehar,mzeha,ALG,DZA,/profile-bio/men/Moncef_Zehar/,,,M
+2205,Steven Kangwa,skang,ZAM,ZMB,/profile-bio/men/Steven_Kangwa/,,,M
+2322,Emeka Elechi,eelec,NGR,NGA,/profile-bio/men/Emeka_Elechi/,,,M
+1326,Andre Agassi,aagas,USA,USA,/profile-bio/men/Andre_Agassi/,,2016-01-12 00:32:08.182897,M
+423,Adam Anderson,aande,AUS,AUS,/profile-bio/men/Adam_Anderson/,,2016-01-12 00:31:35.042736,M
+171,Alex Antonitsch,aanto,AUT,AUT,/profile-bio/men/Alex_Antonitsch/,,2016-01-12 00:31:26.281058,M
+173,Alberto Berasategui,abera,ESP,ESP,/profile-bio/men/Alberto_Berasategui/,,2016-01-12 00:31:26.365075,M
+930,Arnaud Boetsch,aboet,FRA,FRA,/profile-bio/men/Arnaud_Boetsch/,,2016-01-12 00:31:53.370525,M
+732,Andrew Burrow,aburr,RSA,ZAF,/profile-bio/men/Andrew_Burrow/,,2016-01-12 00:31:45.965231,M
+486,Ann Devries,adevr,Belgium,BEL,/profile-bio/women/Ann_Devries/,,2016-01-12 00:31:37.539203,F
+1098,Amy Frazier,afraz,United States,USA,/profile-bio/women/Amy_Frazier/,,2016-01-12 00:31:59.731824,F
+867,Andrea Gaudenzi,agaud,ITA,ITA,/profile-bio/men/Andrea_Gaudenzi/,,2016-01-12 00:31:50.89776,M
+1330,Andres Gomez,agome,ECU,ECU,/profile-bio/men/Andres_Gomez/,,2016-01-12 00:32:08.278944,M
+1190,Amanda Grunfeld,agrun,United Kingdom,GBR,/profile-bio/women/Amanda_Grunfeld/,,2016-01-12 00:32:02.924444,F
+923,Anke Huber,ahube,Germany,DEU,/profile-bio/women/Anke_Huber/,,2016-01-12 00:31:53.082637,F
+832,Amy Jonsson,ajons,Norway,NOR,/profile-bio/women/Amy_Jonsson/,,2016-01-12 00:31:49.769625,F
+166,Andrew Kratzmann,akrat,AUS,AUS,/profile-bio/men/Andrew_Kratzmann/,,2016-01-12 00:31:26.089075,M
+745,Alberto Mancini,albmanc,ARG,ARG,/profile-bio/men/Alberto_Mancini/,,2016-01-12 00:31:46.384987,M
+1156,Andreas Lesch,alesc,GER,DEU,/profile-bio/men/Andreas_Lesch/,,2016-01-12 00:32:01.820225,M
+1020,Amos Mansdorf,amans,ISR,ISR,/profile-bio/men/Amos_Mansdorf/,,2016-01-12 00:31:56.851294,M
+375,Andreas Maurer,amaur,GER,DEU,/profile-bio/men/Andreas_Maurer/,,2016-01-12 00:31:33.230217,M
+1288,Ashley Naumann,anaum,AUS,AUS,/profile-bio/men/Ashley_Naumann/,,2016-01-12 00:32:06.802739,M
+1111,Andrew Castle,ancast,GBR,GBR,/profile-bio/men/Andrew_Castle/,,2016-01-12 00:32:00.187887,M
+802,Anna Ivan,annaivan,United States,USA,/profile-bio/women/Anna_Ivan/,,2016-01-12 00:31:48.43751,F
+970,Aki Rahunen,arahu,FIN,FIN,/profile-bio/men/Aki_Rahunen/,,2016-01-12 00:31:55.146869,M
+209,Amy Schwartz,aschw,United States,USA,/profile-bio/women/Amy_Schwartz/,,2016-01-12 00:31:27.565185,F
+436,Alison Scott,ascot,Australia,AUS,/profile-bio/women/Alison_Scott/,,2016-01-12 00:31:35.450805,F
+1498,Amanda Coetzer,acoet,South Africa,ZAF,/profile-bio/women/Amanda_Coetzer/,,2016-01-12 00:32:14.364804,F
+1477,Alexander Reichel,areic,USA,USA,/profile-bio/men/Alexander_Reichel/,,2016-01-12 00:32:13.524164,M
+1472,Arantxa Sanchez-Vicario,asanc,Spain,ESP,/profile-bio/women/Arantxa_Sanchez-Vicario/,,2016-01-12 00:32:13.356032,F
+1442,David Engel,denge,SWE,SWE,/profile-bio/men/David_Engel/,,2016-01-12 00:32:12.323898,M
+1448,David Witt,dwitt,USA,USA,/profile-bio/men/David_Witt/,,2016-01-12 00:32:12.564125,M
+1510,Elise Burgin,eburg,United States,USA,/profile-bio/women/Elise_Burgin/,,2016-01-12 00:32:14.748518,F
+1441,Elizabeth Minter,emint,Australia,AUS,/profile-bio/women/Elizabeth_Minter/,,2016-01-12 00:32:12.299972,F
+1454,Fernando Meligeni,fmeli,BRA,BRA,/profile-bio/men/Fernando_Meligeni/,,2016-01-12 00:32:12.792078,M
+1437,Francesca Romano,froma,Italy,ITA,/profile-bio/women/Francesca_Romano/,,2016-01-12 00:32:12.156344,F
+1486,Jill Smoller,jsmol,United States,USA,/profile-bio/women/Jill_Smoller/,,2016-01-12 00:32:13.932175,F
+1421,Jonathan Stark,jstar,USA,USA,/profile-bio/men/Jonathan_Stark/,,2016-01-12 00:32:11.507671,M
+1463,Jane Taylor,jtayl,Australia,AUS,/profile-bio/women/Jane_Taylor/,,2016-01-12 00:32:13.103959,F
+1505,Michael Brown,mibrow,AUS,AUS,/profile-bio/men/Michael_Brown/,,2016-01-12 00:32:14.592232,M
+1471,Michael Robertson,mrobe,USA,USA,/profile-bio/men/Michael_Robertson/,,2016-01-12 00:32:13.320101,M
+1492,Omar Camporese,ocamp,ITA,ITA,/profile-bio/men/Omar_Camporese/,,2016-01-12 00:32:14.148223,M
+1499,Paul Chamberlin,pcham,USA,USA,/profile-bio/men/Paul_Chamberlin/,,2016-01-12 00:32:14.388393,M
+1424,Patricia Tarabini,ptara,Argentina,ARG,/profile-bio/women/Patricia_Tarabini/,,2016-01-12 00:32:11.61591,F
+1434,Stephen Botfield,sbotf,GBR,GBR,/profile-bio/men/Stephen_Botfield/,,2016-01-12 00:32:12.024087,M
+1512,Tomas Carbonell,tcarb,ESP,ESP,/profile-bio/men/Tomas_Carbonell/,,2016-01-12 00:32:14.844618,M
+1419,Thomas Hogstedt,thogs,SWE,SWE,/profile-bio/men/Thomas_Hogstedt/,,2016-01-12 00:32:11.435727,M
+1488,Vincenzo Santopadre,vsant,ITA,ITA,/profile-bio/men/Vincenzo_Santopadre/,,2016-01-12 00:32:14.004529,M
+1542,Ann Henricksson,ahenr,United States,USA,/profile-bio/women/Ann_Henricksson/,,2016-01-12 00:32:16.044722,F
+1600,Andrea Leand,alean,United States,USA,/profile-bio/women/Andrea_Leand/,,2016-01-12 00:32:18.16904,F
+1516,Agnes Zugasti,azuga,France,FRA,/profile-bio/women/Agnes_Zugasti/,,2016-01-12 00:32:15.096875,F
+1575,Conchita Martinez,cmart,Spain,ESP,/profile-bio/women/Conchita_Martinez/,,2016-01-12 00:32:17.281197,F
+1576,Chris Wilkinson,cwilk,GBR,GBR,/profile-bio/men/Chris_Wilkinson/,,2016-01-12 00:32:17.317187,M
+1601,David Pate,dpate,USA,USA,/profile-bio/men/David_Pate/,,2016-01-12 00:32:18.205024,M
+1537,Derrick Rostagno,drost,USA,USA,/profile-bio/men/Derrick_Rostagno/,,2016-01-12 00:32:15.888544,M
+1610,David Wheaton,dwhea,USA,USA,/profile-bio/men/David_Wheaton/,,2016-01-12 00:32:18.541184,M
+1562,Eric Jelen,ejele,GER,DEU,/profile-bio/men/Eric_Jelen/,,2016-01-12 00:32:16.7166,M
+1514,Francisco Clavet,fclav,ESP,ESP,/profile-bio/men/Francisco_Clavet/,,2016-01-12 00:32:14.957011,M
+1577,Jessica Emmons,jemmo,United States,USA,/profile-bio/women/Jessica_Emmons/,,2016-01-12 00:32:17.353075,F
+1594,John Fitzgerald,jfitz,AUS,AUS,/profile-bio/men/John_Fitzgerald/,,2016-01-12 00:32:18.000935,M
+1582,Jaroslav Navratil,jnavr,CZE,CZE,/profile-bio/men/Jaroslav_Navratil/,,2016-01-12 00:32:17.545042,M
+1540,Joakim Nystrom,jnyst,SWE,SWE,/profile-bio/men/Joakim_Nystrom/,,2016-01-12 00:32:15.96059,M
+1595,James Turner,jturn,GBR,GBR,/profile-bio/men/James_Turner/,,2016-01-12 00:32:18.024936,M
+1586,Jens Woehrmann,jwoeh,GER,DEU,/profile-bio/men/Jens_Woehrmann/,,2016-01-12 00:32:17.701059,M
+1579,Katerina Maleeva,kmale,Bulgaria,BGR,/profile-bio/women/Katerina_Maleeva/,,2016-01-12 00:32:17.425014,F
+1544,Katja Oeljeklaus,koelj,Germany,DEU,/profile-bio/women/Katja_Oeljeklaus/,,2016-01-12 00:32:16.116678,F
+1535,Lise Gregory,ligreg,South Africa,ZAF,/profile-bio/women/Lise_Gregory/,,2016-01-12 00:32:15.840705,F
+1526,Mike Bauer,mbaue,USA,USA,/profile-bio/men/Mike_Bauer/,,2016-01-12 00:32:15.516806,M
+1561,Monique Javer,mjave,United Kingdom,GBR,/profile-bio/women/Monique_Javer/,,2016-01-12 00:32:16.692719,F
+1596,Marc-Kevin Goellner,mkgoe,GER,DEU,/profile-bio/men/Marc-Kevin_Goellner/,,2016-01-12 00:32:18.048988,M
+1538,Peter Doohan,pdooh,AUS,AUS,/profile-bio/men/Peter_Doohan/,,2016-01-12 00:32:15.912573,M
+1560,Stefan Edberg,sedbe,SWE,SWE,/profile-bio/men/Stefan_Edberg/,,2016-01-12 00:32:16.656628,M
+1583,Susan Sloane-Lundy,ssloa,United States,USA,/profile-bio/women/Susan_Sloane-Lundy/,,2016-01-12 00:32:17.581033,F
+1522,Simon Youl,syoul,AUS,AUS,/profile-bio/men/Simon_Youl/,,2016-01-12 00:32:15.348501,M
+1569,Thierry Guardiola,tguar,FRA,FRA,/profile-bio/men/Thierry_Guardiola/,,2016-01-12 00:32:17.004974,M
+1528,Younes El Aynaoui,yelay,MAR,MAR,/profile-bio/men/Younes_El_Aynaoui/,,2016-01-12 00:32:15.588578,M
+1543,Yannick Noah,ynoah,FRA,FRA,/profile-bio/men/Yannick_Noah/,,2016-01-12 00:32:16.080644,M
+1652,Andrea Tiezzi,atiez,Argentina,ARG,/profile-bio/women/Andrea_Tiezzi/,,2016-01-12 00:32:20.341278,F
+1675,Brad Drewett,bdrew,AUS,AUS,/profile-bio/men/Brad_Drewett/,,2016-01-12 00:32:21.169945,M
+1682,Brent Larkham,blark,AUS,AUS,/profile-bio/men/Brent_Larkham/,,2016-01-12 00:32:21.42179,M
+1639,Diego Perez,diepere,URU,URY,/profile-bio/men/Diego_Perez/,,2016-01-12 00:32:19.873355,M
+1683,Eugenia Maniokova,emani,Russia,RUS,/profile-bio/women/Eugenia_Maniokova/,,2016-01-12 00:32:21.457787,F
+1633,Jennifer Capriati,jcapr,United States,USA,/profile-bio/women/Jennifer_Capriati/,,2016-01-12 00:32:19.633478,F
+1693,Jonna Jonerup,jjone,Sweden,SWE,/profile-bio/women/Jonna_Jonerup/,,2016-01-12 00:32:21.878169,F
+1666,Maya Kidowaki,mkido,Japan,JPN,/profile-bio/women/Maya_Kidowaki/,,2016-01-12 00:32:20.833594,F
+1665,Michael Kures,mkure,USA,USA,/profile-bio/men/Michael_Kures/,,2016-01-12 00:32:20.797617,M
+1677,Michiel Schapers,mscha,NED,NLD,/profile-bio/men/Michiel_Schapers/,,2016-01-12 00:32:21.241736,M
+1678,Marian Vajda,mvajd,SVK,SVK,/profile-bio/men/Marian_Vajda/,,2016-01-12 00:32:21.277509,M
+1625,Nathalie Herreman,nherr,France,FRA,/profile-bio/women/Nathalie_Herreman/,,2016-01-12 00:32:19.35739,F
+1659,Shelby Cannon,scann,USA,USA,/profile-bio/men/Shelby_Cannon/,,2016-01-12 00:32:20.581725,M
+1689,Sebastien Lareau,slare,CAN,CAN,/profile-bio/men/Sebastien_Lareau/,,2016-01-12 00:32:21.673573,M
+1664,Sandra Wasserman,swass,Belgium,BEL,/profile-bio/women/Sandra_Wasserman/,,2016-01-12 00:32:20.749609,F
+1614,Yukie Koizumi,ykoiz,Japan,JPN,/profile-bio/women/Yukie_Koizumi/,,2016-01-12 00:32:18.925318,F
+1721,Andrea Betzner,abetz,Germany,DEU,/profile-bio/women/Andrea_Betzner/,,2016-01-12 00:32:22.873923,F
+1716,Anders Jarryd,ajarr,SWE,SWE,/profile-bio/men/Anders_Jarryd/,,2016-01-12 00:32:22.69363,M
+1713,Andrew Sznajder,aszna,CAN,CAN,/profile-bio/men/Andrew_Sznajder/,,2016-01-12 00:32:22.597815,M
+1759,Barry Moir,bmoir,RSA,ZAF,/profile-bio/men/Barry_Moir/,,2016-01-12 00:32:24.446153,M
+1753,Debbie Graham,dgrah,United States,USA,/profile-bio/women/Debbie_Graham/,,2016-01-12 00:32:24.254143,F
+1767,Erika De Lone,edelo,United States,USA,/profile-bio/women/Erika_De_Lone/,,2016-01-12 00:32:24.746273,F
+1764,Eva Krapl,ekrap,Switzerland,CHE,/profile-bio/women/Eva_Krapl/,,2016-01-12 00:32:24.626148,F
+1762,Jenny Byrne,jbyrn,Australia,AUS,/profile-bio/women/Jenny_Byrne/,,2016-01-12 00:32:24.554219,F
+1777,Justine Hodder,jhodd,Australia,AUS,/profile-bio/women/Justine_Hodder/,,2016-01-12 00:32:25.082549,F
+1714,Joannette Kruger,jkrug,South Africa,ZAF,/profile-bio/women/Joannette_Kruger/,,2016-01-12 00:32:22.633666,F
+1774,Jim Pugh,jpugh,USA,USA,/profile-bio/men/Jim_Pugh/,,2016-01-12 00:32:24.986375,M
+1705,Karim Alami,kalam,MAR,MAR,/profile-bio/men/Karim_Alami/,,2016-01-12 00:32:22.322007,M
+1738,Kevin Curren,kcurr,USA,USA,/profile-bio/men/Kevin_Curren/,,2016-01-12 00:32:23.486114,M
+1757,Mark Kaplan,mkapl,RSA,ZAF,/profile-bio/men/Mark_Kaplan/,,2016-01-12 00:32:24.385908,M
+1707,Martina Pawlik,mpawl,Germany,DEU,/profile-bio/women/Martina_Pawlik/,,2016-01-12 00:32:22.393702,F
+1720,Mario Rincon,mrinc,COL,COL,/profile-bio/men/Mario_Rincon/,,2016-01-12 00:32:22.838049,M
+1746,Molly Van Nostrand,mvann,United States,USA,/profile-bio/women/Molly_Van_Nostrand/,,2016-01-12 00:32:24.002209,F
+1731,Michael Westphal,mwest,GER,DEU,/profile-bio/men/Michael_Westphal/,,2016-01-12 00:32:23.222121,M
+1702,Pablo Albano,palba,ARG,ARG,/profile-bio/men/Pablo_Albano/,,2016-01-12 00:32:22.201704,M
+1699,Paul Annacone,panna,USA,USA,/profile-bio/men/Paul_Annacone/,,2016-01-12 00:32:22.105643,M
+1723,Pete Sampras,psamp,USA,USA,/profile-bio/men/Pete_Sampras/,,2016-01-12 00:32:22.933694,M
+1724,Roberto Azar,razar,ARG,ARG,/profile-bio/men/Roberto_Azar/,,2016-01-12 00:32:22.970153,M
+1727,Roberto Jabali,rjaba,BRA,BRA,/profile-bio/men/Roberto_Jabali/,,2016-01-12 00:32:23.06581,M
+1765,Robbie Weiss,rweis,USA,USA,/profile-bio/men/Robbie_Weiss/,,2016-01-12 00:32:24.662237,M
+1776,Stephane Grenier,sgren,FRA,FRA,/profile-bio/men/Stephane_Grenier/,,2016-01-12 00:32:25.058461,M
+1730,Silvia La Fratta,slafr,Italy,ITA,/profile-bio/women/Silvia_La_Fratta/,,2016-01-12 00:32:23.173723,F
+1744,Sandon Stolle,sstol,AUS,AUS,/profile-bio/men/Sandon_Stolle/,,2016-01-12 00:32:23.930485,M
+1704,Tom Nijssen,tnijs,NED,NLD,/profile-bio/men/Tom_Nijssen/,,2016-01-12 00:32:22.285851,M
+1804,Aaron Krickstein,akric,USA,USA,/profile-bio/men/Aaron_Krickstein/,,2016-01-12 00:32:26.054422,M
+1854,Andrei Pavel,apave,ROU,ROM,/profile-bio/men/Andrei_Pavel/,,2016-01-12 00:32:27.758664,M
+1798,Claire Wegink,cwegi,Netherlands,NLD,/profile-bio/women/Claire_Wegink/,,2016-01-12 00:32:25.838499,F
+1849,Dianne Balestrat,dbale,Australia,AUS,/profile-bio/women/Dianne_Balestrat/,,2016-01-12 00:32:27.602728,F
+1835,Danielle Jones,djone,Australia,AUS,/profile-bio/women/Danielle_Jones/,,2016-01-12 00:32:27.110926,F
+1814,Elizabeth Galphin,egalp,United States,USA,/profile-bio/women/Elizabeth_Galphin/,,2016-01-12 00:32:26.306395,F
+1830,Jimmy Arias,jaria,USA,USA,/profile-bio/men/Jimmy_Arias/,,2016-01-12 00:32:26.810762,M
+1807,Jennifer Goodling,jegood,United States,USA,/profile-bio/women/Jennifer_Goodling/,,2016-01-12 00:32:26.138363,F
+1800,Kyoko Nagatsuka,knaga,Japan,JPN,/profile-bio/women/Kyoko_Nagatsuka/,,2016-01-12 00:32:25.922426,F
+1791,Kumiko Okamoto,kokam,Japan,JPN,/profile-bio/women/Kumiko_Okamoto/,,2016-01-12 00:32:25.598211,F
+1860,Nicolas Pereira,npere,VEN,VEN,/profile-bio/men/Nicolas_Pereira/,,2016-01-12 00:32:28.011159,M
+1808,Paul Vojtischek,pvojt,GER,DEU,/profile-bio/men/Paul_Vojtischek/,,2016-01-12 00:32:26.162412,M
+1827,Ralph Kok,rkok,NED,NLD,/profile-bio/men/Ralph_Kok/,,2016-01-12 00:32:26.702794,M
+1847,Sandra Cecchini,scecc,Italy,ITA,/profile-bio/women/Sandra_Cecchini/,,2016-01-12 00:32:27.530821,F
+1825,Stephane Huet,shuet,FRA,FRA,/profile-bio/men/Stephane_Huet/,,2016-01-12 00:32:26.618406,M
+1836,Tarik Benhabiles,tbenh,FRA,FRA,/profile-bio/men/Tarik_Benhabiles/,,2016-01-12 00:32:27.147029,M
+1838,Tomas Nydahl,tnyda,SWE,SWE,/profile-bio/men/Tomas_Nydahl/,,2016-01-12 00:32:27.206673,M
+1815,Vicki Nelson-Dunbar,vnels,United States,USA,/profile-bio/women/Vicki_Nelson-Dunbar/,,2016-01-12 00:32:26.330453,F
+1923,Albert Chang,achan,CAN,CAN,/profile-bio/men/Albert_Chang/,,2016-01-12 00:32:30.195266,M
+1867,Agustin Garizzio,agari,ARG,ARG,/profile-bio/men/Agustin_Garizzio/,,2016-01-12 00:32:28.262767,M
+1903,Brian Joelson,bjoel,USA,USA,/profile-bio/men/Brian_Joelson/,,2016-01-12 00:32:29.595006,M
+1886,Barbara Potter,bpott,United States,USA,/profile-bio/women/Barbara_Potter/,,2016-01-12 00:32:28.983154,F
+1921,Emanuela Zardo,ezard,Switzerland,CHE,/profile-bio/women/Emanuela_Zardo/,,2016-01-12 00:32:30.123475,F
+1898,Goran Ivanisevic,givan,CRO,HRV,/profile-bio/men/Goran_Ivanisevic/,,2016-01-12 00:32:29.463334,M
+1913,Ines Gorrochategui,igorr,Argentina,ARG,/profile-bio/women/Ines_Gorrochategui/,,2016-01-12 00:32:29.847061,F
+1942,Jan Apell,japel,SWE,SWE,/profile-bio/men/Jan_Apell/,,2016-01-12 00:32:30.927289,M
+1941,Jacco Eltingh,jelti,NED,NLD,/profile-bio/men/Jacco_Eltingh/,,2016-01-12 00:32:30.891594,M
+1874,Jim Grabb,jgrab,USA,USA,/profile-bio/men/Jim_Grabb/,,2016-01-12 00:32:28.466882,M
+1934,John Ross,jross,USA,USA,/profile-bio/men/John_Ross/,,2016-01-12 00:32:30.555299,M
+1884,Leif Shiras,lshir,USA,USA,/profile-bio/men/Leif_Shiras/,,2016-01-12 00:32:28.911203,M
+1915,Magnus Larsson,mlars,SWE,SWE,/profile-bio/men/Magnus_Larsson/,,2016-01-12 00:32:29.907331,M
+1939,Richard Schmidt,rschm,USA,USA,/profile-bio/men/Richard_Schmidt/,,2016-01-12 00:32:30.723359,M
+1873,Sandra Cacic,scaci,United States,USA,/profile-bio/women/Sandra_Cacic/,,2016-01-12 00:32:28.442977,F
+1872,Sergio Cortes,scort,CHI,CHL,/profile-bio/men/Sergio_Cortes/,,2016-01-12 00:32:28.418922,M
+1902,Stefano Pescosolido,spesc,ITA,ITA,/profile-bio/men/Stefano_Pescosolido/,,2016-01-12 00:32:29.570937,M
+1892,Udo Riglewski,urigl,GER,DEU,/profile-bio/men/Udo_Riglewski/,,2016-01-12 00:32:29.235218,M
+2004,Barbara Romano,broma,Italy,ITA,/profile-bio/women/Barbara_Romano/,,2016-01-12 00:32:33.231897,F
+1991,Claudine Toleafoa,ctole,New Zealand,NZL,/profile-bio/women/Claudine_Toleafoa/,,2016-01-12 00:32:32.763763,F
+1990,Jay Berger,jberg,USA,USA,/profile-bio/men/Jay_Berger/,,2016-01-12 00:32:32.739636,M
+1999,Mario Tabares,mataba,CUB,CUB,/profile-bio/men/Mario_Tabares/,,2016-01-12 00:32:33.051935,M
+2011,Marianne Van Der Torre,mvand,Netherlands,NLD,/profile-bio/women/Marianne_Van_Der_Torre/,,2016-01-12 00:32:33.471913,F
+1951,Milen Velev,mvele,BUL,BGR,/profile-bio/men/Milen_Velev/,,2016-01-12 00:32:31.287423,M
+1967,Mark Woodforde,mwood,AUS,AUS,/profile-bio/men/Mark_Woodforde/,,2016-01-12 00:32:31.839465,M
+1945,Masako Yanagi,myana,Japan,JPN,/profile-bio/women/Masako_Yanagi/,,2016-01-12 00:32:31.059367,F
+2021,Pablo Campana,pcamp,ECU,ECU,/profile-bio/men/Pablo_Campana/,,2016-01-12 00:32:33.880167,M
+1995,Ricki Osterthun,roste,GER,DEU,/profile-bio/men/Ricki_Osterthun/,,2016-01-12 00:32:32.896026,M
+1966,Roger Rasheed,rrash,AUS,AUS,/profile-bio/men/Roger_Rasheed/,,2016-01-12 00:32:31.815445,M
+1980,Sabine Auer,sauer,Germany,DEU,/profile-bio/women/Sabine_Auer/,,2016-01-12 00:32:32.367761,F
+2013,Steve Guy,sguy,NZL,NZL,/profile-bio/men/Steve_Guy/,,2016-01-12 00:32:33.543849,M
+2008,Shahar Perkiss,sperk,ISR,ISR,/profile-bio/men/Shahar_Perkiss/,,2016-01-12 00:32:33.375849,M
+1961,Tim Mayotte,tmayo,USA,USA,/profile-bio/men/Tim_Mayotte/,,2016-01-12 00:32:31.647738,M
+2056,Alexander Mronz,amron,GER,DEU,/profile-bio/men/Alexander_Mronz/,,2016-01-12 00:32:35.080326,M
+2107,Brad Pearce,bpear,USA,USA,/profile-bio/men/Brad_Pearce/,,2016-01-12 00:32:37.01279,M
+2049,Bong-Soo Kim,bskim,KOR,KOR,/profile-bio/men/Bong-Soo_Kim/,,2016-01-12 00:32:34.82813,M
+2085,Cedric Pioline,cpiol,FRA,FRA,/profile-bio/men/Cedric_Pioline/,,2016-01-12 00:32:36.208433,M
+2098,David Macpherson,dmacp,AUS,AUS,/profile-bio/men/David_Macpherson/,,2016-01-12 00:32:36.65252,M
+2073,David Prinosil,dprin,GER,DEU,/profile-bio/men/David_Prinosil/,,2016-01-12 00:32:35.74064,M
+2044,Eddie Edwards,eedwa,RSA,ZAF,/profile-bio/men/Eddie_Edwards/,,2016-01-12 00:32:34.684136,M
+2080,Horst Skoff,hskof,AUT,AUT,/profile-bio/men/Horst_Skoff/,,2016-01-12 00:32:36.028477,M
+2039,Jimmy Brown,jbrow,USA,USA,/profile-bio/men/Jimmy_Brown/,,2016-01-12 00:32:34.49204,M
+2077,Julie Richardson,jrich,New Zealand,NZL,/profile-bio/women/Julie_Richardson/,,2016-01-12 00:32:35.920519,F
+2095,Melissa Brown,mbrow,United States,USA,/profile-bio/women/Melissa_Brown/,,2016-01-12 00:32:36.544401,F
+2048,Massimo Cierro,mcier,ITA,ITA,/profile-bio/men/Massimo_Cierro/,,2016-01-12 00:32:34.804223,M
+2042,Maria Strandlund,mstra,Sweden,SWE,/profile-bio/women/Maria_Strandlund/,,2016-01-12 00:32:34.612241,F
+2057,Pam Shriver,pshri,United States,USA,/profile-bio/women/Pam_Shriver/,,2016-01-12 00:32:35.128542,F
+2052,Robin White,rwhit,United States,USA,/profile-bio/women/Robin_White/,,2016-01-12 00:32:34.91227,F
+2099,Silke Frankl,sfran,Germany,DEU,/profile-bio/women/Silke_Frankl/,,2016-01-12 00:32:36.688838,F
+2096,Sherri Norris,snorr,United States,USA,/profile-bio/women/Sherri_Norris/,,2016-01-12 00:32:36.580419,F
+2061,Yone Kamio,ykami,Japan,JPN,/profile-bio/women/Yone_Kamio/,,2016-01-12 00:32:35.272297,F
+2110,Agustin Moreno,amore,MEX,MEX,/profile-bio/men/Agustin_Moreno/,,2016-01-12 00:32:37.145216,M
+2135,Charles Merzbacher,cmerz,USA,USA,/profile-bio/men/Charles_Merzbacher/,,2016-01-12 00:32:38.141015,M
+2151,Christina Singer,csing,Germany,DEU,/profile-bio/women/Christina_Singer/,,2016-01-12 00:32:38.75342,F
+2171,Dirk Dier,ddier,GER,DEU,/profile-bio/men/Dirk_Dier/,,2016-01-12 00:32:39.521419,M
+2146,Frank Dennhardt,fdenh,GER,DEU,/profile-bio/men/Frank_Dennhardt/,,2016-01-12 00:32:38.524936,M
+2162,Glenn Michibata,gmich,CAN,CAN,/profile-bio/men/Glenn_Michibata/,,2016-01-12 00:32:39.149164,M
+2188,John Boytim,jboyt,USA,USA,/profile-bio/men/John_Boytim/,,2016-01-12 00:32:40.145586,M
+2164,Jeri Ingram,jingr,United States,USA,/profile-bio/women/Jeri_Ingram/,,2016-01-12 00:32:39.220941,F
+2144,Kerry-Anne Guse,kagus,Australia,AUS,/profile-bio/women/Kerry-Anne_Guse/,,2016-01-12 00:32:38.464962,F
+2145,Louise Allen,lalle,United States,USA,/profile-bio/women/Louise_Allen/,,2016-01-12 00:32:38.50104,F
+2158,Laurence Tieleman,ltiel,ITA,ITA,/profile-bio/men/Laurence_Tieleman/,,2016-01-12 00:32:39.005528,M
+2166,Paulette Moreno,pmore,Hong Kong,HKG,/profile-bio/women/Paulette_Moreno/,,2016-01-12 00:32:39.31736,F
+2121,Peter Tramacchi,ptram,AUS,AUS,/profile-bio/men/Peter_Tramacchi/,,2016-01-12 00:32:37.600976,M
+2181,Rita Grande,rgran,Italy,ITA,/profile-bio/women/Rita_Grande/,,2016-01-12 00:32:39.881351,F
+2184,Sergi Bruguera,sbrug,ESP,ESP,/profile-bio/men/Sergi_Bruguera/,,2016-01-12 00:32:39.989248,M
+2174,Shannan McCarthy,shmcca,United States,USA,/profile-bio/women/Shannan_McCarthy/,,2016-01-12 00:32:39.629499,F
+2141,Sarah Loosemore,sloos,United Kingdom,GBR,/profile-bio/women/Sarah_Loosemore/,,2016-01-12 00:32:38.356851,F
+2136,Tobias Svantesson,tsvan,SWE,SWE,/profile-bio/men/Tobias_Svantesson/,,2016-01-12 00:32:38.17703,M
+2132,Veronika Martinek,vmart,Germany,DEU,/profile-bio/women/Veronika_Martinek/,,2016-01-12 00:32:38.020823,F
+2252,Alexandra Fusai,afusa,France,FRA,/profile-bio/women/Alexandra_Fusai/,,2016-01-12 00:32:42.341742,F
+2225,Christian Bergstrom,cberg,SWE,SWE,/profile-bio/men/Christian_Bergstrom/,,2016-01-12 00:32:41.429591,M
+2223,Darren Cahill,dcahi,AUS,AUS,/profile-bio/men/Darren_Cahill/,,2016-01-12 00:32:41.381387,M
+2251,Daniel Vacek,dvace,CZE,CZE,/profile-bio/men/Daniel_Vacek/,,2016-01-12 00:32:42.317624,M
+2265,Gustav Fichardt,gfich,RSA,ZAF,/profile-bio/men/Gustav_Fichardt/,,2016-01-12 00:32:42.749614,M
+2199,Greg Rusedski,gruse,GBR,GBR,/profile-bio/men/Greg_Rusedski/,,2016-01-12 00:32:40.541482,M
+2201,Hernan Gumy,hgumy,ARG,ARG,/profile-bio/men/Hernan_Gumy/,,2016-01-12 00:32:40.601427,M
+2191,Hiromi Nagano,hnaga,Japan,JPN,/profile-bio/women/Hiromi_Nagano/,,2016-01-12 00:32:40.241324,F
+2196,Hester Witvoet,hwitv,Netherlands,NLD,/profile-bio/women/Hester_Witvoet/,,2016-01-12 00:32:40.42122,F
+2264,Jordi Arrese,jarre,ESP,ESP,/profile-bio/men/Jordi_Arrese/,,2016-01-12 00:32:42.725683,M
+2202,Jason Cask,jcask,AUS,AUS,/profile-bio/men/Jason_Cask/,,2016-01-12 00:32:40.637308,M
+2209,Johan Kriek,jkrie,USA,USA,/profile-bio/men/Johan_Kriek/,,2016-01-12 00:32:40.889437,M
+2217,Katie Rickett,krick,United Kingdom,GBR,/profile-bio/women/Katie_Rickett/,,2016-01-12 00:32:41.201447,F
+2269,Luiz Mattar,lmatt,BRA,BRA,/profile-bio/men/Luiz_Mattar/,,2016-01-12 00:32:42.881643,M
+2270,Markus Zoecke,mzoec,GER,DEU,/profile-bio/men/Markus_Zoecke/,,2016-01-12 00:32:42.90582,M
+2226,Russell Barlow,rbarl,AUS,AUS,/profile-bio/men/Russell_Barlow/,,2016-01-12 00:32:41.453449,M
+2245,Steve Bryan,sbrya,USA,USA,/profile-bio/men/Steve_Bryan/,,2016-01-12 00:32:42.089458,M
+2254,Sean Cole,scole,GBR,GBR,/profile-bio/men/Sean_Cole/,,2016-01-12 00:32:42.389607,M
+2233,Sylvie Sabas,ssaba,France,FRA,/profile-bio/women/Sylvie_Sabas/,,2016-01-12 00:32:41.693396,F
+2257,Stephane Simian,ssimi,FRA,FRA,/profile-bio/men/Stephane_Simian/,,2016-01-12 00:32:42.497849,M
+2238,Scott Warner,swarn,USA,USA,/profile-bio/men/Scott_Warner/,,2016-01-12 00:32:41.837551,M
+2244,Tim Wilkison,timwilk,USA,USA,/profile-bio/men/Tim_Wilkison/,,2016-01-12 00:32:42.065565,M
+2230,Thierry Tulasne,ttula,FRA,FRA,/profile-bio/men/Thierry_Tulasne/,,2016-01-12 00:32:41.597259,M
+169,Andrea Farley,afarl,United States,USA,/profile-bio/women/Andrea_Farley/,,2016-01-12 00:31:26.197137,F
+146,Angelica Gavaldon,agava,Mexico,MEX,/profile-bio/women/Angelica_Gavaldon/,,2016-01-12 00:31:25.344786,F
+197,Angeliki Kanellopoulou,akane,Greece,GRC,/profile-bio/women/Angeliki_Kanellopoulou/,,2016-01-12 00:31:27.217129,F
+2314,Andrew McLean,amcle,AUS,AUS,/profile-bio/men/Andrew_McLean/,,2016-01-12 00:32:44.550075,M
+291,Andrei Medvedev,amedv,UKR,UKR,/profile-bio/men/Andrei_Medvedev/,,2016-01-12 00:31:30.373682,M
+2335,Alex O'Brien,aobri,USA,USA,/profile-bio/men/Alex_O,,2016-01-12 00:32:45.33045,M
+2337,Bryan Shelton,bshel,USA,USA,/profile-bio/men/Bryan_Shelton/,,2016-01-12 00:32:45.402273,M
+2293,Clinton Marsh,cmars,RSA,ZAF,/profile-bio/men/Clinton_Marsh/,,2016-01-12 00:32:43.794054,M
+106,Claudio Pistolesi,cpist,ITA,ITA,/profile-bio/men/Claudio_Pistolesi/,,2016-01-12 00:31:23.964419,M
+297,Cristina Torrens Valero,ctorr,Spain,ESP,/profile-bio/women/Cristina_Torrens_Valero/,,2016-01-12 00:31:30.517578,F
+2321,Carl Turich,cturi,AUS,AUS,/profile-bio/men/Carl_Turich/,,2016-01-12 00:32:44.802128,M
+2303,Dan Cassidy,dcass,USA,USA,/profile-bio/men/Dan_Cassidy/,,2016-01-12 00:32:44.177743,M
+337,David Felgate,dfelg,GBR,GBR,/profile-bio/men/David_Felgate/,,2016-01-12 00:31:32.03015,M
+2301,Donald Johnson,djohn,USA,USA,/profile-bio/men/Donald_Johnson/,,2016-01-12 00:32:44.129864,M
+179,Elizabeth Smylie,esmyl,Australia,AUS,/profile-bio/women/Elizabeth_Smylie/,,2016-01-12 00:31:26.593113,F
+247,Fabrice Santoro,fsant,FRA,FRA,/profile-bio/men/Fabrice_Santoro/,,2016-01-12 00:31:28.96951,M
+78,Gisele Miro,gmiro,Brazil,BRA,/profile-bio/women/Gisele_Miro/,,2016-01-12 00:31:22.968486,F
+311,Heather Ludloff,hludl,United States,USA,/profile-bio/women/Heather_Ludloff/,,2016-01-12 00:31:31.057379,F
+229,Hellas Ter Riet,hterr,Netherlands,NLD,/profile-bio/women/Hellas_Ter_Riet/,,2016-01-12 00:31:28.285325,F
+154,Jean-Philippe Fleurian,jpfle,FRA,FRA,/profile-bio/men/Jean-Philippe_Fleurian/,,2016-01-12 00:31:25.597283,M
+2288,Kristin Godridge,kgodr,Australia,AUS,/profile-bio/women/Kristin_Godridge/,,2016-01-12 00:32:43.578086,F
+267,Karen Hunter,khunt,United Kingdom,GBR,/profile-bio/women/Karen_Hunter/,,2016-01-12 00:31:29.545574,F
+2320,Laura Golarsa,lgola,Italy,ITA,/profile-bio/women/Laura_Golarsa/,,2016-01-12 00:32:44.778052,F
+2313,Meike Babel,mbabe,Germany,DEU,/profile-bio/women/Meike_Babel/,,2016-01-12 00:32:44.514014,F
+2318,Anne Hobbs,ahobb,United Kingdom,GBR,/profile-bio/women/Anne_Hobbs/,,2016-01-12 00:32:44.694142,F
+2108,Audra Keller,akell,United States,USA,/profile-bio/women/Audra_Keller/,,2016-01-12 00:32:37.048721,F
+2246,Akiko Kijimuta,akiji,Japan,JPN,/profile-bio/women/Akiko_Kijimuta/,,2016-01-12 00:32:42.113429,F
+2189,Brett Steven,bstev,NZL,NZL,/profile-bio/men/Brett_Steven/,,2016-01-12 00:32:40.169301,M
+2291,Bart Wuyts,bwuyt,BEL,BEL,/profile-bio/men/Bart_Wuyts/,,2016-01-12 00:32:43.722022,M
+2138,Carsten Arriens,carri,GER,DEU,/profile-bio/men/Carsten_Arriens/,,2016-01-12 00:32:38.236715,M
+2284,Chris Bailey,cbail,GBR,GBR,/profile-bio/men/Chris_Bailey/,,2016-01-12 00:32:43.433972,M
+2261,Clare Wood,clwood,United Kingdom,GBR,/profile-bio/women/Clare_Wood/,,2016-01-12 00:32:42.641897,F
+2353,Chanda Rubin,crubi,United States,USA,/profile-bio/women/Chanda_Rubin/,,2016-01-12 00:32:45.954267,F
+2112,Federica Haumuller,fhaum,Argentina,ARG,/profile-bio/women/Federica_Haumuller/,,2016-01-12 00:32:37.216852,F
+2173,Grant Connell,gconn,CAN,CAN,/profile-bio/men/Grant_Connell/,,2016-01-12 00:32:39.593333,M
+2148,Jamie Morgan,jmorg,AUS,AUS,/profile-bio/men/Jamie_Morgan/,,2016-01-12 00:32:38.597237,M
+2305,Judith Wiesner,jwies,Austria,AUT,/profile-bio/women/Judith_Wiesner/,,2016-01-12 00:32:44.250073,F
+2195,Marketa Kochta,mkoch,Germany,DEU,/profile-bio/women/Marketa_Kochta/,,2016-01-12 00:32:40.397192,F
+2224,Mercedes Paz,mpaz,Argentina,ARG,/profile-bio/women/Mercedes_Paz/,,2016-01-12 00:32:41.405348,F
+2236,Nadine Ercegovic,nerce,Croatia,HRV,/profile-bio/women/Nadine_Ercegovic/,,2016-01-12 00:32:41.765417,F
+2332,Patrik Kuhnen,pkuhn,GER,DEU,/profile-bio/men/Patrik_Kuhnen/,,2016-01-12 00:32:45.198123,M
+2163,Raffaella Reggi,rregg,Italy,ITA,/profile-bio/women/Raffaella_Reggi/,,2016-01-12 00:32:39.185104,F
+2206,Teresa Catlin,tcatl,United Kingdom,GBR,/profile-bio/women/Teresa_Catlin/,,2016-01-12 00:32:40.757257,F

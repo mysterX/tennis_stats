@@ -1,0 +1,13 @@
+<h1>Search for ranking players with no link to players</h1>
+
+<ul class="rpexception_types">
+  <% for rpe in @rpexception_types %>
+  <% if rpe[0][-1, 1] == ")" %>
+  <li>
+    <%= link_to(rpexceptions_path(rpe_type_id: rpe[1])) do %>
+      <strong><%= rpe[0] %></strong>
+    <% end %>
+  </li>
+  <% end %>
+  <% end %>
+</ul>

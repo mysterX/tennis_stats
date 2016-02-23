@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
   resources :players
+  resources :rpexceptions do
+    get :edit, :on => :collection
+  end
 
   get 'rankings/missing_player'
 
@@ -11,6 +14,8 @@ Rails.application.routes.draw do
   match '/players_intro' , to: 'players#index_intro'   , via: 'get'
   match '/about'  , to: 'static_pages#about'           , via: 'get'
   match '/contact', to: 'static_pages#contact'         , via: 'get'
+
+  match '/rpexceptions_intro', to: 'rpexceptions#index_intro', via: 'get'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

@@ -73,3 +73,6 @@ end
 
 # For CSV or Excel import/export
 gem 'roo'
+
+# For autocomplete
+gem 'jquery-ui-rails'

@@ -1,0 +1,27 @@
+<h1>Search for ranking players with no link to players</h1>
+
+<%= form_tag(rpexceptions_path, :method => "get", id: "search-form") do %>
+<p>
+  <%= label_tag "FIlter_Label", "Filter by exception type, or leave blank for
+  all exception types" %>
+  <%= select_tag "rpe_type_id", options_for_select(@rpexception_types, @sel_rpe_type),
+  include_blank: true %>
+  <%= submit_tag "Search", :name => nil %>
+</p>
+<% end %>
+
+<%= will_paginate @rpexceptions %>
+
+<ul class="rpexceptions">
+  <% for rpexception in @rpexceptions %>
+  <li>
+    <%= link_to(edit_rpexception_path(rpexception.id)) do %>
+      <strong><%= rpexception.ranking_player.player_name %></strong>
+    <% end %>
+    <%= rpexception.ranking_player.nationality %>
+    <%= rpexception.rpexception_type.desc %>
+  </li>
+  <% end %>
+</ul>
+
+<%= will_paginate %>
